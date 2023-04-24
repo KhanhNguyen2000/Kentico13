@@ -1,0 +1,1369 @@
+﻿<cms_versionhistory version="13.0">
+  <NewDataSet>
+    <cms_versionhistory>
+      <VersionHistoryID>264</VersionHistoryID>
+      <NodeSiteID>7</NodeSiteID>
+      <DocumentID>641</DocumentID>
+      <NodeXML>&lt;NewDataSet&gt;
+  &lt;DancingGoatCore_Article&gt;
+    &lt;NodeID&gt;137&lt;/NodeID&gt;
+    &lt;NodeAliasPath&gt;/Articles/Uu-dai/MO-TAI-KHOAN-NGAY,-TIEN-VE-LIEN-TAY&lt;/NodeAliasPath&gt;
+    &lt;NodeName&gt;MỞ TÀI KHOẢN NGAY, TIỀN VỀ LIỀN TAY&lt;/NodeName&gt;
+    &lt;NodeAlias&gt;MO-TAI-KHOAN-NGAY,-TIEN-VE-LIEN-TAY&lt;/NodeAlias&gt;
+    &lt;NodeClassID&gt;5507&lt;/NodeClassID&gt;
+    &lt;NodeParentID&gt;136&lt;/NodeParentID&gt;
+    &lt;NodeLevel&gt;3&lt;/NodeLevel&gt;
+    &lt;NodeACLID&gt;1&lt;/NodeACLID&gt;
+    &lt;NodeSiteID&gt;1&lt;/NodeSiteID&gt;
+    &lt;NodeGUID&gt;9b2e5c40-eaef-4338-a182-9e586b5541f4&lt;/NodeGUID&gt;
+    &lt;NodeOrder&gt;4&lt;/NodeOrder&gt;
+    &lt;NodeOwner&gt;75&lt;/NodeOwner&gt;
+    &lt;NodeHasChildren&gt;false&lt;/NodeHasChildren&gt;
+    &lt;NodeHasLinks&gt;false&lt;/NodeHasLinks&gt;
+    &lt;NodeOriginalNodeID&gt;137&lt;/NodeOriginalNodeID&gt;
+    &lt;NodeIsACLOwner&gt;false&lt;/NodeIsACLOwner&gt;
+    &lt;DocumentID&gt;125&lt;/DocumentID&gt;
+    &lt;DocumentName&gt;MỞ TÀI KHOẢN NGAY, TIỀN VỀ LIỀN TAY&lt;/DocumentName&gt;
+    &lt;DocumentModifiedWhen&gt;2023-04-17T19:02:44.3464588+10:00&lt;/DocumentModifiedWhen&gt;
+    &lt;DocumentModifiedByUserID&gt;75&lt;/DocumentModifiedByUserID&gt;
+    &lt;DocumentForeignKeyValue&gt;20&lt;/DocumentForeignKeyValue&gt;
+    &lt;DocumentCreatedByUserID&gt;75&lt;/DocumentCreatedByUserID&gt;
+    &lt;DocumentCreatedWhen&gt;2023-04-17T18:25:38.2093592+10:00&lt;/DocumentCreatedWhen&gt;
+    &lt;DocumentCheckedOutVersionHistoryID&gt;47&lt;/DocumentCheckedOutVersionHistoryID&gt;
+    &lt;DocumentPublishedVersionHistoryID&gt;47&lt;/DocumentPublishedVersionHistoryID&gt;
+    &lt;DocumentWorkflowStepID&gt;5886&lt;/DocumentWorkflowStepID&gt;
+    &lt;DocumentPublishFrom&gt;2023-03-28T18:25:03+11:00&lt;/DocumentPublishFrom&gt;
+    &lt;DocumentCulture&gt;en-US&lt;/DocumentCulture&gt;
+    &lt;DocumentNodeID&gt;137&lt;/DocumentNodeID&gt;
+    &lt;DocumentContent /&gt;
+    &lt;DocumentLastVersionNumber&gt;1.0&lt;/DocumentLastVersionNumber&gt;
+    &lt;DocumentIsArchived&gt;false&lt;/DocumentIsArchived&gt;
+    &lt;DocumentGUID&gt;2a3fdbc2-974e-4f1d-ae09-37431304df28&lt;/DocumentGUID&gt;
+    &lt;DocumentWorkflowCycleGUID&gt;ece74d37-cac9-41e5-b4ad-d3074643365a&lt;/DocumentWorkflowCycleGUID&gt;
+    &lt;DocumentCanBePublished&gt;true&lt;/DocumentCanBePublished&gt;
+    &lt;DocumentPageBuilderWidgets /&gt;
+    &lt;DocumentPageTemplateConfiguration&gt;{"identifier":"DancingGoat.Article","configurationIdentifier":"7dd9abbc-caa1-47ec-a523-5fd42cbf4069","properties":null}&lt;/DocumentPageTemplateConfiguration&gt;
+    &lt;DocumentShowInMenu&gt;false&lt;/DocumentShowInMenu&gt;
+    &lt;ArticleID&gt;20&lt;/ArticleID&gt;
+    &lt;ArticleTitle&gt;MỞ TÀI KHOẢN NGAY, TIỀN VỀ LIỀN TAY&lt;/ArticleTitle&gt;
+    &lt;ArticleSummary&gt;Tặng 50.000 đồng vào tài khoản thanh toán tự động ngay sau khi khách hàng đã mở tài khoản thanh toán và đăng ký Eximbank EDigi thành công bằng hình thức định danh trực tuyến eKYC.&lt;/ArticleSummary&gt;
+    &lt;ArticleText&gt;&amp;lt;h3&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="~/getmedia/83248d21-dc5d-493f-8b09-9dce6ff8738f/2023-04-05_eKYC_Banner-web.jpg" target="_self"&amp;gt;&amp;lt;img alt="" src="~/getmedia/83248d21-dc5d-493f-8b09-9dce6ff8738f/2023-04-05_eKYC_Banner-web.jpg" /&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/h3&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;1. Thời gian khuyến mại:&amp;lt;/strong&amp;gt; Từ ngày 28/03/2023 đến hết ngày 31/12/2023.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+&amp;lt;strong&amp;gt;2. Đối tượng khuyến mại:&amp;lt;/strong&amp;gt; Khách hàng cá nhân mở tài khoản thanh toán bằng hình thức định danh trực tuyến eKYC.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+&amp;lt;strong&amp;gt;3. Hình thức khuyến mại:&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Tặng 50.000 đồng vào tài khoản thanh toán tự động ngay sau khi khách hàng đã mở tài khoản thanh toán và đăng ký Eximbank EDigi thành công bằng hình thức định danh trực tuyến eKYC.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+&amp;lt;strong&amp;gt;*Điều kiện:&amp;amp;nbsp;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+-&amp;amp;nbsp;&amp;amp;nbsp; &amp;amp;nbsp;Áp dụng cho các Khách hàng cá nhân lần đầu đăng ký, kích hoạt thành công trên ứng dụng Eximbank EDigi bằng hình thức định danh trực tuyến eKYC.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+-&amp;amp;nbsp;&amp;amp;nbsp; &amp;amp;nbsp;Mỗi khách hàng được nhận thưởng tối đa 01 lần trong suốt thời gian diễn ra chương trình.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+-&amp;amp;nbsp;&amp;amp;nbsp; &amp;amp;nbsp;Khách hàng được tặng thưởng khi mở tài khoản thanh toán thành công và đăng ký Eximbank EDigi thành công.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Mọi thắc mắc, khách hàng vui lòng liên hệ các Chi nhánh/Phòng giao dịch của Eximbank hoặc tổng đài Dịch vụ đa kênh 24/7 số 1800 1199&amp;lt;/p&amp;gt;
+&lt;/ArticleText&gt;
+    &lt;ClassName&gt;DancingGoatCore.Article&lt;/ClassName&gt;
+  &lt;/DancingGoatCore_Article&gt;
+&lt;/NewDataSet&gt;</NodeXML>
+      <ModifiedByUserID>53</ModifiedByUserID>
+      <ModifiedWhen>2023-04-17T16:25:19.4366096+07:00</ModifiedWhen>
+      <VersionNumber>1.0</VersionNumber>
+      <VersionComment></VersionComment>
+      <ToBePublished>false</ToBePublished>
+      <PublishTo>2023-04-17T16:31:54.6304719+07:00</PublishTo>
+      <WasPublishedFrom>2023-04-17T16:25:19.4366096+07:00</WasPublishedFrom>
+      <WasPublishedTo>2023-04-17T16:31:54.6304719+07:00</WasPublishedTo>
+      <VersionDocumentName>MỞ TÀI KHOẢN NGAY, TIỀN VỀ LIỀN TAY</VersionDocumentName>
+      <VersionClassID>5534</VersionClassID>
+      <VersionWorkflowID>213</VersionWorkflowID>
+      <VersionWorkflowStepID>5886</VersionWorkflowStepID>
+      <VersionNodeAliasPath>/Articles/Uu-dai/MO-TAI-KHOAN-NGAY,-TIEN-VE-LIEN-TAY</VersionNodeAliasPath>
+    </cms_versionhistory>
+    <cms_versionhistory>
+      <VersionHistoryID>265</VersionHistoryID>
+      <NodeSiteID>7</NodeSiteID>
+      <DocumentID>641</DocumentID>
+      <NodeXML>&lt;NewDataSet&gt;
+  &lt;DancingGoatCore_Article&gt;
+    &lt;NodeID&gt;137&lt;/NodeID&gt;
+    &lt;NodeAliasPath&gt;/Articles/Uu-dai/MO-TAI-KHOAN-NGAY,-TIEN-VE-LIEN-TAY&lt;/NodeAliasPath&gt;
+    &lt;NodeName&gt;MỞ TÀI KHOẢN NGAY, TIỀN VỀ LIỀN TAY&lt;/NodeName&gt;
+    &lt;NodeAlias&gt;MO-TAI-KHOAN-NGAY,-TIEN-VE-LIEN-TAY&lt;/NodeAlias&gt;
+    &lt;NodeClassID&gt;5507&lt;/NodeClassID&gt;
+    &lt;NodeParentID&gt;136&lt;/NodeParentID&gt;
+    &lt;NodeLevel&gt;3&lt;/NodeLevel&gt;
+    &lt;NodeACLID&gt;1&lt;/NodeACLID&gt;
+    &lt;NodeSiteID&gt;1&lt;/NodeSiteID&gt;
+    &lt;NodeGUID&gt;9b2e5c40-eaef-4338-a182-9e586b5541f4&lt;/NodeGUID&gt;
+    &lt;NodeOrder&gt;4&lt;/NodeOrder&gt;
+    &lt;NodeOwner&gt;75&lt;/NodeOwner&gt;
+    &lt;NodeHasChildren&gt;false&lt;/NodeHasChildren&gt;
+    &lt;NodeHasLinks&gt;false&lt;/NodeHasLinks&gt;
+    &lt;NodeOriginalNodeID&gt;137&lt;/NodeOriginalNodeID&gt;
+    &lt;NodeIsACLOwner&gt;false&lt;/NodeIsACLOwner&gt;
+    &lt;DocumentID&gt;125&lt;/DocumentID&gt;
+    &lt;DocumentName&gt;MỞ TÀI KHOẢN NGAY, TIỀN VỀ LIỀN TAY&lt;/DocumentName&gt;
+    &lt;DocumentModifiedWhen&gt;2023-04-17T19:25:20.253419+10:00&lt;/DocumentModifiedWhen&gt;
+    &lt;DocumentModifiedByUserID&gt;75&lt;/DocumentModifiedByUserID&gt;
+    &lt;DocumentForeignKeyValue&gt;20&lt;/DocumentForeignKeyValue&gt;
+    &lt;DocumentCreatedByUserID&gt;75&lt;/DocumentCreatedByUserID&gt;
+    &lt;DocumentCreatedWhen&gt;2023-04-17T18:25:38.2093592+10:00&lt;/DocumentCreatedWhen&gt;
+    &lt;DocumentCheckedOutVersionHistoryID&gt;48&lt;/DocumentCheckedOutVersionHistoryID&gt;
+    &lt;DocumentPublishedVersionHistoryID&gt;47&lt;/DocumentPublishedVersionHistoryID&gt;
+    &lt;DocumentWorkflowStepID&gt;5885&lt;/DocumentWorkflowStepID&gt;
+    &lt;DocumentPublishFrom&gt;2023-03-28T18:25:03+11:00&lt;/DocumentPublishFrom&gt;
+    &lt;DocumentCulture&gt;en-US&lt;/DocumentCulture&gt;
+    &lt;DocumentNodeID&gt;137&lt;/DocumentNodeID&gt;
+    &lt;DocumentContent /&gt;
+    &lt;DocumentLastVersionNumber&gt;1.1&lt;/DocumentLastVersionNumber&gt;
+    &lt;DocumentIsArchived&gt;false&lt;/DocumentIsArchived&gt;
+    &lt;DocumentGUID&gt;2a3fdbc2-974e-4f1d-ae09-37431304df28&lt;/DocumentGUID&gt;
+    &lt;DocumentWorkflowCycleGUID&gt;e388260b-17d1-42ba-9f62-8def3b915f02&lt;/DocumentWorkflowCycleGUID&gt;
+    &lt;DocumentCanBePublished&gt;true&lt;/DocumentCanBePublished&gt;
+    &lt;DocumentPageBuilderWidgets /&gt;
+    &lt;DocumentPageTemplateConfiguration&gt;{"identifier":"DancingGoat.Article","configurationIdentifier":"7dd9abbc-caa1-47ec-a523-5fd42cbf4069","properties":null}&lt;/DocumentPageTemplateConfiguration&gt;
+    &lt;DocumentShowInMenu&gt;false&lt;/DocumentShowInMenu&gt;
+    &lt;ArticleID&gt;20&lt;/ArticleID&gt;
+    &lt;ArticleTitle&gt;MỞ TÀI KHOẢN NGAY, TIỀN VỀ LIỀN TAY&lt;/ArticleTitle&gt;
+    &lt;ArticleSummary&gt;Tặng 50.000 đồng vào tài khoản thanh toán tự động ngay sau khi khách hàng đã mở tài khoản thanh toán và đăng ký Eximbank EDigi thành công bằng hình thức định danh trực tuyến eKYC.&lt;/ArticleSummary&gt;
+    &lt;ArticleText&gt;&amp;lt;h3&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="~/getmedia/83248d21-dc5d-493f-8b09-9dce6ff8738f/2023-04-05_eKYC_Banner-web.jpg" target="_self"&amp;gt;&amp;lt;img alt="" src="~/getmedia/83248d21-dc5d-493f-8b09-9dce6ff8738f/2023-04-05_eKYC_Banner-web.jpg" /&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/h3&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;1. Thời gian khuyến mại:&amp;lt;/strong&amp;gt; Từ ngày 28/03/2023 đến hết ngày 31/12/2023.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+&amp;lt;strong&amp;gt;2. Đối tượng khuyến mại:&amp;lt;/strong&amp;gt; Khách hàng cá nhân mở tài khoản thanh toán bằng hình thức định danh trực tuyến eKYC.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+&amp;lt;strong&amp;gt;3. Hình thức khuyến mại:&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Tặng 50.000 đồng vào tài khoản thanh toán tự động ngay sau khi khách hàng đã mở tài khoản thanh toán và đăng ký Eximbank EDigi thành công bằng hình thức định danh trực tuyến eKYC.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+&amp;lt;strong&amp;gt;*Điều kiện:&amp;amp;nbsp;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+-&amp;amp;nbsp;&amp;amp;nbsp; &amp;amp;nbsp;Áp dụng cho các Khách hàng cá nhân lần đầu đăng ký, kích hoạt thành công trên ứng dụng Eximbank EDigi bằng hình thức định danh trực tuyến eKYC.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+-&amp;amp;nbsp;&amp;amp;nbsp; &amp;amp;nbsp;Mỗi khách hàng được nhận thưởng tối đa 01 lần trong suốt thời gian diễn ra chương trình.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+-&amp;amp;nbsp;&amp;amp;nbsp; &amp;amp;nbsp;Khách hàng được tặng thưởng khi mở tài khoản thanh toán thành công và đăng ký Eximbank EDigi thành công.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Mọi thắc mắc, khách hàng vui lòng liên hệ các Chi nhánh/Phòng giao dịch của Eximbank hoặc tổng đài Dịch vụ đa kênh 24/7 số 1800 1199&amp;lt;/p&amp;gt;
+&lt;/ArticleText&gt;
+    &lt;ClassName&gt;DancingGoatCore.Article&lt;/ClassName&gt;
+  &lt;/DancingGoatCore_Article&gt;
+&lt;/NewDataSet&gt;</NodeXML>
+      <ModifiedByUserID>53</ModifiedByUserID>
+      <ModifiedWhen>2023-04-17T16:25:20.2690454+07:00</ModifiedWhen>
+      <VersionNumber>1.1</VersionNumber>
+      <VersionComment></VersionComment>
+      <ToBePublished>false</ToBePublished>
+      <PublishFrom>2023-03-28T14:25:03+07:00</PublishFrom>
+      <VersionDocumentName>MỞ TÀI KHOẢN NGAY, TIỀN VỀ LIỀN TAY</VersionDocumentName>
+      <VersionClassID>5534</VersionClassID>
+      <VersionWorkflowID>213</VersionWorkflowID>
+      <VersionWorkflowStepID>5885</VersionWorkflowStepID>
+      <VersionNodeAliasPath>/Articles/Uu-dai/MO-TAI-KHOAN-NGAY,-TIEN-VE-LIEN-TAY</VersionNodeAliasPath>
+    </cms_versionhistory>
+    <cms_versionhistory>
+      <VersionHistoryID>266</VersionHistoryID>
+      <NodeSiteID>7</NodeSiteID>
+      <DocumentID>641</DocumentID>
+      <NodeXML>&lt;NewDataSet&gt;
+  &lt;DancingGoatCore_Article&gt;
+    &lt;NodeID&gt;137&lt;/NodeID&gt;
+    &lt;NodeAliasPath&gt;/Articles/Uu-dai/MO-TAI-KHOAN-NGAY,-TIEN-VE-LIEN-TAY&lt;/NodeAliasPath&gt;
+    &lt;NodeName&gt;MỞ TÀI KHOẢN NGAY, TIỀN VỀ LIỀN TAY&lt;/NodeName&gt;
+    &lt;NodeAlias&gt;MO-TAI-KHOAN-NGAY,-TIEN-VE-LIEN-TAY&lt;/NodeAlias&gt;
+    &lt;NodeClassID&gt;5507&lt;/NodeClassID&gt;
+    &lt;NodeParentID&gt;136&lt;/NodeParentID&gt;
+    &lt;NodeLevel&gt;3&lt;/NodeLevel&gt;
+    &lt;NodeACLID&gt;1&lt;/NodeACLID&gt;
+    &lt;NodeSiteID&gt;1&lt;/NodeSiteID&gt;
+    &lt;NodeGUID&gt;9b2e5c40-eaef-4338-a182-9e586b5541f4&lt;/NodeGUID&gt;
+    &lt;NodeOrder&gt;4&lt;/NodeOrder&gt;
+    &lt;NodeOwner&gt;75&lt;/NodeOwner&gt;
+    &lt;NodeHasChildren&gt;false&lt;/NodeHasChildren&gt;
+    &lt;NodeHasLinks&gt;false&lt;/NodeHasLinks&gt;
+    &lt;NodeOriginalNodeID&gt;137&lt;/NodeOriginalNodeID&gt;
+    &lt;NodeIsACLOwner&gt;false&lt;/NodeIsACLOwner&gt;
+    &lt;DocumentID&gt;125&lt;/DocumentID&gt;
+    &lt;DocumentName&gt;MỞ TÀI KHOẢN NGAY, TIỀN VỀ LIỀN TAY&lt;/DocumentName&gt;
+    &lt;DocumentModifiedWhen&gt;2023-04-17T19:25:53.9174671+10:00&lt;/DocumentModifiedWhen&gt;
+    &lt;DocumentModifiedByUserID&gt;75&lt;/DocumentModifiedByUserID&gt;
+    &lt;DocumentForeignKeyValue&gt;20&lt;/DocumentForeignKeyValue&gt;
+    &lt;DocumentCreatedByUserID&gt;75&lt;/DocumentCreatedByUserID&gt;
+    &lt;DocumentCreatedWhen&gt;2023-04-17T18:25:38.2093592+10:00&lt;/DocumentCreatedWhen&gt;
+    &lt;DocumentCheckedOutVersionHistoryID&gt;49&lt;/DocumentCheckedOutVersionHistoryID&gt;
+    &lt;DocumentPublishedVersionHistoryID&gt;47&lt;/DocumentPublishedVersionHistoryID&gt;
+    &lt;DocumentWorkflowStepID&gt;5885&lt;/DocumentWorkflowStepID&gt;
+    &lt;DocumentPublishFrom&gt;2023-03-28T18:25:03+11:00&lt;/DocumentPublishFrom&gt;
+    &lt;DocumentCulture&gt;en-US&lt;/DocumentCulture&gt;
+    &lt;DocumentNodeID&gt;137&lt;/DocumentNodeID&gt;
+    &lt;DocumentContent /&gt;
+    &lt;DocumentLastVersionNumber&gt;1.2&lt;/DocumentLastVersionNumber&gt;
+    &lt;DocumentIsArchived&gt;false&lt;/DocumentIsArchived&gt;
+    &lt;DocumentGUID&gt;2a3fdbc2-974e-4f1d-ae09-37431304df28&lt;/DocumentGUID&gt;
+    &lt;DocumentWorkflowCycleGUID&gt;e388260b-17d1-42ba-9f62-8def3b915f02&lt;/DocumentWorkflowCycleGUID&gt;
+    &lt;DocumentCanBePublished&gt;true&lt;/DocumentCanBePublished&gt;
+    &lt;DocumentPageBuilderWidgets /&gt;
+    &lt;DocumentPageTemplateConfiguration&gt;{"identifier":"DancingGoat.Article","configurationIdentifier":"7dd9abbc-caa1-47ec-a523-5fd42cbf4069","properties":null}&lt;/DocumentPageTemplateConfiguration&gt;
+    &lt;DocumentShowInMenu&gt;false&lt;/DocumentShowInMenu&gt;
+    &lt;ArticleID&gt;20&lt;/ArticleID&gt;
+    &lt;ArticleTitle&gt;MỞ TÀI KHOẢN NGAY, TIỀN VỀ LIỀN TAY&lt;/ArticleTitle&gt;
+    &lt;ArticleSummary&gt;Tặng 50.000 đồng vào tài khoản thanh toán tự động ngay sau khi khách hàng đã mở tài khoản thanh toán và đăng ký Eximbank EDigi thành công bằng hình thức định danh trực tuyến eKYC.&lt;/ArticleSummary&gt;
+    &lt;ArticleText&gt;&amp;lt;h3&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="~/getmedia/83248d21-dc5d-493f-8b09-9dce6ff8738f/2023-04-05_eKYC_Banner-web.jpg" target="_self"&amp;gt;&amp;lt;img alt="" src="~/getmedia/83248d21-dc5d-493f-8b09-9dce6ff8738f/2023-04-05_eKYC_Banner-web.jpg" /&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/h3&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;1. Thời gian khuyến mại:&amp;lt;/strong&amp;gt; Từ ngày 28/03/2023 đến hết ngày 31/12/2023.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+&amp;lt;strong&amp;gt;2. Đối tượng khuyến mại:&amp;lt;/strong&amp;gt; Khách hàng cá nhân mở tài khoản thanh toán bằng hình thức định danh trực tuyến eKYC.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+&amp;lt;strong&amp;gt;3. Hình thức khuyến mại:&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Tặng 50.000 đồng vào tài khoản thanh toán tự động ngay sau khi khách hàng đã mở tài khoản thanh toán và đăng ký Eximbank EDigi thành công bằng hình thức định danh trực tuyến eKYC.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+&amp;lt;strong&amp;gt;*Điều kiện:&amp;amp;nbsp;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+-&amp;amp;nbsp;&amp;amp;nbsp; &amp;amp;nbsp;Áp dụng cho các Khách hàng cá nhân lần đầu đăng ký, kích hoạt thành công trên ứng dụng Eximbank EDigi bằng hình thức định danh trực tuyến eKYC.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+-&amp;amp;nbsp;&amp;amp;nbsp; &amp;amp;nbsp;Mỗi khách hàng được nhận thưởng tối đa 01 lần trong suốt thời gian diễn ra chương trình.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+-&amp;amp;nbsp;&amp;amp;nbsp; &amp;amp;nbsp;Khách hàng được tặng thưởng khi mở tài khoản thanh toán thành công và đăng ký Eximbank EDigi thành công.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Mọi thắc mắc, khách hàng vui lòng liên hệ các Chi nhánh/Phòng giao dịch của Eximbank hoặc tổng đài Dịch vụ đa kênh 24/7 số 1800 1199&amp;lt;/p&amp;gt;
+&lt;/ArticleText&gt;
+    &lt;ClassName&gt;DancingGoatCore.Article&lt;/ClassName&gt;
+  &lt;/DancingGoatCore_Article&gt;
+&lt;/NewDataSet&gt;</NodeXML>
+      <ModifiedByUserID>53</ModifiedByUserID>
+      <ModifiedWhen>2023-04-17T16:25:53.9330917+07:00</ModifiedWhen>
+      <VersionNumber>2.0</VersionNumber>
+      <VersionComment></VersionComment>
+      <ToBePublished>false</ToBePublished>
+      <PublishFrom>2023-03-28T14:25:03+07:00</PublishFrom>
+      <PublishTo>2023-04-17T16:36:19.7477307+07:00</PublishTo>
+      <WasPublishedFrom>2023-04-17T16:31:54.6304719+07:00</WasPublishedFrom>
+      <WasPublishedTo>2023-04-17T16:36:19.7477307+07:00</WasPublishedTo>
+      <VersionDocumentName>MỞ TÀI KHOẢN NGAY, TIỀN VỀ LIỀN TAY</VersionDocumentName>
+      <VersionClassID>5534</VersionClassID>
+      <VersionWorkflowID>213</VersionWorkflowID>
+      <VersionWorkflowStepID>5886</VersionWorkflowStepID>
+      <VersionNodeAliasPath>/Articles/Uu-dai/MO-TAI-KHOAN-NGAY,-TIEN-VE-LIEN-TAY</VersionNodeAliasPath>
+    </cms_versionhistory>
+    <cms_versionhistory>
+      <VersionHistoryID>267</VersionHistoryID>
+      <NodeSiteID>7</NodeSiteID>
+      <DocumentID>645</DocumentID>
+      <NodeXML>&lt;NewDataSet&gt;
+  &lt;DancingGoatCore_Article&gt;
+    &lt;NodeID&gt;143&lt;/NodeID&gt;
+    &lt;NodeAliasPath&gt;/Articles/Uu-dai/CUNG-EXIMBANK-EDIGI-NAP-PHONE-PHUT-CHOC,-UU-DAI-CU&lt;/NodeAliasPath&gt;
+    &lt;NodeName&gt;CÙNG EXIMBANK EDIGI NẠP PHONE PHÚT CHỐC, ƯU ĐÃI CỰC SỐC GIẢM 2%&lt;/NodeName&gt;
+    &lt;NodeAlias&gt;CUNG-EXIMBANK-EDIGI-NAP-PHONE-PHUT-CHOC,-UU-DAI-CU&lt;/NodeAlias&gt;
+    &lt;NodeClassID&gt;5507&lt;/NodeClassID&gt;
+    &lt;NodeParentID&gt;136&lt;/NodeParentID&gt;
+    &lt;NodeLevel&gt;3&lt;/NodeLevel&gt;
+    &lt;NodeACLID&gt;1&lt;/NodeACLID&gt;
+    &lt;NodeSiteID&gt;1&lt;/NodeSiteID&gt;
+    &lt;NodeGUID&gt;ba8fd461-a5a9-4ee1-85e5-cace64677e60&lt;/NodeGUID&gt;
+    &lt;NodeOrder&gt;1&lt;/NodeOrder&gt;
+    &lt;NodeOwner&gt;75&lt;/NodeOwner&gt;
+    &lt;NodeHasChildren&gt;false&lt;/NodeHasChildren&gt;
+    &lt;NodeHasLinks&gt;false&lt;/NodeHasLinks&gt;
+    &lt;NodeOriginalNodeID&gt;143&lt;/NodeOriginalNodeID&gt;
+    &lt;NodeIsACLOwner&gt;false&lt;/NodeIsACLOwner&gt;
+    &lt;DocumentID&gt;131&lt;/DocumentID&gt;
+    &lt;DocumentName&gt;CÙNG EXIMBANK EDIGI NẠP PHONE PHÚT CHỐC, ƯU ĐÃI CỰC SỐC GIẢM 2%&lt;/DocumentName&gt;
+    &lt;DocumentModifiedWhen&gt;2023-04-17T19:30:03.7925472+10:00&lt;/DocumentModifiedWhen&gt;
+    &lt;DocumentModifiedByUserID&gt;75&lt;/DocumentModifiedByUserID&gt;
+    &lt;DocumentForeignKeyValue&gt;26&lt;/DocumentForeignKeyValue&gt;
+    &lt;DocumentCreatedByUserID&gt;75&lt;/DocumentCreatedByUserID&gt;
+    &lt;DocumentCreatedWhen&gt;2023-04-17T19:30:03.7925472+10:00&lt;/DocumentCreatedWhen&gt;
+    &lt;DocumentCheckedOutVersionHistoryID&gt;53&lt;/DocumentCheckedOutVersionHistoryID&gt;
+    &lt;DocumentWorkflowStepID&gt;5885&lt;/DocumentWorkflowStepID&gt;
+    &lt;DocumentPublishFrom&gt;2023-04-04T19:29:08+10:00&lt;/DocumentPublishFrom&gt;
+    &lt;DocumentPublishTo&gt;2023-12-31T19:29:16+11:00&lt;/DocumentPublishTo&gt;
+    &lt;DocumentCulture&gt;en-US&lt;/DocumentCulture&gt;
+    &lt;DocumentNodeID&gt;143&lt;/DocumentNodeID&gt;
+    &lt;DocumentContent /&gt;
+    &lt;DocumentLastVersionNumber&gt;0.1&lt;/DocumentLastVersionNumber&gt;
+    &lt;DocumentIsArchived&gt;false&lt;/DocumentIsArchived&gt;
+    &lt;DocumentGUID&gt;587d42a0-31b9-4188-bb75-f1a46ccb647d&lt;/DocumentGUID&gt;
+    &lt;DocumentWorkflowCycleGUID&gt;f0120a02-99bf-4a38-9cd3-89412c2e5228&lt;/DocumentWorkflowCycleGUID&gt;
+    &lt;DocumentCanBePublished&gt;false&lt;/DocumentCanBePublished&gt;
+    &lt;DocumentPageTemplateConfiguration&gt;{"identifier":"DancingGoat.Article","properties":null}&lt;/DocumentPageTemplateConfiguration&gt;
+    &lt;DocumentShowInMenu&gt;false&lt;/DocumentShowInMenu&gt;
+    &lt;ArticleID&gt;26&lt;/ArticleID&gt;
+    &lt;ArticleTitle&gt;CÙNG EXIMBANK EDIGI NẠP PHONE PHÚT CHỐC, ƯU ĐÃI CỰC SỐC GIẢM 2%&lt;/ArticleTitle&gt;
+    &lt;ArticleSummary&gt;Khách hàng cá nhân thực hiện giao dịch nạp tiền điện thoại di động VnToup trên Eximbank EDigi.&lt;/ArticleSummary&gt;
+    &lt;ArticleText&gt;&amp;lt;br /&amp;gt;
+Thời gian triển khai: Từ 04/04/2023 đến 31/12/2023&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Đối tượng áp dụng:&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Khách hàng cá nhân thực hiện giao dịch nạp tiền điện thoại di động VnToup trên Eximbank EDigi.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Ưu đãi áp dụng:&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Khách hàng nhận giảm giá 2% trên số tiền nạp tiền di động.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Hãy đăng ký sử dụng dịch vụ Eximbank EDigi ngay hôm nay để trải nghiệm đa dạng các dịch vụ tài chính như:&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Gửi Tiết kiệm Online, nhận nhiều quà tặng hấp dẫn, giao tận nơi&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Chuyển tiền với hạn mức cao 5 tỷ/ngày. Riêng gói Online Banking VIP hạn mức lên đến 30 tỷ/ngày.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Miễn phí nhận tin nhắn biến động số dư OTT trên Eximbank EDigi&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Miễn phí chuyển tiền Online, với gói &amp;amp;ldquo;Sử dụng combo, Miễn phí chuyển tiền Online&amp;amp;rdquo; chỉ cần duy trì tối thiểu 500.000 đồng trong tài khoản.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Đa dạng các dịch vụ thanh toán: thanh toán tiền điện, tiền nước, mua vé máy bay, đóng học phí, nộp tiền chứng khoán, đóng tiền cước viễn thông, &amp;amp;hellip;.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Để biết thêm chi tiết Quý khách vui lòng liên hệ 18001199.&lt;/ArticleText&gt;
+    &lt;ClassName&gt;DancingGoatCore.Article&lt;/ClassName&gt;
+  &lt;/DancingGoatCore_Article&gt;
+&lt;/NewDataSet&gt;</NodeXML>
+      <ModifiedByUserID>53</ModifiedByUserID>
+      <ModifiedWhen>2023-04-17T16:30:04.7929157+07:00</ModifiedWhen>
+      <VersionNumber>1.0</VersionNumber>
+      <VersionComment></VersionComment>
+      <ToBePublished>false</ToBePublished>
+      <PublishFrom>2023-04-04T16:29:08+07:00</PublishFrom>
+      <PublishTo>2023-04-17T16:36:30.6125011+07:00</PublishTo>
+      <WasPublishedFrom>2023-04-17T16:31:42.0497075+07:00</WasPublishedFrom>
+      <WasPublishedTo>2023-04-17T16:36:30.6125011+07:00</WasPublishedTo>
+      <VersionDocumentName>CÙNG EXIMBANK EDIGI NẠP PHONE PHÚT CHỐC, ƯU ĐÃI CỰC SỐC GIẢM 2%</VersionDocumentName>
+      <VersionClassID>5534</VersionClassID>
+      <VersionWorkflowID>213</VersionWorkflowID>
+      <VersionWorkflowStepID>5886</VersionWorkflowStepID>
+      <VersionNodeAliasPath>/Articles/Uu-dai/CUNG-EXIMBANK-EDIGI-NAP-PHONE-PHUT-CHOC,-UU-DAI-CU</VersionNodeAliasPath>
+    </cms_versionhistory>
+    <cms_versionhistory>
+      <VersionHistoryID>268</VersionHistoryID>
+      <NodeSiteID>7</NodeSiteID>
+      <DocumentID>645</DocumentID>
+      <NodeXML>&lt;NewDataSet&gt;
+  &lt;DancingGoatCore_Article&gt;
+    &lt;NodeID&gt;143&lt;/NodeID&gt;
+    &lt;NodeAliasPath&gt;/Articles/Uu-dai/CUNG-EXIMBANK-EDIGI-NAP-PHONE-PHUT-CHOC,-UU-DAI-CU&lt;/NodeAliasPath&gt;
+    &lt;NodeName&gt;CÙNG EXIMBANK EDIGI NẠP PHONE PHÚT CHỐC, ƯU ĐÃI CỰC SỐC GIẢM 2%&lt;/NodeName&gt;
+    &lt;NodeAlias&gt;CUNG-EXIMBANK-EDIGI-NAP-PHONE-PHUT-CHOC,-UU-DAI-CU&lt;/NodeAlias&gt;
+    &lt;NodeClassID&gt;5507&lt;/NodeClassID&gt;
+    &lt;NodeParentID&gt;136&lt;/NodeParentID&gt;
+    &lt;NodeLevel&gt;3&lt;/NodeLevel&gt;
+    &lt;NodeACLID&gt;1&lt;/NodeACLID&gt;
+    &lt;NodeSiteID&gt;1&lt;/NodeSiteID&gt;
+    &lt;NodeGUID&gt;ba8fd461-a5a9-4ee1-85e5-cace64677e60&lt;/NodeGUID&gt;
+    &lt;NodeOrder&gt;1&lt;/NodeOrder&gt;
+    &lt;NodeOwner&gt;75&lt;/NodeOwner&gt;
+    &lt;NodeHasChildren&gt;false&lt;/NodeHasChildren&gt;
+    &lt;NodeHasLinks&gt;false&lt;/NodeHasLinks&gt;
+    &lt;NodeOriginalNodeID&gt;143&lt;/NodeOriginalNodeID&gt;
+    &lt;NodeIsACLOwner&gt;false&lt;/NodeIsACLOwner&gt;
+    &lt;DocumentID&gt;131&lt;/DocumentID&gt;
+    &lt;DocumentName&gt;CÙNG EXIMBANK EDIGI NẠP PHONE PHÚT CHỐC, ƯU ĐÃI CỰC SỐC GIẢM 2%&lt;/DocumentName&gt;
+    &lt;DocumentModifiedWhen&gt;2023-04-17T19:32:35.4266753+10:00&lt;/DocumentModifiedWhen&gt;
+    &lt;DocumentModifiedByUserID&gt;75&lt;/DocumentModifiedByUserID&gt;
+    &lt;DocumentForeignKeyValue&gt;26&lt;/DocumentForeignKeyValue&gt;
+    &lt;DocumentCreatedByUserID&gt;75&lt;/DocumentCreatedByUserID&gt;
+    &lt;DocumentCreatedWhen&gt;2023-04-17T19:30:03.7925472+10:00&lt;/DocumentCreatedWhen&gt;
+    &lt;DocumentCheckedOutVersionHistoryID&gt;54&lt;/DocumentCheckedOutVersionHistoryID&gt;
+    &lt;DocumentPublishedVersionHistoryID&gt;53&lt;/DocumentPublishedVersionHistoryID&gt;
+    &lt;DocumentWorkflowStepID&gt;5885&lt;/DocumentWorkflowStepID&gt;
+    &lt;DocumentPublishFrom&gt;2023-04-04T19:29:08+10:00&lt;/DocumentPublishFrom&gt;
+    &lt;DocumentPublishTo&gt;2023-12-31T19:29:16+11:00&lt;/DocumentPublishTo&gt;
+    &lt;DocumentCulture&gt;en-US&lt;/DocumentCulture&gt;
+    &lt;DocumentNodeID&gt;143&lt;/DocumentNodeID&gt;
+    &lt;DocumentContent /&gt;
+    &lt;DocumentLastPublished&gt;2023-04-17T19:31:41.2369323+10:00&lt;/DocumentLastPublished&gt;
+    &lt;DocumentLastVersionNumber&gt;1.1&lt;/DocumentLastVersionNumber&gt;
+    &lt;DocumentIsArchived&gt;false&lt;/DocumentIsArchived&gt;
+    &lt;DocumentGUID&gt;587d42a0-31b9-4188-bb75-f1a46ccb647d&lt;/DocumentGUID&gt;
+    &lt;DocumentWorkflowCycleGUID&gt;e1fb1866-abec-49e9-9a61-41ed40252f58&lt;/DocumentWorkflowCycleGUID&gt;
+    &lt;DocumentCanBePublished&gt;true&lt;/DocumentCanBePublished&gt;
+    &lt;DocumentPageTemplateConfiguration&gt;{"identifier":"DancingGoat.Article","properties":null}&lt;/DocumentPageTemplateConfiguration&gt;
+    &lt;DocumentShowInMenu&gt;false&lt;/DocumentShowInMenu&gt;
+    &lt;ArticleID&gt;26&lt;/ArticleID&gt;
+    &lt;ArticleTitle&gt;CÙNG EXIMBANK EDIGI NẠP PHONE PHÚT CHỐC, ƯU ĐÃI CỰC SỐC GIẢM 2%&lt;/ArticleTitle&gt;
+    &lt;ArticleSummary&gt;Khách hàng cá nhân thực hiện giao dịch nạp tiền điện thoại di động VnToup trên Eximbank EDigi.&lt;/ArticleSummary&gt;
+    &lt;ArticleText&gt;&amp;lt;div style="text-align: center;"&amp;gt;&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+Thời gian triển khai: Từ 04/04/2023 đến 31/12/2023&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Đối tượng áp dụng:&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Khách hàng cá nhân thực hiện giao dịch nạp tiền điện thoại di động VnToup trên Eximbank EDigi.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Ưu đãi áp dụng:&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Khách hàng nhận giảm giá 2% trên số tiền nạp tiền di động.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Hãy đăng ký sử dụng dịch vụ Eximbank EDigi ngay hôm nay để trải nghiệm đa dạng các dịch vụ tài chính như:&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Gửi Tiết kiệm Online, nhận nhiều quà tặng hấp dẫn, giao tận nơi&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Chuyển tiền với hạn mức cao 5 tỷ/ngày. Riêng gói Online Banking VIP hạn mức lên đến 30 tỷ/ngày.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Miễn phí nhận tin nhắn biến động số dư OTT trên Eximbank EDigi&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Miễn phí chuyển tiền Online, với gói &amp;amp;ldquo;Sử dụng combo, Miễn phí chuyển tiền Online&amp;amp;rdquo; chỉ cần duy trì tối thiểu 500.000 đồng trong tài khoản.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Đa dạng các dịch vụ thanh toán: thanh toán tiền điện, tiền nước, mua vé máy bay, đóng học phí, nộp tiền chứng khoán, đóng tiền cước viễn thông, &amp;amp;hellip;.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Để biết thêm chi tiết Quý khách vui lòng liên hệ 18001199.&lt;/ArticleText&gt;
+    &lt;ClassName&gt;DancingGoatCore.Article&lt;/ClassName&gt;
+  &lt;/DancingGoatCore_Article&gt;
+&lt;/NewDataSet&gt;</NodeXML>
+      <ModifiedByUserID>53</ModifiedByUserID>
+      <ModifiedWhen>2023-04-17T16:32:35.4422923+07:00</ModifiedWhen>
+      <VersionNumber>2.0</VersionNumber>
+      <VersionComment></VersionComment>
+      <ToBePublished>false</ToBePublished>
+      <PublishFrom>2023-04-04T16:29:08+07:00</PublishFrom>
+      <PublishTo>2023-04-17T18:12:20.6517292+07:00</PublishTo>
+      <WasPublishedFrom>2023-04-17T16:36:30.5970964+07:00</WasPublishedFrom>
+      <WasPublishedTo>2023-04-17T18:12:20.6517292+07:00</WasPublishedTo>
+      <VersionDocumentName>CÙNG EXIMBANK EDIGI NẠP PHONE PHÚT CHỐC, ƯU ĐÃI CỰC SỐC GIẢM 2%</VersionDocumentName>
+      <VersionClassID>5534</VersionClassID>
+      <VersionWorkflowID>213</VersionWorkflowID>
+      <VersionWorkflowStepID>5886</VersionWorkflowStepID>
+      <VersionNodeAliasPath>/Articles/Uu-dai/CUNG-EXIMBANK-EDIGI-NAP-PHONE-PHUT-CHOC,-UU-DAI-CU</VersionNodeAliasPath>
+    </cms_versionhistory>
+    <cms_versionhistory>
+      <VersionHistoryID>269</VersionHistoryID>
+      <NodeSiteID>7</NodeSiteID>
+      <DocumentID>641</DocumentID>
+      <NodeXML>&lt;NewDataSet&gt;
+  &lt;DancingGoatCore_Article&gt;
+    &lt;NodeID&gt;137&lt;/NodeID&gt;
+    &lt;NodeAliasPath&gt;/Articles/Uu-dai/MO-TAI-KHOAN-NGAY,-TIEN-VE-LIEN-TAY&lt;/NodeAliasPath&gt;
+    &lt;NodeName&gt;MỞ TÀI KHOẢN NGAY, TIỀN VỀ LIỀN TAY&lt;/NodeName&gt;
+    &lt;NodeAlias&gt;MO-TAI-KHOAN-NGAY,-TIEN-VE-LIEN-TAY&lt;/NodeAlias&gt;
+    &lt;NodeClassID&gt;5507&lt;/NodeClassID&gt;
+    &lt;NodeParentID&gt;136&lt;/NodeParentID&gt;
+    &lt;NodeLevel&gt;3&lt;/NodeLevel&gt;
+    &lt;NodeACLID&gt;1&lt;/NodeACLID&gt;
+    &lt;NodeSiteID&gt;1&lt;/NodeSiteID&gt;
+    &lt;NodeGUID&gt;9b2e5c40-eaef-4338-a182-9e586b5541f4&lt;/NodeGUID&gt;
+    &lt;NodeOrder&gt;3&lt;/NodeOrder&gt;
+    &lt;NodeOwner&gt;75&lt;/NodeOwner&gt;
+    &lt;NodeHasChildren&gt;false&lt;/NodeHasChildren&gt;
+    &lt;NodeHasLinks&gt;false&lt;/NodeHasLinks&gt;
+    &lt;NodeOriginalNodeID&gt;137&lt;/NodeOriginalNodeID&gt;
+    &lt;NodeIsACLOwner&gt;false&lt;/NodeIsACLOwner&gt;
+    &lt;DocumentID&gt;125&lt;/DocumentID&gt;
+    &lt;DocumentName&gt;MỞ TÀI KHOẢN NGAY, TIỀN VỀ LIỀN TAY&lt;/DocumentName&gt;
+    &lt;DocumentModifiedWhen&gt;2023-04-17T19:36:14.3410761+10:00&lt;/DocumentModifiedWhen&gt;
+    &lt;DocumentModifiedByUserID&gt;75&lt;/DocumentModifiedByUserID&gt;
+    &lt;DocumentForeignKeyValue&gt;20&lt;/DocumentForeignKeyValue&gt;
+    &lt;DocumentCreatedByUserID&gt;75&lt;/DocumentCreatedByUserID&gt;
+    &lt;DocumentCreatedWhen&gt;2023-04-17T18:25:38.2093592+10:00&lt;/DocumentCreatedWhen&gt;
+    &lt;DocumentCheckedOutVersionHistoryID&gt;55&lt;/DocumentCheckedOutVersionHistoryID&gt;
+    &lt;DocumentPublishedVersionHistoryID&gt;49&lt;/DocumentPublishedVersionHistoryID&gt;
+    &lt;DocumentWorkflowStepID&gt;5885&lt;/DocumentWorkflowStepID&gt;
+    &lt;DocumentPublishFrom&gt;2023-03-28T18:25:03+11:00&lt;/DocumentPublishFrom&gt;
+    &lt;DocumentCulture&gt;en-US&lt;/DocumentCulture&gt;
+    &lt;DocumentNodeID&gt;137&lt;/DocumentNodeID&gt;
+    &lt;DocumentContent /&gt;
+    &lt;DocumentLastPublished&gt;2023-04-17T19:31:53.1763784+10:00&lt;/DocumentLastPublished&gt;
+    &lt;DocumentLastVersionNumber&gt;2.1&lt;/DocumentLastVersionNumber&gt;
+    &lt;DocumentIsArchived&gt;false&lt;/DocumentIsArchived&gt;
+    &lt;DocumentGUID&gt;2a3fdbc2-974e-4f1d-ae09-37431304df28&lt;/DocumentGUID&gt;
+    &lt;DocumentWorkflowCycleGUID&gt;9d9452ce-6582-44ce-9589-f486b0298de0&lt;/DocumentWorkflowCycleGUID&gt;
+    &lt;DocumentCanBePublished&gt;true&lt;/DocumentCanBePublished&gt;
+    &lt;DocumentPageBuilderWidgets /&gt;
+    &lt;DocumentPageTemplateConfiguration&gt;{"identifier":"DancingGoat.Article","configurationIdentifier":"7dd9abbc-caa1-47ec-a523-5fd42cbf4069","properties":null}&lt;/DocumentPageTemplateConfiguration&gt;
+    &lt;DocumentShowInMenu&gt;false&lt;/DocumentShowInMenu&gt;
+    &lt;ArticleID&gt;20&lt;/ArticleID&gt;
+    &lt;ArticleTitle&gt;MỞ TÀI KHOẢN NGAY, TIỀN VỀ LIỀN TAY&lt;/ArticleTitle&gt;
+    &lt;ArticleSummary&gt;Tặng 50.000 đồng vào tài khoản thanh toán tự động ngay sau khi khách hàng đã mở tài khoản thanh toán và đăng ký Eximbank EDigi thành công bằng hình thức định danh trực tuyến eKYC.&lt;/ArticleSummary&gt;
+    &lt;ArticleText&gt;&amp;lt;h3&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="~/getmedia/83248d21-dc5d-493f-8b09-9dce6ff8738f/2023-04-05_eKYC_Banner-web.jpg" target="_self"&amp;gt;&amp;lt;img alt="" src="~/getmedia/83248d21-dc5d-493f-8b09-9dce6ff8738f/2023-04-05_eKYC_Banner-web.jpg" /&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/h3&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;1. Thời gian khuyến mại:&amp;lt;/strong&amp;gt; Từ ngày 28/03/2023 đến hết ngày 31/12/2023.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+&amp;lt;strong&amp;gt;2. Đối tượng khuyến mại:&amp;lt;/strong&amp;gt; Khách hàng cá nhân mở tài khoản thanh toán bằng hình thức định danh trực tuyến eKYC.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+&amp;lt;strong&amp;gt;3. Hình thức khuyến mại:&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Tặng 50.000 đồng vào tài khoản thanh toán tự động ngay sau khi khách hàng đã mở tài khoản thanh toán và đăng ký Eximbank EDigi thành công bằng hình thức định danh trực tuyến eKYC.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+&amp;lt;strong&amp;gt;*Điều kiện:&amp;amp;nbsp;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+-&amp;amp;nbsp;&amp;amp;nbsp; &amp;amp;nbsp;Áp dụng cho các Khách hàng cá nhân lần đầu đăng ký, kích hoạt thành công trên ứng dụng Eximbank EDigi bằng hình thức định danh trực tuyến eKYC.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+-&amp;amp;nbsp;&amp;amp;nbsp; &amp;amp;nbsp;Mỗi khách hàng được nhận thưởng tối đa 01 lần trong suốt thời gian diễn ra chương trình.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+-&amp;amp;nbsp;&amp;amp;nbsp; &amp;amp;nbsp;Khách hàng được tặng thưởng khi mở tài khoản thanh toán thành công và đăng ký Eximbank EDigi thành công.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Mọi thắc mắc, khách hàng vui lòng liên hệ các Chi nhánh/Phòng giao dịch của Eximbank hoặc tổng đài Dịch vụ đa kênh 24/7 số 1800 1199&amp;lt;/p&amp;gt;
+&lt;/ArticleText&gt;
+    &lt;ClassName&gt;DancingGoatCore.Article&lt;/ClassName&gt;
+  &lt;/DancingGoatCore_Article&gt;
+&lt;/NewDataSet&gt;</NodeXML>
+      <ModifiedByUserID>53</ModifiedByUserID>
+      <ModifiedWhen>2023-04-17T16:36:14.35693+07:00</ModifiedWhen>
+      <VersionNumber>3.0</VersionNumber>
+      <VersionComment></VersionComment>
+      <ToBePublished>false</ToBePublished>
+      <PublishFrom>2023-03-28T14:25:03+07:00</PublishFrom>
+      <WasPublishedFrom>2023-04-17T16:36:19.7322727+07:00</WasPublishedFrom>
+      <VersionDocumentName>MỞ TÀI KHOẢN NGAY, TIỀN VỀ LIỀN TAY</VersionDocumentName>
+      <VersionClassID>5534</VersionClassID>
+      <VersionWorkflowID>213</VersionWorkflowID>
+      <VersionWorkflowStepID>5886</VersionWorkflowStepID>
+      <VersionNodeAliasPath>/Articles/Uu-dai/MO-TAI-KHOAN-NGAY,-TIEN-VE-LIEN-TAY</VersionNodeAliasPath>
+    </cms_versionhistory>
+    <cms_versionhistory>
+      <VersionHistoryID>275</VersionHistoryID>
+      <NodeSiteID>7</NodeSiteID>
+      <DocumentID>643</DocumentID>
+      <NodeXML>&lt;NewDataSet&gt;
+  &lt;DancingGoatCore_Article&gt;
+    &lt;NodeID&gt;141&lt;/NodeID&gt;
+    &lt;NodeAliasPath&gt;/Articles/Uu-dai/THEM-VUI-TRON-VI-NGON-CUNG-EXIMBANK-TAI-THE-COFFEE&lt;/NodeAliasPath&gt;
+    &lt;NodeName&gt;THÊM VUI TRỌN VỊ NGON CÙNG EXIMBANK TẠI THE COFFEE BEAN AND TEA LEAF&lt;/NodeName&gt;
+    &lt;NodeAlias&gt;THEM-VUI-TRON-VI-NGON-CUNG-EXIMBANK-TAI-THE-COFFEE&lt;/NodeAlias&gt;
+    &lt;NodeClassID&gt;5507&lt;/NodeClassID&gt;
+    &lt;NodeParentID&gt;136&lt;/NodeParentID&gt;
+    &lt;NodeLevel&gt;3&lt;/NodeLevel&gt;
+    &lt;NodeACLID&gt;1&lt;/NodeACLID&gt;
+    &lt;NodeSiteID&gt;1&lt;/NodeSiteID&gt;
+    &lt;NodeGUID&gt;2bbcd169-8118-4b30-867f-68fe442be4ea&lt;/NodeGUID&gt;
+    &lt;NodeOrder&gt;4&lt;/NodeOrder&gt;
+    &lt;NodeOwner&gt;75&lt;/NodeOwner&gt;
+    &lt;NodeHasChildren&gt;false&lt;/NodeHasChildren&gt;
+    &lt;NodeHasLinks&gt;false&lt;/NodeHasLinks&gt;
+    &lt;NodeOriginalNodeID&gt;141&lt;/NodeOriginalNodeID&gt;
+    &lt;NodeIsACLOwner&gt;false&lt;/NodeIsACLOwner&gt;
+    &lt;DocumentID&gt;129&lt;/DocumentID&gt;
+    &lt;DocumentName&gt;THÊM VUI TRỌN VỊ NGON CÙNG EXIMBANK TẠI THE COFFEE BEAN AND TEA LEAF&lt;/DocumentName&gt;
+    &lt;DocumentModifiedWhen&gt;2023-04-17T19:12:49.4807952+10:00&lt;/DocumentModifiedWhen&gt;
+    &lt;DocumentModifiedByUserID&gt;75&lt;/DocumentModifiedByUserID&gt;
+    &lt;DocumentForeignKeyValue&gt;24&lt;/DocumentForeignKeyValue&gt;
+    &lt;DocumentCreatedByUserID&gt;75&lt;/DocumentCreatedByUserID&gt;
+    &lt;DocumentCreatedWhen&gt;2023-04-17T19:12:49.4807952+10:00&lt;/DocumentCreatedWhen&gt;
+    &lt;DocumentCheckedOutVersionHistoryID&gt;61&lt;/DocumentCheckedOutVersionHistoryID&gt;
+    &lt;DocumentPublishedVersionHistoryID&gt;61&lt;/DocumentPublishedVersionHistoryID&gt;
+    &lt;DocumentWorkflowStepID&gt;5886&lt;/DocumentWorkflowStepID&gt;
+    &lt;DocumentCulture&gt;en-US&lt;/DocumentCulture&gt;
+    &lt;DocumentNodeID&gt;141&lt;/DocumentNodeID&gt;
+    &lt;DocumentContent /&gt;
+    &lt;DocumentLastVersionNumber&gt;1.0&lt;/DocumentLastVersionNumber&gt;
+    &lt;DocumentIsArchived&gt;false&lt;/DocumentIsArchived&gt;
+    &lt;DocumentGUID&gt;ceac653e-126c-4221-b810-b435ff28fe0e&lt;/DocumentGUID&gt;
+    &lt;DocumentWorkflowCycleGUID&gt;f347b8ad-1657-4c17-8fa5-6958308f1202&lt;/DocumentWorkflowCycleGUID&gt;
+    &lt;DocumentCanBePublished&gt;true&lt;/DocumentCanBePublished&gt;
+    &lt;DocumentPageBuilderWidgets /&gt;
+    &lt;DocumentPageTemplateConfiguration&gt;{"identifier":"DancingGoat.Article","configurationIdentifier":"7dd9abbc-caa1-47ec-a523-5fd42cbf4069","properties":null}&lt;/DocumentPageTemplateConfiguration&gt;
+    &lt;DocumentShowInMenu&gt;false&lt;/DocumentShowInMenu&gt;
+    &lt;ArticleID&gt;24&lt;/ArticleID&gt;
+    &lt;ArticleTitle&gt;THÊM VUI TRỌN VỊ NGON CÙNG EXIMBANK TẠI THE COFFEE BEAN AND TEA LEAF&lt;/ArticleTitle&gt;
+    &lt;ArticleSummary&gt;Giảm 40% - Tối đa 150K
+Áp dụng cho chủ thẻ Tín dụng và Ghi nợ Quốc tế của Eximbank.&lt;/ArticleSummary&gt;
+    &lt;ArticleText&gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Thông tin chi tiết vui lòng liên hệ:&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Eximbank card Center: 1800 1199&amp;lt;br /&amp;gt;
+Email: contact@eximbank.com.vn&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&lt;/ArticleText&gt;
+    &lt;ClassName&gt;DancingGoatCore.Article&lt;/ClassName&gt;
+  &lt;/DancingGoatCore_Article&gt;
+&lt;/NewDataSet&gt;</NodeXML>
+      <ModifiedByUserID>53</ModifiedByUserID>
+      <ModifiedWhen>2023-04-17T17:59:12.2574664+07:00</ModifiedWhen>
+      <VersionNumber>1.0</VersionNumber>
+      <VersionComment></VersionComment>
+      <ToBePublished>false</ToBePublished>
+      <PublishTo>2023-04-17T18:12:26.24344+07:00</PublishTo>
+      <WasPublishedFrom>2023-04-17T17:59:12.2574664+07:00</WasPublishedFrom>
+      <WasPublishedTo>2023-04-17T18:12:26.24344+07:00</WasPublishedTo>
+      <VersionDocumentName>THÊM VUI TRỌN VỊ NGON CÙNG EXIMBANK TẠI THE COFFEE BEAN AND TEA LEAF</VersionDocumentName>
+      <VersionClassID>5534</VersionClassID>
+      <VersionWorkflowID>213</VersionWorkflowID>
+      <VersionWorkflowStepID>5886</VersionWorkflowStepID>
+      <VersionNodeAliasPath>/Articles/Uu-dai/THEM-VUI-TRON-VI-NGON-CUNG-EXIMBANK-TAI-THE-COFFEE</VersionNodeAliasPath>
+    </cms_versionhistory>
+    <cms_versionhistory>
+      <VersionHistoryID>276</VersionHistoryID>
+      <NodeSiteID>7</NodeSiteID>
+      <DocumentID>643</DocumentID>
+      <NodeXML>&lt;NewDataSet&gt;
+  &lt;DancingGoatCore_Article&gt;
+    &lt;NodeID&gt;141&lt;/NodeID&gt;
+    &lt;NodeAliasPath&gt;/Articles/Uu-dai/THEM-VUI-TRON-VI-NGON-CUNG-EXIMBANK-TAI-THE-COFFEE&lt;/NodeAliasPath&gt;
+    &lt;NodeName&gt;THÊM VUI TRỌN VỊ NGON CÙNG EXIMBANK TẠI THE COFFEE BEAN AND TEA LEAF&lt;/NodeName&gt;
+    &lt;NodeAlias&gt;THEM-VUI-TRON-VI-NGON-CUNG-EXIMBANK-TAI-THE-COFFEE&lt;/NodeAlias&gt;
+    &lt;NodeClassID&gt;5507&lt;/NodeClassID&gt;
+    &lt;NodeParentID&gt;136&lt;/NodeParentID&gt;
+    &lt;NodeLevel&gt;3&lt;/NodeLevel&gt;
+    &lt;NodeACLID&gt;1&lt;/NodeACLID&gt;
+    &lt;NodeSiteID&gt;1&lt;/NodeSiteID&gt;
+    &lt;NodeGUID&gt;2bbcd169-8118-4b30-867f-68fe442be4ea&lt;/NodeGUID&gt;
+    &lt;NodeOrder&gt;4&lt;/NodeOrder&gt;
+    &lt;NodeOwner&gt;75&lt;/NodeOwner&gt;
+    &lt;NodeHasChildren&gt;false&lt;/NodeHasChildren&gt;
+    &lt;NodeHasLinks&gt;false&lt;/NodeHasLinks&gt;
+    &lt;NodeOriginalNodeID&gt;141&lt;/NodeOriginalNodeID&gt;
+    &lt;NodeIsACLOwner&gt;false&lt;/NodeIsACLOwner&gt;
+    &lt;DocumentID&gt;129&lt;/DocumentID&gt;
+    &lt;DocumentName&gt;THÊM VUI TRỌN VỊ NGON CÙNG EXIMBANK TẠI THE COFFEE BEAN AND TEA LEAF&lt;/DocumentName&gt;
+    &lt;DocumentModifiedWhen&gt;2023-04-17T20:59:13.6921407+10:00&lt;/DocumentModifiedWhen&gt;
+    &lt;DocumentModifiedByUserID&gt;75&lt;/DocumentModifiedByUserID&gt;
+    &lt;DocumentForeignKeyValue&gt;24&lt;/DocumentForeignKeyValue&gt;
+    &lt;DocumentCreatedByUserID&gt;75&lt;/DocumentCreatedByUserID&gt;
+    &lt;DocumentCreatedWhen&gt;2023-04-17T19:12:49.4807952+10:00&lt;/DocumentCreatedWhen&gt;
+    &lt;DocumentCheckedOutVersionHistoryID&gt;62&lt;/DocumentCheckedOutVersionHistoryID&gt;
+    &lt;DocumentPublishedVersionHistoryID&gt;61&lt;/DocumentPublishedVersionHistoryID&gt;
+    &lt;DocumentWorkflowStepID&gt;5885&lt;/DocumentWorkflowStepID&gt;
+    &lt;DocumentCulture&gt;en-US&lt;/DocumentCulture&gt;
+    &lt;DocumentNodeID&gt;141&lt;/DocumentNodeID&gt;
+    &lt;DocumentContent /&gt;
+    &lt;DocumentLastVersionNumber&gt;1.1&lt;/DocumentLastVersionNumber&gt;
+    &lt;DocumentIsArchived&gt;false&lt;/DocumentIsArchived&gt;
+    &lt;DocumentGUID&gt;ceac653e-126c-4221-b810-b435ff28fe0e&lt;/DocumentGUID&gt;
+    &lt;DocumentWorkflowCycleGUID&gt;7f707667-1533-4da6-9b80-cb4ead458a96&lt;/DocumentWorkflowCycleGUID&gt;
+    &lt;DocumentCanBePublished&gt;true&lt;/DocumentCanBePublished&gt;
+    &lt;DocumentPageBuilderWidgets&gt;{"editableAreas":[]}&lt;/DocumentPageBuilderWidgets&gt;
+    &lt;DocumentPageTemplateConfiguration&gt;{"identifier":"DancingGoat.Article","properties":null}&lt;/DocumentPageTemplateConfiguration&gt;
+    &lt;DocumentShowInMenu&gt;false&lt;/DocumentShowInMenu&gt;
+    &lt;ArticleID&gt;24&lt;/ArticleID&gt;
+    &lt;ArticleTitle&gt;THÊM VUI TRỌN VỊ NGON CÙNG EXIMBANK TẠI THE COFFEE BEAN AND TEA LEAF&lt;/ArticleTitle&gt;
+    &lt;ArticleSummary&gt;Giảm 40% - Tối đa 150K
+Áp dụng cho chủ thẻ Tín dụng và Ghi nợ Quốc tế của Eximbank.&lt;/ArticleSummary&gt;
+    &lt;ArticleText&gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Thông tin chi tiết vui lòng liên hệ:&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Eximbank card Center: 1800 1199&amp;lt;br /&amp;gt;
+Email: contact@eximbank.com.vn&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&lt;/ArticleText&gt;
+    &lt;ClassName&gt;DancingGoatCore.Article&lt;/ClassName&gt;
+  &lt;/DancingGoatCore_Article&gt;
+&lt;/NewDataSet&gt;</NodeXML>
+      <ModifiedByUserID>53</ModifiedByUserID>
+      <ModifiedWhen>2023-04-17T17:59:13.7077343+07:00</ModifiedWhen>
+      <VersionNumber>1.1</VersionNumber>
+      <VersionComment></VersionComment>
+      <ToBePublished>false</ToBePublished>
+      <VersionDocumentName>THÊM VUI TRỌN VỊ NGON CÙNG EXIMBANK TẠI THE COFFEE BEAN AND TEA LEAF</VersionDocumentName>
+      <VersionClassID>5534</VersionClassID>
+      <VersionWorkflowID>213</VersionWorkflowID>
+      <VersionWorkflowStepID>5885</VersionWorkflowStepID>
+      <VersionNodeAliasPath>/Articles/Uu-dai/THEM-VUI-TRON-VI-NGON-CUNG-EXIMBANK-TAI-THE-COFFEE</VersionNodeAliasPath>
+    </cms_versionhistory>
+    <cms_versionhistory>
+      <VersionHistoryID>277</VersionHistoryID>
+      <NodeSiteID>7</NodeSiteID>
+      <DocumentID>643</DocumentID>
+      <NodeXML>&lt;NewDataSet&gt;
+  &lt;DancingGoatCore_Article&gt;
+    &lt;NodeID&gt;141&lt;/NodeID&gt;
+    &lt;NodeAliasPath&gt;/Articles/Uu-dai/THEM-VUI-TRON-VI-NGON-CUNG-EXIMBANK-TAI-THE-COFFEE&lt;/NodeAliasPath&gt;
+    &lt;NodeName&gt;THÊM VUI TRỌN VỊ NGON CÙNG EXIMBANK TẠI THE COFFEE BEAN AND TEA LEAF&lt;/NodeName&gt;
+    &lt;NodeAlias&gt;THEM-VUI-TRON-VI-NGON-CUNG-EXIMBANK-TAI-THE-COFFEE&lt;/NodeAlias&gt;
+    &lt;NodeClassID&gt;5507&lt;/NodeClassID&gt;
+    &lt;NodeParentID&gt;136&lt;/NodeParentID&gt;
+    &lt;NodeLevel&gt;3&lt;/NodeLevel&gt;
+    &lt;NodeACLID&gt;1&lt;/NodeACLID&gt;
+    &lt;NodeSiteID&gt;1&lt;/NodeSiteID&gt;
+    &lt;NodeGUID&gt;2bbcd169-8118-4b30-867f-68fe442be4ea&lt;/NodeGUID&gt;
+    &lt;NodeOrder&gt;4&lt;/NodeOrder&gt;
+    &lt;NodeOwner&gt;75&lt;/NodeOwner&gt;
+    &lt;NodeHasChildren&gt;false&lt;/NodeHasChildren&gt;
+    &lt;NodeHasLinks&gt;false&lt;/NodeHasLinks&gt;
+    &lt;NodeOriginalNodeID&gt;141&lt;/NodeOriginalNodeID&gt;
+    &lt;NodeIsACLOwner&gt;false&lt;/NodeIsACLOwner&gt;
+    &lt;DocumentID&gt;129&lt;/DocumentID&gt;
+    &lt;DocumentName&gt;THÊM VUI TRỌN VỊ NGON CÙNG EXIMBANK TẠI THE COFFEE BEAN AND TEA LEAF&lt;/DocumentName&gt;
+    &lt;DocumentModifiedWhen&gt;2023-04-17T21:05:10.780065+10:00&lt;/DocumentModifiedWhen&gt;
+    &lt;DocumentModifiedByUserID&gt;75&lt;/DocumentModifiedByUserID&gt;
+    &lt;DocumentForeignKeyValue&gt;24&lt;/DocumentForeignKeyValue&gt;
+    &lt;DocumentCreatedByUserID&gt;75&lt;/DocumentCreatedByUserID&gt;
+    &lt;DocumentCreatedWhen&gt;2023-04-17T19:12:49.4807952+10:00&lt;/DocumentCreatedWhen&gt;
+    &lt;DocumentCheckedOutVersionHistoryID&gt;63&lt;/DocumentCheckedOutVersionHistoryID&gt;
+    &lt;DocumentPublishedVersionHistoryID&gt;61&lt;/DocumentPublishedVersionHistoryID&gt;
+    &lt;DocumentWorkflowStepID&gt;5885&lt;/DocumentWorkflowStepID&gt;
+    &lt;DocumentCulture&gt;en-US&lt;/DocumentCulture&gt;
+    &lt;DocumentNodeID&gt;141&lt;/DocumentNodeID&gt;
+    &lt;DocumentContent /&gt;
+    &lt;DocumentLastVersionNumber&gt;1.2&lt;/DocumentLastVersionNumber&gt;
+    &lt;DocumentIsArchived&gt;false&lt;/DocumentIsArchived&gt;
+    &lt;DocumentGUID&gt;ceac653e-126c-4221-b810-b435ff28fe0e&lt;/DocumentGUID&gt;
+    &lt;DocumentWorkflowCycleGUID&gt;7f707667-1533-4da6-9b80-cb4ead458a96&lt;/DocumentWorkflowCycleGUID&gt;
+    &lt;DocumentCanBePublished&gt;true&lt;/DocumentCanBePublished&gt;
+    &lt;DocumentPageBuilderWidgets&gt;{"editableAreas":[]}&lt;/DocumentPageBuilderWidgets&gt;
+    &lt;DocumentPageTemplateConfiguration&gt;{"identifier":"DancingGoat.Article","properties":null}&lt;/DocumentPageTemplateConfiguration&gt;
+    &lt;DocumentShowInMenu&gt;false&lt;/DocumentShowInMenu&gt;
+    &lt;ArticleID&gt;24&lt;/ArticleID&gt;
+    &lt;ArticleTitle&gt;THÊM VUI TRỌN VỊ NGON CÙNG EXIMBANK TẠI THE COFFEE BEAN AND TEA LEAF&lt;/ArticleTitle&gt;
+    &lt;ArticleTeaser&gt;066e6e51-cb87-4617-a4f0-bf127f407c3b&lt;/ArticleTeaser&gt;
+    &lt;ArticleSummary&gt;Giảm 40% - Tối đa 150K
+Áp dụng cho chủ thẻ Tín dụng và Ghi nợ Quốc tế của Eximbank.&lt;/ArticleSummary&gt;
+    &lt;ArticleText&gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Thông tin chi tiết vui lòng liên hệ:&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Eximbank card Center: 1800 1199&amp;lt;br /&amp;gt;
+Email: contact@eximbank.com.vn&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&lt;/ArticleText&gt;
+    &lt;ClassName&gt;DancingGoatCore.Article&lt;/ClassName&gt;
+  &lt;/DancingGoatCore_Article&gt;
+&lt;/NewDataSet&gt;</NodeXML>
+      <ModifiedByUserID>53</ModifiedByUserID>
+      <ModifiedWhen>2023-04-17T18:05:10.7957991+07:00</ModifiedWhen>
+      <VersionNumber>1.2</VersionNumber>
+      <VersionComment></VersionComment>
+      <ToBePublished>false</ToBePublished>
+      <VersionDocumentName>THÊM VUI TRỌN VỊ NGON CÙNG EXIMBANK TẠI THE COFFEE BEAN AND TEA LEAF</VersionDocumentName>
+      <VersionClassID>5534</VersionClassID>
+      <VersionWorkflowID>213</VersionWorkflowID>
+      <VersionWorkflowStepID>5885</VersionWorkflowStepID>
+      <VersionNodeAliasPath>/Articles/Uu-dai/THEM-VUI-TRON-VI-NGON-CUNG-EXIMBANK-TAI-THE-COFFEE</VersionNodeAliasPath>
+    </cms_versionhistory>
+    <cms_versionhistory>
+      <VersionHistoryID>278</VersionHistoryID>
+      <NodeSiteID>7</NodeSiteID>
+      <DocumentID>643</DocumentID>
+      <NodeXML>&lt;NewDataSet&gt;
+  &lt;DancingGoatCore_Article&gt;
+    &lt;NodeID&gt;141&lt;/NodeID&gt;
+    &lt;NodeAliasPath&gt;/Articles/Uu-dai/THEM-VUI-TRON-VI-NGON-CUNG-EXIMBANK-TAI-THE-COFFEE&lt;/NodeAliasPath&gt;
+    &lt;NodeName&gt;THÊM VUI TRỌN VỊ NGON CÙNG EXIMBANK TẠI THE COFFEE BEAN AND TEA LEAF&lt;/NodeName&gt;
+    &lt;NodeAlias&gt;THEM-VUI-TRON-VI-NGON-CUNG-EXIMBANK-TAI-THE-COFFEE&lt;/NodeAlias&gt;
+    &lt;NodeClassID&gt;5507&lt;/NodeClassID&gt;
+    &lt;NodeParentID&gt;136&lt;/NodeParentID&gt;
+    &lt;NodeLevel&gt;3&lt;/NodeLevel&gt;
+    &lt;NodeACLID&gt;1&lt;/NodeACLID&gt;
+    &lt;NodeSiteID&gt;1&lt;/NodeSiteID&gt;
+    &lt;NodeGUID&gt;2bbcd169-8118-4b30-867f-68fe442be4ea&lt;/NodeGUID&gt;
+    &lt;NodeOrder&gt;4&lt;/NodeOrder&gt;
+    &lt;NodeOwner&gt;75&lt;/NodeOwner&gt;
+    &lt;NodeHasChildren&gt;false&lt;/NodeHasChildren&gt;
+    &lt;NodeHasLinks&gt;false&lt;/NodeHasLinks&gt;
+    &lt;NodeOriginalNodeID&gt;141&lt;/NodeOriginalNodeID&gt;
+    &lt;NodeIsACLOwner&gt;false&lt;/NodeIsACLOwner&gt;
+    &lt;DocumentID&gt;129&lt;/DocumentID&gt;
+    &lt;DocumentName&gt;THÊM VUI TRỌN VỊ NGON CÙNG EXIMBANK TẠI THE COFFEE BEAN AND TEA LEAF&lt;/DocumentName&gt;
+    &lt;DocumentModifiedWhen&gt;2023-04-17T21:05:27.7565754+10:00&lt;/DocumentModifiedWhen&gt;
+    &lt;DocumentModifiedByUserID&gt;75&lt;/DocumentModifiedByUserID&gt;
+    &lt;DocumentForeignKeyValue&gt;24&lt;/DocumentForeignKeyValue&gt;
+    &lt;DocumentCreatedByUserID&gt;75&lt;/DocumentCreatedByUserID&gt;
+    &lt;DocumentCreatedWhen&gt;2023-04-17T19:12:49.4807952+10:00&lt;/DocumentCreatedWhen&gt;
+    &lt;DocumentCheckedOutVersionHistoryID&gt;64&lt;/DocumentCheckedOutVersionHistoryID&gt;
+    &lt;DocumentPublishedVersionHistoryID&gt;61&lt;/DocumentPublishedVersionHistoryID&gt;
+    &lt;DocumentWorkflowStepID&gt;5885&lt;/DocumentWorkflowStepID&gt;
+    &lt;DocumentCulture&gt;en-US&lt;/DocumentCulture&gt;
+    &lt;DocumentNodeID&gt;141&lt;/DocumentNodeID&gt;
+    &lt;DocumentContent /&gt;
+    &lt;DocumentLastVersionNumber&gt;1.3&lt;/DocumentLastVersionNumber&gt;
+    &lt;DocumentIsArchived&gt;false&lt;/DocumentIsArchived&gt;
+    &lt;DocumentGUID&gt;ceac653e-126c-4221-b810-b435ff28fe0e&lt;/DocumentGUID&gt;
+    &lt;DocumentWorkflowCycleGUID&gt;7f707667-1533-4da6-9b80-cb4ead458a96&lt;/DocumentWorkflowCycleGUID&gt;
+    &lt;DocumentCanBePublished&gt;true&lt;/DocumentCanBePublished&gt;
+    &lt;DocumentPageBuilderWidgets&gt;{"editableAreas":[]}&lt;/DocumentPageBuilderWidgets&gt;
+    &lt;DocumentPageTemplateConfiguration&gt;{"identifier":"DancingGoat.Article","properties":null}&lt;/DocumentPageTemplateConfiguration&gt;
+    &lt;DocumentShowInMenu&gt;false&lt;/DocumentShowInMenu&gt;
+    &lt;ArticleID&gt;24&lt;/ArticleID&gt;
+    &lt;ArticleTitle&gt;THÊM VUI TRỌN VỊ NGON CÙNG EXIMBANK TẠI THE COFFEE BEAN AND TEA LEAF&lt;/ArticleTitle&gt;
+    &lt;ArticleTeaser&gt;066e6e51-cb87-4617-a4f0-bf127f407c3b&lt;/ArticleTeaser&gt;
+    &lt;ArticleSummary&gt;Giảm 40% - Tối đa 150K
+Áp dụng cho chủ thẻ Tín dụng và Ghi nợ Quốc tế của Eximbank.&lt;/ArticleSummary&gt;
+    &lt;ArticleText&gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Thông tin chi tiết vui lòng liên hệ:&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Eximbank card Center: 1800 1199&amp;lt;br /&amp;gt;
+Email: contact@eximbank.com.vn&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&lt;/ArticleText&gt;
+    &lt;ClassName&gt;DancingGoatCore.Article&lt;/ClassName&gt;
+  &lt;/DancingGoatCore_Article&gt;
+&lt;/NewDataSet&gt;</NodeXML>
+      <ModifiedByUserID>53</ModifiedByUserID>
+      <ModifiedWhen>2023-04-17T18:05:27.7721992+07:00</ModifiedWhen>
+      <VersionNumber>1.3</VersionNumber>
+      <VersionComment></VersionComment>
+      <ToBePublished>false</ToBePublished>
+      <VersionDocumentName>THÊM VUI TRỌN VỊ NGON CÙNG EXIMBANK TẠI THE COFFEE BEAN AND TEA LEAF</VersionDocumentName>
+      <VersionClassID>5534</VersionClassID>
+      <VersionWorkflowID>213</VersionWorkflowID>
+      <VersionWorkflowStepID>5885</VersionWorkflowStepID>
+      <VersionNodeAliasPath>/Articles/Uu-dai/THEM-VUI-TRON-VI-NGON-CUNG-EXIMBANK-TAI-THE-COFFEE</VersionNodeAliasPath>
+    </cms_versionhistory>
+    <cms_versionhistory>
+      <VersionHistoryID>279</VersionHistoryID>
+      <NodeSiteID>7</NodeSiteID>
+      <DocumentID>643</DocumentID>
+      <NodeXML>&lt;NewDataSet&gt;
+  &lt;DancingGoatCore_Article&gt;
+    &lt;NodeID&gt;141&lt;/NodeID&gt;
+    &lt;NodeAliasPath&gt;/Articles/Uu-dai/THEM-VUI-TRON-VI-NGON-CUNG-EXIMBANK-TAI-THE-COFFEE&lt;/NodeAliasPath&gt;
+    &lt;NodeName&gt;THÊM VUI TRỌN VỊ NGON CÙNG EXIMBANK TẠI THE COFFEE BEAN AND TEA LEAF&lt;/NodeName&gt;
+    &lt;NodeAlias&gt;THEM-VUI-TRON-VI-NGON-CUNG-EXIMBANK-TAI-THE-COFFEE&lt;/NodeAlias&gt;
+    &lt;NodeClassID&gt;5507&lt;/NodeClassID&gt;
+    &lt;NodeParentID&gt;136&lt;/NodeParentID&gt;
+    &lt;NodeLevel&gt;3&lt;/NodeLevel&gt;
+    &lt;NodeACLID&gt;1&lt;/NodeACLID&gt;
+    &lt;NodeSiteID&gt;1&lt;/NodeSiteID&gt;
+    &lt;NodeGUID&gt;2bbcd169-8118-4b30-867f-68fe442be4ea&lt;/NodeGUID&gt;
+    &lt;NodeOrder&gt;4&lt;/NodeOrder&gt;
+    &lt;NodeOwner&gt;75&lt;/NodeOwner&gt;
+    &lt;NodeHasChildren&gt;false&lt;/NodeHasChildren&gt;
+    &lt;NodeHasLinks&gt;false&lt;/NodeHasLinks&gt;
+    &lt;NodeOriginalNodeID&gt;141&lt;/NodeOriginalNodeID&gt;
+    &lt;NodeIsACLOwner&gt;false&lt;/NodeIsACLOwner&gt;
+    &lt;DocumentID&gt;129&lt;/DocumentID&gt;
+    &lt;DocumentName&gt;THÊM VUI TRỌN VỊ NGON CÙNG EXIMBANK TẠI THE COFFEE BEAN AND TEA LEAF&lt;/DocumentName&gt;
+    &lt;DocumentModifiedWhen&gt;2023-04-17T21:05:35.1646249+10:00&lt;/DocumentModifiedWhen&gt;
+    &lt;DocumentModifiedByUserID&gt;75&lt;/DocumentModifiedByUserID&gt;
+    &lt;DocumentForeignKeyValue&gt;24&lt;/DocumentForeignKeyValue&gt;
+    &lt;DocumentCreatedByUserID&gt;75&lt;/DocumentCreatedByUserID&gt;
+    &lt;DocumentCreatedWhen&gt;2023-04-17T19:12:49.4807952+10:00&lt;/DocumentCreatedWhen&gt;
+    &lt;DocumentCheckedOutVersionHistoryID&gt;65&lt;/DocumentCheckedOutVersionHistoryID&gt;
+    &lt;DocumentPublishedVersionHistoryID&gt;61&lt;/DocumentPublishedVersionHistoryID&gt;
+    &lt;DocumentWorkflowStepID&gt;5885&lt;/DocumentWorkflowStepID&gt;
+    &lt;DocumentCulture&gt;en-US&lt;/DocumentCulture&gt;
+    &lt;DocumentNodeID&gt;141&lt;/DocumentNodeID&gt;
+    &lt;DocumentContent /&gt;
+    &lt;DocumentLastVersionNumber&gt;1.4&lt;/DocumentLastVersionNumber&gt;
+    &lt;DocumentIsArchived&gt;false&lt;/DocumentIsArchived&gt;
+    &lt;DocumentGUID&gt;ceac653e-126c-4221-b810-b435ff28fe0e&lt;/DocumentGUID&gt;
+    &lt;DocumentWorkflowCycleGUID&gt;7f707667-1533-4da6-9b80-cb4ead458a96&lt;/DocumentWorkflowCycleGUID&gt;
+    &lt;DocumentCanBePublished&gt;true&lt;/DocumentCanBePublished&gt;
+    &lt;DocumentPageBuilderWidgets&gt;{"editableAreas":[]}&lt;/DocumentPageBuilderWidgets&gt;
+    &lt;DocumentPageTemplateConfiguration&gt;{"identifier":"DancingGoat.Article","properties":null}&lt;/DocumentPageTemplateConfiguration&gt;
+    &lt;DocumentShowInMenu&gt;false&lt;/DocumentShowInMenu&gt;
+    &lt;ArticleID&gt;24&lt;/ArticleID&gt;
+    &lt;ArticleTitle&gt;THÊM VUI TRỌN VỊ NGON CÙNG EXIMBANK TẠI THE COFFEE BEAN AND TEA LEAF&lt;/ArticleTitle&gt;
+    &lt;ArticleSummary&gt;Giảm 40% - Tối đa 150K
+Áp dụng cho chủ thẻ Tín dụng và Ghi nợ Quốc tế của Eximbank.&lt;/ArticleSummary&gt;
+    &lt;ArticleText&gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Thông tin chi tiết vui lòng liên hệ:&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Eximbank card Center: 1800 1199&amp;lt;br /&amp;gt;
+Email: contact@eximbank.com.vn&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&lt;/ArticleText&gt;
+    &lt;ClassName&gt;DancingGoatCore.Article&lt;/ClassName&gt;
+  &lt;/DancingGoatCore_Article&gt;
+&lt;/NewDataSet&gt;</NodeXML>
+      <ModifiedByUserID>53</ModifiedByUserID>
+      <ModifiedWhen>2023-04-17T18:05:35.1802499+07:00</ModifiedWhen>
+      <VersionNumber>1.4</VersionNumber>
+      <VersionComment></VersionComment>
+      <ToBePublished>false</ToBePublished>
+      <VersionDocumentName>THÊM VUI TRỌN VỊ NGON CÙNG EXIMBANK TẠI THE COFFEE BEAN AND TEA LEAF</VersionDocumentName>
+      <VersionClassID>5534</VersionClassID>
+      <VersionWorkflowID>213</VersionWorkflowID>
+      <VersionWorkflowStepID>5885</VersionWorkflowStepID>
+      <VersionNodeAliasPath>/Articles/Uu-dai/THEM-VUI-TRON-VI-NGON-CUNG-EXIMBANK-TAI-THE-COFFEE</VersionNodeAliasPath>
+    </cms_versionhistory>
+    <cms_versionhistory>
+      <VersionHistoryID>280</VersionHistoryID>
+      <NodeSiteID>7</NodeSiteID>
+      <DocumentID>643</DocumentID>
+      <NodeXML>&lt;NewDataSet&gt;
+  &lt;DancingGoatCore_Article&gt;
+    &lt;NodeID&gt;141&lt;/NodeID&gt;
+    &lt;NodeAliasPath&gt;/Articles/Uu-dai/THEM-VUI-TRON-VI-NGON-CUNG-EXIMBANK-TAI-THE-COFFEE&lt;/NodeAliasPath&gt;
+    &lt;NodeName&gt;THÊM VUI TRỌN VỊ NGON CÙNG EXIMBANK TẠI THE COFFEE BEAN AND TEA LEAF&lt;/NodeName&gt;
+    &lt;NodeAlias&gt;THEM-VUI-TRON-VI-NGON-CUNG-EXIMBANK-TAI-THE-COFFEE&lt;/NodeAlias&gt;
+    &lt;NodeClassID&gt;5507&lt;/NodeClassID&gt;
+    &lt;NodeParentID&gt;136&lt;/NodeParentID&gt;
+    &lt;NodeLevel&gt;3&lt;/NodeLevel&gt;
+    &lt;NodeACLID&gt;1&lt;/NodeACLID&gt;
+    &lt;NodeSiteID&gt;1&lt;/NodeSiteID&gt;
+    &lt;NodeGUID&gt;2bbcd169-8118-4b30-867f-68fe442be4ea&lt;/NodeGUID&gt;
+    &lt;NodeOrder&gt;4&lt;/NodeOrder&gt;
+    &lt;NodeOwner&gt;75&lt;/NodeOwner&gt;
+    &lt;NodeHasChildren&gt;false&lt;/NodeHasChildren&gt;
+    &lt;NodeHasLinks&gt;false&lt;/NodeHasLinks&gt;
+    &lt;NodeOriginalNodeID&gt;141&lt;/NodeOriginalNodeID&gt;
+    &lt;NodeIsACLOwner&gt;false&lt;/NodeIsACLOwner&gt;
+    &lt;DocumentID&gt;129&lt;/DocumentID&gt;
+    &lt;DocumentName&gt;THÊM VUI TRỌN VỊ NGON CÙNG EXIMBANK TẠI THE COFFEE BEAN AND TEA LEAF&lt;/DocumentName&gt;
+    &lt;DocumentModifiedWhen&gt;2023-04-17T21:05:38.0441702+10:00&lt;/DocumentModifiedWhen&gt;
+    &lt;DocumentModifiedByUserID&gt;75&lt;/DocumentModifiedByUserID&gt;
+    &lt;DocumentForeignKeyValue&gt;24&lt;/DocumentForeignKeyValue&gt;
+    &lt;DocumentCreatedByUserID&gt;75&lt;/DocumentCreatedByUserID&gt;
+    &lt;DocumentCreatedWhen&gt;2023-04-17T19:12:49.4807952+10:00&lt;/DocumentCreatedWhen&gt;
+    &lt;DocumentCheckedOutVersionHistoryID&gt;66&lt;/DocumentCheckedOutVersionHistoryID&gt;
+    &lt;DocumentPublishedVersionHistoryID&gt;61&lt;/DocumentPublishedVersionHistoryID&gt;
+    &lt;DocumentWorkflowStepID&gt;5885&lt;/DocumentWorkflowStepID&gt;
+    &lt;DocumentCulture&gt;en-US&lt;/DocumentCulture&gt;
+    &lt;DocumentNodeID&gt;141&lt;/DocumentNodeID&gt;
+    &lt;DocumentContent /&gt;
+    &lt;DocumentLastVersionNumber&gt;1.5&lt;/DocumentLastVersionNumber&gt;
+    &lt;DocumentIsArchived&gt;false&lt;/DocumentIsArchived&gt;
+    &lt;DocumentGUID&gt;ceac653e-126c-4221-b810-b435ff28fe0e&lt;/DocumentGUID&gt;
+    &lt;DocumentWorkflowCycleGUID&gt;7f707667-1533-4da6-9b80-cb4ead458a96&lt;/DocumentWorkflowCycleGUID&gt;
+    &lt;DocumentCanBePublished&gt;true&lt;/DocumentCanBePublished&gt;
+    &lt;DocumentPageBuilderWidgets&gt;{"editableAreas":[]}&lt;/DocumentPageBuilderWidgets&gt;
+    &lt;DocumentPageTemplateConfiguration&gt;{"identifier":"DancingGoat.Article","properties":null}&lt;/DocumentPageTemplateConfiguration&gt;
+    &lt;DocumentShowInMenu&gt;false&lt;/DocumentShowInMenu&gt;
+    &lt;ArticleID&gt;24&lt;/ArticleID&gt;
+    &lt;ArticleTitle&gt;THÊM VUI TRỌN VỊ NGON CÙNG EXIMBANK TẠI THE COFFEE BEAN AND TEA LEAF&lt;/ArticleTitle&gt;
+    &lt;ArticleSummary&gt;Giảm 40% - Tối đa 150K
+Áp dụng cho chủ thẻ Tín dụng và Ghi nợ Quốc tế của Eximbank.&lt;/ArticleSummary&gt;
+    &lt;ArticleText&gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;img alt="The-Coffee-bean_tent-Card-_Email-MKT-(1).jpg" src="~/getattachment/dcb316a5-ee6b-47c6-af6b-90ae887b5828/The-Coffee-bean_tent-Card-_Email-MKT-(1).jpg" style="width: 424px; height: 600px;" title="The-Coffee-bean_tent-Card-_Email-MKT-(1).jpg" /&amp;gt;&amp;lt;br /&amp;gt;
+Thông tin chi tiết vui lòng liên hệ:&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Eximbank card Center: 1800 1199&amp;lt;br /&amp;gt;
+Email: contact@eximbank.com.vn&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&lt;/ArticleText&gt;
+    &lt;ClassName&gt;DancingGoatCore.Article&lt;/ClassName&gt;
+  &lt;/DancingGoatCore_Article&gt;
+&lt;/NewDataSet&gt;</NodeXML>
+      <ModifiedByUserID>53</ModifiedByUserID>
+      <ModifiedWhen>2023-04-17T18:05:38.0598031+07:00</ModifiedWhen>
+      <VersionNumber>2.0</VersionNumber>
+      <VersionComment></VersionComment>
+      <ToBePublished>false</ToBePublished>
+      <WasPublishedFrom>2023-04-17T18:12:26.24344+07:00</WasPublishedFrom>
+      <VersionDocumentName>THÊM VUI TRỌN VỊ NGON CÙNG EXIMBANK TẠI THE COFFEE BEAN AND TEA LEAF</VersionDocumentName>
+      <VersionClassID>5534</VersionClassID>
+      <VersionWorkflowID>213</VersionWorkflowID>
+      <VersionWorkflowStepID>5886</VersionWorkflowStepID>
+      <VersionNodeAliasPath>/Articles/Uu-dai/THEM-VUI-TRON-VI-NGON-CUNG-EXIMBANK-TAI-THE-COFFEE</VersionNodeAliasPath>
+    </cms_versionhistory>
+    <cms_versionhistory>
+      <VersionHistoryID>290</VersionHistoryID>
+      <NodeSiteID>7</NodeSiteID>
+      <DocumentID>642</DocumentID>
+      <NodeXML>&lt;NewDataSet&gt;
+  &lt;DancingGoatCore_Article&gt;
+    &lt;NodeID&gt;140&lt;/NodeID&gt;
+    &lt;NodeAliasPath&gt;/Articles/Uu-dai/THOAI-MAI-VUI-CHOI-KHONG-LO-BOOK-PHONG-UU-DAI-DOC&lt;/NodeAliasPath&gt;
+    &lt;NodeName&gt;THOẢI MÁI VUI CHƠI KHÔNG LO BOOK PHÒNG ƯU ĐÃI ĐỘC QUYỀN TỪ MYTOUR DÀNH CHO CHỦ THẺ EXIMBANK&lt;/NodeName&gt;
+    &lt;NodeAlias&gt;THOAI-MAI-VUI-CHOI-KHONG-LO-BOOK-PHONG-UU-DAI-DOC&lt;/NodeAlias&gt;
+    &lt;NodeClassID&gt;5507&lt;/NodeClassID&gt;
+    &lt;NodeParentID&gt;136&lt;/NodeParentID&gt;
+    &lt;NodeLevel&gt;3&lt;/NodeLevel&gt;
+    &lt;NodeACLID&gt;1&lt;/NodeACLID&gt;
+    &lt;NodeSiteID&gt;1&lt;/NodeSiteID&gt;
+    &lt;NodeGUID&gt;4199a375-9bcd-45cc-9a57-d4e9765a50d8&lt;/NodeGUID&gt;
+    &lt;NodeOrder&gt;6&lt;/NodeOrder&gt;
+    &lt;NodeOwner&gt;75&lt;/NodeOwner&gt;
+    &lt;NodeHasChildren&gt;false&lt;/NodeHasChildren&gt;
+    &lt;NodeHasLinks&gt;false&lt;/NodeHasLinks&gt;
+    &lt;NodeOriginalNodeID&gt;140&lt;/NodeOriginalNodeID&gt;
+    &lt;NodeIsACLOwner&gt;false&lt;/NodeIsACLOwner&gt;
+    &lt;DocumentID&gt;128&lt;/DocumentID&gt;
+    &lt;DocumentName&gt;THOẢI MÁI VUI CHƠI KHÔNG LO BOOK PHÒNG ƯU ĐÃI ĐỘC QUYỀN TỪ MYTOUR DÀNH CHO CHỦ THẺ EXIMBANK&lt;/DocumentName&gt;
+    &lt;DocumentModifiedWhen&gt;2023-04-17T19:10:31.1380901+10:00&lt;/DocumentModifiedWhen&gt;
+    &lt;DocumentModifiedByUserID&gt;75&lt;/DocumentModifiedByUserID&gt;
+    &lt;DocumentForeignKeyValue&gt;23&lt;/DocumentForeignKeyValue&gt;
+    &lt;DocumentCreatedByUserID&gt;75&lt;/DocumentCreatedByUserID&gt;
+    &lt;DocumentCreatedWhen&gt;2023-04-17T19:10:31.1380901+10:00&lt;/DocumentCreatedWhen&gt;
+    &lt;DocumentCheckedOutVersionHistoryID&gt;76&lt;/DocumentCheckedOutVersionHistoryID&gt;
+    &lt;DocumentPublishedVersionHistoryID&gt;76&lt;/DocumentPublishedVersionHistoryID&gt;
+    &lt;DocumentWorkflowStepID&gt;5886&lt;/DocumentWorkflowStepID&gt;
+    &lt;DocumentCulture&gt;en-US&lt;/DocumentCulture&gt;
+    &lt;DocumentNodeID&gt;140&lt;/DocumentNodeID&gt;
+    &lt;DocumentContent /&gt;
+    &lt;DocumentLastVersionNumber&gt;1.0&lt;/DocumentLastVersionNumber&gt;
+    &lt;DocumentIsArchived&gt;false&lt;/DocumentIsArchived&gt;
+    &lt;DocumentGUID&gt;e18d0aa4-0cdb-49a3-8a8d-00fb39b6937a&lt;/DocumentGUID&gt;
+    &lt;DocumentWorkflowCycleGUID&gt;1793252b-1bc7-429a-aac0-efbe644ba7c9&lt;/DocumentWorkflowCycleGUID&gt;
+    &lt;DocumentCanBePublished&gt;true&lt;/DocumentCanBePublished&gt;
+    &lt;DocumentPageBuilderWidgets /&gt;
+    &lt;DocumentPageTemplateConfiguration&gt;{"identifier":"DancingGoat.Article","configurationIdentifier":"7dd9abbc-caa1-47ec-a523-5fd42cbf4069","properties":null}&lt;/DocumentPageTemplateConfiguration&gt;
+    &lt;DocumentShowInMenu&gt;false&lt;/DocumentShowInMenu&gt;
+    &lt;ArticleID&gt;23&lt;/ArticleID&gt;
+    &lt;ArticleTitle&gt;THOẢI MÁI VUI CHƠI KHÔNG LO BOOK PHÒNG ƯU ĐÃI ĐỘC QUYỀN TỪ MYTOUR DÀNH CHO CHỦ THẺ EXIMBANK&lt;/ArticleTitle&gt;
+    &lt;ArticleSummary&gt;ĐỘC QUYỀN TỪ MYTOUR DÀNH CHO CHỦ THẺ EXIMBANK&lt;/ArticleSummary&gt;
+    &lt;ArticleText&gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Thông tin chi tiết vui lòng liên hệ:&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Eximbank card Center: 1800 1199&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Email: contact@eximbank.com.vn&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&lt;/ArticleText&gt;
+    &lt;ClassName&gt;DancingGoatCore.Article&lt;/ClassName&gt;
+  &lt;/DancingGoatCore_Article&gt;
+&lt;/NewDataSet&gt;</NodeXML>
+      <ModifiedByUserID>53</ModifiedByUserID>
+      <ModifiedWhen>2023-04-17T18:09:58.16648+07:00</ModifiedWhen>
+      <VersionNumber>1.0</VersionNumber>
+      <VersionComment></VersionComment>
+      <ToBePublished>false</ToBePublished>
+      <PublishTo>2023-04-17T18:12:43.3142517+07:00</PublishTo>
+      <WasPublishedFrom>2023-04-17T18:09:58.16648+07:00</WasPublishedFrom>
+      <WasPublishedTo>2023-04-17T18:12:43.3142517+07:00</WasPublishedTo>
+      <VersionDocumentName>THOẢI MÁI VUI CHƠI KHÔNG LO BOOK PHÒNG ƯU ĐÃI ĐỘC QUYỀN TỪ MYTOUR DÀNH CHO CHỦ THẺ EXIMBANK</VersionDocumentName>
+      <VersionClassID>5534</VersionClassID>
+      <VersionWorkflowID>213</VersionWorkflowID>
+      <VersionWorkflowStepID>5886</VersionWorkflowStepID>
+      <VersionNodeAliasPath>/Articles/Uu-dai/THOAI-MAI-VUI-CHOI-KHONG-LO-BOOK-PHONG-UU-DAI-DOC</VersionNodeAliasPath>
+    </cms_versionhistory>
+    <cms_versionhistory>
+      <VersionHistoryID>291</VersionHistoryID>
+      <NodeSiteID>7</NodeSiteID>
+      <DocumentID>642</DocumentID>
+      <NodeXML>&lt;NewDataSet&gt;
+  &lt;DancingGoatCore_Article&gt;
+    &lt;NodeID&gt;140&lt;/NodeID&gt;
+    &lt;NodeAliasPath&gt;/Articles/Uu-dai/THOAI-MAI-VUI-CHOI-KHONG-LO-BOOK-PHONG-UU-DAI-DOC&lt;/NodeAliasPath&gt;
+    &lt;NodeName&gt;THOẢI MÁI VUI CHƠI KHÔNG LO BOOK PHÒNG ƯU ĐÃI ĐỘC QUYỀN TỪ MYTOUR DÀNH CHO CHỦ THẺ EXIMBANK&lt;/NodeName&gt;
+    &lt;NodeAlias&gt;THOAI-MAI-VUI-CHOI-KHONG-LO-BOOK-PHONG-UU-DAI-DOC&lt;/NodeAlias&gt;
+    &lt;NodeClassID&gt;5507&lt;/NodeClassID&gt;
+    &lt;NodeParentID&gt;136&lt;/NodeParentID&gt;
+    &lt;NodeLevel&gt;3&lt;/NodeLevel&gt;
+    &lt;NodeACLID&gt;1&lt;/NodeACLID&gt;
+    &lt;NodeSiteID&gt;1&lt;/NodeSiteID&gt;
+    &lt;NodeGUID&gt;4199a375-9bcd-45cc-9a57-d4e9765a50d8&lt;/NodeGUID&gt;
+    &lt;NodeOrder&gt;6&lt;/NodeOrder&gt;
+    &lt;NodeOwner&gt;75&lt;/NodeOwner&gt;
+    &lt;NodeHasChildren&gt;false&lt;/NodeHasChildren&gt;
+    &lt;NodeHasLinks&gt;false&lt;/NodeHasLinks&gt;
+    &lt;NodeOriginalNodeID&gt;140&lt;/NodeOriginalNodeID&gt;
+    &lt;NodeIsACLOwner&gt;false&lt;/NodeIsACLOwner&gt;
+    &lt;DocumentID&gt;128&lt;/DocumentID&gt;
+    &lt;DocumentName&gt;THOẢI MÁI VUI CHƠI KHÔNG LO BOOK PHÒNG ƯU ĐÃI ĐỘC QUYỀN TỪ MYTOUR DÀNH CHO CHỦ THẺ EXIMBANK&lt;/DocumentName&gt;
+    &lt;DocumentModifiedWhen&gt;2023-04-17T21:09:59.4475258+10:00&lt;/DocumentModifiedWhen&gt;
+    &lt;DocumentModifiedByUserID&gt;75&lt;/DocumentModifiedByUserID&gt;
+    &lt;DocumentForeignKeyValue&gt;23&lt;/DocumentForeignKeyValue&gt;
+    &lt;DocumentCreatedByUserID&gt;75&lt;/DocumentCreatedByUserID&gt;
+    &lt;DocumentCreatedWhen&gt;2023-04-17T19:10:31.1380901+10:00&lt;/DocumentCreatedWhen&gt;
+    &lt;DocumentCheckedOutVersionHistoryID&gt;77&lt;/DocumentCheckedOutVersionHistoryID&gt;
+    &lt;DocumentPublishedVersionHistoryID&gt;76&lt;/DocumentPublishedVersionHistoryID&gt;
+    &lt;DocumentWorkflowStepID&gt;5885&lt;/DocumentWorkflowStepID&gt;
+    &lt;DocumentCulture&gt;en-US&lt;/DocumentCulture&gt;
+    &lt;DocumentNodeID&gt;140&lt;/DocumentNodeID&gt;
+    &lt;DocumentContent /&gt;
+    &lt;DocumentLastVersionNumber&gt;1.1&lt;/DocumentLastVersionNumber&gt;
+    &lt;DocumentIsArchived&gt;false&lt;/DocumentIsArchived&gt;
+    &lt;DocumentGUID&gt;e18d0aa4-0cdb-49a3-8a8d-00fb39b6937a&lt;/DocumentGUID&gt;
+    &lt;DocumentWorkflowCycleGUID&gt;de48b722-f55b-4649-8949-edc265202911&lt;/DocumentWorkflowCycleGUID&gt;
+    &lt;DocumentCanBePublished&gt;true&lt;/DocumentCanBePublished&gt;
+    &lt;DocumentPageBuilderWidgets /&gt;
+    &lt;DocumentPageTemplateConfiguration&gt;{"identifier":"DancingGoat.Article","configurationIdentifier":"7dd9abbc-caa1-47ec-a523-5fd42cbf4069","properties":null}&lt;/DocumentPageTemplateConfiguration&gt;
+    &lt;DocumentShowInMenu&gt;false&lt;/DocumentShowInMenu&gt;
+    &lt;ArticleID&gt;23&lt;/ArticleID&gt;
+    &lt;ArticleTitle&gt;THOẢI MÁI VUI CHƠI KHÔNG LO BOOK PHÒNG ƯU ĐÃI ĐỘC QUYỀN TỪ MYTOUR DÀNH CHO CHỦ THẺ EXIMBANK&lt;/ArticleTitle&gt;
+    &lt;ArticleSummary&gt;ĐỘC QUYỀN TỪ MYTOUR DÀNH CHO CHỦ THẺ EXIMBANK&lt;/ArticleSummary&gt;
+    &lt;ArticleText&gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Thông tin chi tiết vui lòng liên hệ:&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Eximbank card Center: 1800 1199&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Email: contact@eximbank.com.vn&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&lt;/ArticleText&gt;
+    &lt;ClassName&gt;DancingGoatCore.Article&lt;/ClassName&gt;
+  &lt;/DancingGoatCore_Article&gt;
+&lt;/NewDataSet&gt;</NodeXML>
+      <ModifiedByUserID>53</ModifiedByUserID>
+      <ModifiedWhen>2023-04-17T18:09:59.4787775+07:00</ModifiedWhen>
+      <VersionNumber>1.1</VersionNumber>
+      <VersionComment></VersionComment>
+      <ToBePublished>false</ToBePublished>
+      <VersionDocumentName>THOẢI MÁI VUI CHƠI KHÔNG LO BOOK PHÒNG ƯU ĐÃI ĐỘC QUYỀN TỪ MYTOUR DÀNH CHO CHỦ THẺ EXIMBANK</VersionDocumentName>
+      <VersionClassID>5534</VersionClassID>
+      <VersionWorkflowID>213</VersionWorkflowID>
+      <VersionWorkflowStepID>5885</VersionWorkflowStepID>
+      <VersionNodeAliasPath>/Articles/Uu-dai/THOAI-MAI-VUI-CHOI-KHONG-LO-BOOK-PHONG-UU-DAI-DOC</VersionNodeAliasPath>
+    </cms_versionhistory>
+    <cms_versionhistory>
+      <VersionHistoryID>292</VersionHistoryID>
+      <NodeSiteID>7</NodeSiteID>
+      <DocumentID>642</DocumentID>
+      <NodeXML>&lt;NewDataSet&gt;
+  &lt;DancingGoatCore_Article&gt;
+    &lt;NodeID&gt;140&lt;/NodeID&gt;
+    &lt;NodeAliasPath&gt;/Articles/Uu-dai/THOAI-MAI-VUI-CHOI-KHONG-LO-BOOK-PHONG-UU-DAI-DOC&lt;/NodeAliasPath&gt;
+    &lt;NodeName&gt;THOẢI MÁI VUI CHƠI KHÔNG LO BOOK PHÒNG ƯU ĐÃI ĐỘC QUYỀN TỪ MYTOUR DÀNH CHO CHỦ THẺ EXIMBANK&lt;/NodeName&gt;
+    &lt;NodeAlias&gt;THOAI-MAI-VUI-CHOI-KHONG-LO-BOOK-PHONG-UU-DAI-DOC&lt;/NodeAlias&gt;
+    &lt;NodeClassID&gt;5507&lt;/NodeClassID&gt;
+    &lt;NodeParentID&gt;136&lt;/NodeParentID&gt;
+    &lt;NodeLevel&gt;3&lt;/NodeLevel&gt;
+    &lt;NodeACLID&gt;1&lt;/NodeACLID&gt;
+    &lt;NodeSiteID&gt;1&lt;/NodeSiteID&gt;
+    &lt;NodeGUID&gt;4199a375-9bcd-45cc-9a57-d4e9765a50d8&lt;/NodeGUID&gt;
+    &lt;NodeOrder&gt;6&lt;/NodeOrder&gt;
+    &lt;NodeOwner&gt;75&lt;/NodeOwner&gt;
+    &lt;NodeHasChildren&gt;false&lt;/NodeHasChildren&gt;
+    &lt;NodeHasLinks&gt;false&lt;/NodeHasLinks&gt;
+    &lt;NodeOriginalNodeID&gt;140&lt;/NodeOriginalNodeID&gt;
+    &lt;NodeIsACLOwner&gt;false&lt;/NodeIsACLOwner&gt;
+    &lt;DocumentID&gt;128&lt;/DocumentID&gt;
+    &lt;DocumentName&gt;THOẢI MÁI VUI CHƠI KHÔNG LO BOOK PHÒNG ƯU ĐÃI ĐỘC QUYỀN TỪ MYTOUR DÀNH CHO CHỦ THẺ EXIMBANK&lt;/DocumentName&gt;
+    &lt;DocumentModifiedWhen&gt;2023-04-17T21:10:49.63825+10:00&lt;/DocumentModifiedWhen&gt;
+    &lt;DocumentModifiedByUserID&gt;75&lt;/DocumentModifiedByUserID&gt;
+    &lt;DocumentForeignKeyValue&gt;23&lt;/DocumentForeignKeyValue&gt;
+    &lt;DocumentCreatedByUserID&gt;75&lt;/DocumentCreatedByUserID&gt;
+    &lt;DocumentCreatedWhen&gt;2023-04-17T19:10:31.1380901+10:00&lt;/DocumentCreatedWhen&gt;
+    &lt;DocumentCheckedOutVersionHistoryID&gt;78&lt;/DocumentCheckedOutVersionHistoryID&gt;
+    &lt;DocumentPublishedVersionHistoryID&gt;76&lt;/DocumentPublishedVersionHistoryID&gt;
+    &lt;DocumentWorkflowStepID&gt;5885&lt;/DocumentWorkflowStepID&gt;
+    &lt;DocumentCulture&gt;en-US&lt;/DocumentCulture&gt;
+    &lt;DocumentNodeID&gt;140&lt;/DocumentNodeID&gt;
+    &lt;DocumentContent /&gt;
+    &lt;DocumentLastVersionNumber&gt;1.2&lt;/DocumentLastVersionNumber&gt;
+    &lt;DocumentIsArchived&gt;false&lt;/DocumentIsArchived&gt;
+    &lt;DocumentGUID&gt;e18d0aa4-0cdb-49a3-8a8d-00fb39b6937a&lt;/DocumentGUID&gt;
+    &lt;DocumentWorkflowCycleGUID&gt;de48b722-f55b-4649-8949-edc265202911&lt;/DocumentWorkflowCycleGUID&gt;
+    &lt;DocumentCanBePublished&gt;true&lt;/DocumentCanBePublished&gt;
+    &lt;DocumentPageBuilderWidgets /&gt;
+    &lt;DocumentPageTemplateConfiguration&gt;{"identifier":"DancingGoat.Article","configurationIdentifier":"7dd9abbc-caa1-47ec-a523-5fd42cbf4069","properties":null}&lt;/DocumentPageTemplateConfiguration&gt;
+    &lt;DocumentShowInMenu&gt;false&lt;/DocumentShowInMenu&gt;
+    &lt;ArticleID&gt;23&lt;/ArticleID&gt;
+    &lt;ArticleTitle&gt;THOẢI MÁI VUI CHƠI KHÔNG LO BOOK PHÒNG ƯU ĐÃI ĐỘC QUYỀN TỪ MYTOUR DÀNH CHO CHỦ THẺ EXIMBANK&lt;/ArticleTitle&gt;
+    &lt;ArticleSummary&gt;ĐỘC QUYỀN TỪ MYTOUR DÀNH CHO CHỦ THẺ EXIMBANK&lt;/ArticleSummary&gt;
+    &lt;ArticleText&gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;img alt="Email-MKT.png" src="~/getattachment/673e0dc5-adcc-4315-8ed1-66b0c18b681a/Email-MKT.png" style="width: 125px; height: 187px;" title="Email-MKT.png" /&amp;gt;&amp;lt;br /&amp;gt;
+Thông tin chi tiết vui lòng liên hệ:&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Eximbank card Center: 1800 1199&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Email: contact@eximbank.com.vn&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&lt;/ArticleText&gt;
+    &lt;ClassName&gt;DancingGoatCore.Article&lt;/ClassName&gt;
+  &lt;/DancingGoatCore_Article&gt;
+&lt;/NewDataSet&gt;</NodeXML>
+      <ModifiedByUserID>53</ModifiedByUserID>
+      <ModifiedWhen>2023-04-17T18:10:49.6538293+07:00</ModifiedWhen>
+      <VersionNumber>2.0</VersionNumber>
+      <VersionComment></VersionComment>
+      <ToBePublished>false</ToBePublished>
+      <WasPublishedFrom>2023-04-17T18:12:43.3142517+07:00</WasPublishedFrom>
+      <VersionDocumentName>THOẢI MÁI VUI CHƠI KHÔNG LO BOOK PHÒNG ƯU ĐÃI ĐỘC QUYỀN TỪ MYTOUR DÀNH CHO CHỦ THẺ EXIMBANK</VersionDocumentName>
+      <VersionClassID>5534</VersionClassID>
+      <VersionWorkflowID>213</VersionWorkflowID>
+      <VersionWorkflowStepID>5886</VersionWorkflowStepID>
+      <VersionNodeAliasPath>/Articles/Uu-dai/THOAI-MAI-VUI-CHOI-KHONG-LO-BOOK-PHONG-UU-DAI-DOC</VersionNodeAliasPath>
+    </cms_versionhistory>
+    <cms_versionhistory>
+      <VersionHistoryID>293</VersionHistoryID>
+      <NodeSiteID>7</NodeSiteID>
+      <DocumentID>645</DocumentID>
+      <NodeXML>&lt;NewDataSet&gt;
+  &lt;DancingGoatCore_Article&gt;
+    &lt;NodeID&gt;143&lt;/NodeID&gt;
+    &lt;NodeAliasPath&gt;/Articles/Uu-dai/CUNG-EXIMBANK-EDIGI-NAP-PHONE-PHUT-CHOC,-UU-DAI-CU&lt;/NodeAliasPath&gt;
+    &lt;NodeName&gt;CÙNG EXIMBANK EDIGI NẠP PHONE PHÚT CHỐC, ƯU ĐÃI CỰC SỐC GIẢM 2%&lt;/NodeName&gt;
+    &lt;NodeAlias&gt;CUNG-EXIMBANK-EDIGI-NAP-PHONE-PHUT-CHOC,-UU-DAI-CU&lt;/NodeAlias&gt;
+    &lt;NodeClassID&gt;5507&lt;/NodeClassID&gt;
+    &lt;NodeParentID&gt;136&lt;/NodeParentID&gt;
+    &lt;NodeLevel&gt;3&lt;/NodeLevel&gt;
+    &lt;NodeACLID&gt;1&lt;/NodeACLID&gt;
+    &lt;NodeSiteID&gt;1&lt;/NodeSiteID&gt;
+    &lt;NodeGUID&gt;ba8fd461-a5a9-4ee1-85e5-cace64677e60&lt;/NodeGUID&gt;
+    &lt;NodeOrder&gt;1&lt;/NodeOrder&gt;
+    &lt;NodeOwner&gt;75&lt;/NodeOwner&gt;
+    &lt;NodeHasChildren&gt;false&lt;/NodeHasChildren&gt;
+    &lt;NodeHasLinks&gt;false&lt;/NodeHasLinks&gt;
+    &lt;NodeOriginalNodeID&gt;143&lt;/NodeOriginalNodeID&gt;
+    &lt;NodeIsACLOwner&gt;false&lt;/NodeIsACLOwner&gt;
+    &lt;DocumentID&gt;131&lt;/DocumentID&gt;
+    &lt;DocumentName&gt;CÙNG EXIMBANK EDIGI NẠP PHONE PHÚT CHỐC, ƯU ĐÃI CỰC SỐC GIẢM 2%&lt;/DocumentName&gt;
+    &lt;DocumentModifiedWhen&gt;2023-04-17T21:12:08.1167629+10:00&lt;/DocumentModifiedWhen&gt;
+    &lt;DocumentModifiedByUserID&gt;75&lt;/DocumentModifiedByUserID&gt;
+    &lt;DocumentForeignKeyValue&gt;26&lt;/DocumentForeignKeyValue&gt;
+    &lt;DocumentCreatedByUserID&gt;75&lt;/DocumentCreatedByUserID&gt;
+    &lt;DocumentCreatedWhen&gt;2023-04-17T19:30:03.7925472+10:00&lt;/DocumentCreatedWhen&gt;
+    &lt;DocumentCheckedOutVersionHistoryID&gt;79&lt;/DocumentCheckedOutVersionHistoryID&gt;
+    &lt;DocumentPublishedVersionHistoryID&gt;54&lt;/DocumentPublishedVersionHistoryID&gt;
+    &lt;DocumentWorkflowStepID&gt;5885&lt;/DocumentWorkflowStepID&gt;
+    &lt;DocumentPublishFrom&gt;2023-04-04T19:29:08+10:00&lt;/DocumentPublishFrom&gt;
+    &lt;DocumentPublishTo&gt;2023-12-31T19:29:16+11:00&lt;/DocumentPublishTo&gt;
+    &lt;DocumentCulture&gt;en-US&lt;/DocumentCulture&gt;
+    &lt;DocumentNodeID&gt;143&lt;/DocumentNodeID&gt;
+    &lt;DocumentContent /&gt;
+    &lt;DocumentLastPublished&gt;2023-04-17T19:36:29.1282814+10:00&lt;/DocumentLastPublished&gt;
+    &lt;DocumentLastVersionNumber&gt;2.1&lt;/DocumentLastVersionNumber&gt;
+    &lt;DocumentIsArchived&gt;false&lt;/DocumentIsArchived&gt;
+    &lt;DocumentGUID&gt;587d42a0-31b9-4188-bb75-f1a46ccb647d&lt;/DocumentGUID&gt;
+    &lt;DocumentWorkflowCycleGUID&gt;b0024898-b1b5-4ec9-a4f5-9ace18d033ed&lt;/DocumentWorkflowCycleGUID&gt;
+    &lt;DocumentCanBePublished&gt;true&lt;/DocumentCanBePublished&gt;
+    &lt;DocumentPageTemplateConfiguration&gt;{"identifier":"DancingGoat.Article","properties":null}&lt;/DocumentPageTemplateConfiguration&gt;
+    &lt;DocumentShowInMenu&gt;false&lt;/DocumentShowInMenu&gt;
+    &lt;ArticleID&gt;26&lt;/ArticleID&gt;
+    &lt;ArticleTitle&gt;CÙNG EXIMBANK EDIGI NẠP PHONE PHÚT CHỐC, ƯU ĐÃI CỰC SỐC GIẢM 2%&lt;/ArticleTitle&gt;
+    &lt;ArticleSummary&gt;Khách hàng cá nhân thực hiện giao dịch nạp tiền điện thoại di động VnToup trên Eximbank EDigi.&lt;/ArticleSummary&gt;
+    &lt;ArticleText&gt;&amp;lt;div style="text-align: center;"&amp;gt;&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+Thời gian triển khai: Từ 04/04/2023 đến 31/12/2023&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Đối tượng áp dụng:&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Khách hàng cá nhân thực hiện giao dịch nạp tiền điện thoại di động VnToup trên Eximbank EDigi.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Ưu đãi áp dụng:&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Khách hàng nhận giảm giá 2% trên số tiền nạp tiền di động.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Hãy đăng ký sử dụng dịch vụ Eximbank EDigi ngay hôm nay để trải nghiệm đa dạng các dịch vụ tài chính như:&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Gửi Tiết kiệm Online, nhận nhiều quà tặng hấp dẫn, giao tận nơi&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Chuyển tiền với hạn mức cao 5 tỷ/ngày. Riêng gói Online Banking VIP hạn mức lên đến 30 tỷ/ngày.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Miễn phí nhận tin nhắn biến động số dư OTT trên Eximbank EDigi&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Miễn phí chuyển tiền Online, với gói &amp;amp;ldquo;Sử dụng combo, Miễn phí chuyển tiền Online&amp;amp;rdquo; chỉ cần duy trì tối thiểu 500.000 đồng trong tài khoản.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Đa dạng các dịch vụ thanh toán: thanh toán tiền điện, tiền nước, mua vé máy bay, đóng học phí, nộp tiền chứng khoán, đóng tiền cước viễn thông, &amp;amp;hellip;.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Để biết thêm chi tiết Quý khách vui lòng liên hệ 18001199.&lt;/ArticleText&gt;
+    &lt;ClassName&gt;DancingGoatCore.Article&lt;/ClassName&gt;
+  &lt;/DancingGoatCore_Article&gt;
+&lt;/NewDataSet&gt;</NodeXML>
+      <ModifiedByUserID>53</ModifiedByUserID>
+      <ModifiedWhen>2023-04-17T18:12:08.1167629+07:00</ModifiedWhen>
+      <VersionNumber>2.1</VersionNumber>
+      <VersionComment></VersionComment>
+      <ToBePublished>false</ToBePublished>
+      <PublishFrom>2023-04-04T16:29:08+07:00</PublishFrom>
+      <PublishTo>2023-12-31T15:29:16+07:00</PublishTo>
+      <VersionDocumentName>CÙNG EXIMBANK EDIGI NẠP PHONE PHÚT CHỐC, ƯU ĐÃI CỰC SỐC GIẢM 2%</VersionDocumentName>
+      <VersionClassID>5534</VersionClassID>
+      <VersionWorkflowID>213</VersionWorkflowID>
+      <VersionWorkflowStepID>5885</VersionWorkflowStepID>
+      <VersionNodeAliasPath>/Articles/Uu-dai/CUNG-EXIMBANK-EDIGI-NAP-PHONE-PHUT-CHOC,-UU-DAI-CU</VersionNodeAliasPath>
+    </cms_versionhistory>
+    <cms_versionhistory>
+      <VersionHistoryID>294</VersionHistoryID>
+      <NodeSiteID>7</NodeSiteID>
+      <DocumentID>645</DocumentID>
+      <NodeXML>&lt;NewDataSet&gt;
+  &lt;DancingGoatCore_Article&gt;
+    &lt;NodeID&gt;143&lt;/NodeID&gt;
+    &lt;NodeAliasPath&gt;/Articles/Uu-dai/CUNG-EXIMBANK-EDIGI-NAP-PHONE-PHUT-CHOC,-UU-DAI-CU&lt;/NodeAliasPath&gt;
+    &lt;NodeName&gt;CÙNG EXIMBANK EDIGI NẠP PHONE PHÚT CHỐC, ƯU ĐÃI CỰC SỐC GIẢM 2%&lt;/NodeName&gt;
+    &lt;NodeAlias&gt;CUNG-EXIMBANK-EDIGI-NAP-PHONE-PHUT-CHOC,-UU-DAI-CU&lt;/NodeAlias&gt;
+    &lt;NodeClassID&gt;5507&lt;/NodeClassID&gt;
+    &lt;NodeParentID&gt;136&lt;/NodeParentID&gt;
+    &lt;NodeLevel&gt;3&lt;/NodeLevel&gt;
+    &lt;NodeACLID&gt;1&lt;/NodeACLID&gt;
+    &lt;NodeSiteID&gt;1&lt;/NodeSiteID&gt;
+    &lt;NodeGUID&gt;ba8fd461-a5a9-4ee1-85e5-cace64677e60&lt;/NodeGUID&gt;
+    &lt;NodeOrder&gt;1&lt;/NodeOrder&gt;
+    &lt;NodeOwner&gt;75&lt;/NodeOwner&gt;
+    &lt;NodeHasChildren&gt;false&lt;/NodeHasChildren&gt;
+    &lt;NodeHasLinks&gt;false&lt;/NodeHasLinks&gt;
+    &lt;NodeOriginalNodeID&gt;143&lt;/NodeOriginalNodeID&gt;
+    &lt;NodeIsACLOwner&gt;false&lt;/NodeIsACLOwner&gt;
+    &lt;DocumentID&gt;131&lt;/DocumentID&gt;
+    &lt;DocumentName&gt;CÙNG EXIMBANK EDIGI NẠP PHONE PHÚT CHỐC, ƯU ĐÃI CỰC SỐC GIẢM 2%&lt;/DocumentName&gt;
+    &lt;DocumentModifiedWhen&gt;2023-04-17T21:12:15.9780973+10:00&lt;/DocumentModifiedWhen&gt;
+    &lt;DocumentModifiedByUserID&gt;75&lt;/DocumentModifiedByUserID&gt;
+    &lt;DocumentForeignKeyValue&gt;26&lt;/DocumentForeignKeyValue&gt;
+    &lt;DocumentCreatedByUserID&gt;75&lt;/DocumentCreatedByUserID&gt;
+    &lt;DocumentCreatedWhen&gt;2023-04-17T19:30:03.7925472+10:00&lt;/DocumentCreatedWhen&gt;
+    &lt;DocumentCheckedOutVersionHistoryID&gt;80&lt;/DocumentCheckedOutVersionHistoryID&gt;
+    &lt;DocumentPublishedVersionHistoryID&gt;54&lt;/DocumentPublishedVersionHistoryID&gt;
+    &lt;DocumentWorkflowStepID&gt;5885&lt;/DocumentWorkflowStepID&gt;
+    &lt;DocumentPublishFrom&gt;2023-04-04T19:29:08+10:00&lt;/DocumentPublishFrom&gt;
+    &lt;DocumentPublishTo&gt;2023-12-31T19:29:16+11:00&lt;/DocumentPublishTo&gt;
+    &lt;DocumentCulture&gt;en-US&lt;/DocumentCulture&gt;
+    &lt;DocumentNodeID&gt;143&lt;/DocumentNodeID&gt;
+    &lt;DocumentContent /&gt;
+    &lt;DocumentLastPublished&gt;2023-04-17T19:36:29.1282814+10:00&lt;/DocumentLastPublished&gt;
+    &lt;DocumentLastVersionNumber&gt;2.2&lt;/DocumentLastVersionNumber&gt;
+    &lt;DocumentIsArchived&gt;false&lt;/DocumentIsArchived&gt;
+    &lt;DocumentGUID&gt;587d42a0-31b9-4188-bb75-f1a46ccb647d&lt;/DocumentGUID&gt;
+    &lt;DocumentWorkflowCycleGUID&gt;b0024898-b1b5-4ec9-a4f5-9ace18d033ed&lt;/DocumentWorkflowCycleGUID&gt;
+    &lt;DocumentCanBePublished&gt;true&lt;/DocumentCanBePublished&gt;
+    &lt;DocumentPageTemplateConfiguration&gt;{"identifier":"DancingGoat.Article","properties":null}&lt;/DocumentPageTemplateConfiguration&gt;
+    &lt;DocumentShowInMenu&gt;false&lt;/DocumentShowInMenu&gt;
+    &lt;ArticleID&gt;26&lt;/ArticleID&gt;
+    &lt;ArticleTitle&gt;CÙNG EXIMBANK EDIGI NẠP PHONE PHÚT CHỐC, ƯU ĐÃI CỰC SỐC GIẢM 2%&lt;/ArticleTitle&gt;
+    &lt;ArticleSummary&gt;Khách hàng cá nhân thực hiện giao dịch nạp tiền điện thoại di động VnToup trên Eximbank EDigi.&lt;/ArticleSummary&gt;
+    &lt;ArticleText&gt;&amp;lt;div style="text-align: center;"&amp;gt;&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+&amp;lt;img alt="CUNG-EXIMBANK-EDIGI-NAP-PHONE-PHUT-CHOC,-UU-DAI-CUC-SOC-GIAM-2-_Banner-web.jpg" src="~/getattachment/dfa23a66-4859-429d-a316-b3fd719cbe2a/CUNG-EXIMBANK-EDIGI-NAP-PHONE-PHUT-CHOC,-UU-DAI-CUC-SOC-GIAM-2-_Banner-web.jpg" style="width: 855px; height: 306px;" title="CUNG-EXIMBANK-EDIGI-NAP-PHONE-PHUT-CHOC,-UU-DAI-CUC-SOC-GIAM-2-_Banner-web.jpg" /&amp;gt;&amp;lt;br /&amp;gt;
+Thời gian triển khai: Từ 04/04/2023 đến 31/12/2023&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Đối tượng áp dụng:&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Khách hàng cá nhân thực hiện giao dịch nạp tiền điện thoại di động VnToup trên Eximbank EDigi.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Ưu đãi áp dụng:&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Khách hàng nhận giảm giá 2% trên số tiền nạp tiền di động.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Hãy đăng ký sử dụng dịch vụ Eximbank EDigi ngay hôm nay để trải nghiệm đa dạng các dịch vụ tài chính như:&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Gửi Tiết kiệm Online, nhận nhiều quà tặng hấp dẫn, giao tận nơi&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Chuyển tiền với hạn mức cao 5 tỷ/ngày. Riêng gói Online Banking VIP hạn mức lên đến 30 tỷ/ngày.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Miễn phí nhận tin nhắn biến động số dư OTT trên Eximbank EDigi&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Miễn phí chuyển tiền Online, với gói &amp;amp;ldquo;Sử dụng combo, Miễn phí chuyển tiền Online&amp;amp;rdquo; chỉ cần duy trì tối thiểu 500.000 đồng trong tài khoản.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Đa dạng các dịch vụ thanh toán: thanh toán tiền điện, tiền nước, mua vé máy bay, đóng học phí, nộp tiền chứng khoán, đóng tiền cước viễn thông, &amp;amp;hellip;.&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Để biết thêm chi tiết Quý khách vui lòng liên hệ 18001199.&lt;/ArticleText&gt;
+    &lt;ClassName&gt;DancingGoatCore.Article&lt;/ClassName&gt;
+  &lt;/DancingGoatCore_Article&gt;
+&lt;/NewDataSet&gt;</NodeXML>
+      <ModifiedByUserID>53</ModifiedByUserID>
+      <ModifiedWhen>2023-04-17T18:12:15.9780973+07:00</ModifiedWhen>
+      <VersionNumber>3.0</VersionNumber>
+      <VersionComment></VersionComment>
+      <ToBePublished>false</ToBePublished>
+      <PublishFrom>2023-04-04T16:29:08+07:00</PublishFrom>
+      <PublishTo>2023-12-31T15:29:16+07:00</PublishTo>
+      <WasPublishedFrom>2023-04-17T18:12:20.6517292+07:00</WasPublishedFrom>
+      <VersionDocumentName>CÙNG EXIMBANK EDIGI NẠP PHONE PHÚT CHỐC, ƯU ĐÃI CỰC SỐC GIẢM 2%</VersionDocumentName>
+      <VersionClassID>5534</VersionClassID>
+      <VersionWorkflowID>213</VersionWorkflowID>
+      <VersionWorkflowStepID>5886</VersionWorkflowStepID>
+      <VersionNodeAliasPath>/Articles/Uu-dai/CUNG-EXIMBANK-EDIGI-NAP-PHONE-PHUT-CHOC,-UU-DAI-CU</VersionNodeAliasPath>
+    </cms_versionhistory>
+    <cms_versionhistory>
+      <VersionHistoryID>297</VersionHistoryID>
+      <NodeSiteID>7</NodeSiteID>
+      <DocumentID>642</DocumentID>
+      <NodeXML>&lt;NewDataSet&gt;
+  &lt;DancingGoatCore_Article&gt;
+    &lt;NodeID&gt;140&lt;/NodeID&gt;
+    &lt;NodeAliasPath&gt;/Articles/Uu-dai/THOAI-MAI-VUI-CHOI-KHONG-LO-BOOK-PHONG-UU-DAI-DOC&lt;/NodeAliasPath&gt;
+    &lt;NodeName&gt;THOẢI MÁI VUI CHƠI KHÔNG LO BOOK PHÒNG ƯU ĐÃI ĐỘC QUYỀN TỪ MYTOUR DÀNH CHO CHỦ THẺ EXIMBANK&lt;/NodeName&gt;
+    &lt;NodeAlias&gt;THOAI-MAI-VUI-CHOI-KHONG-LO-BOOK-PHONG-UU-DAI-DOC&lt;/NodeAlias&gt;
+    &lt;NodeClassID&gt;5507&lt;/NodeClassID&gt;
+    &lt;NodeParentID&gt;136&lt;/NodeParentID&gt;
+    &lt;NodeLevel&gt;3&lt;/NodeLevel&gt;
+    &lt;NodeACLID&gt;1&lt;/NodeACLID&gt;
+    &lt;NodeSiteID&gt;1&lt;/NodeSiteID&gt;
+    &lt;NodeGUID&gt;4199a375-9bcd-45cc-9a57-d4e9765a50d8&lt;/NodeGUID&gt;
+    &lt;NodeOrder&gt;6&lt;/NodeOrder&gt;
+    &lt;NodeOwner&gt;75&lt;/NodeOwner&gt;
+    &lt;NodeHasChildren&gt;false&lt;/NodeHasChildren&gt;
+    &lt;NodeHasLinks&gt;false&lt;/NodeHasLinks&gt;
+    &lt;NodeOriginalNodeID&gt;140&lt;/NodeOriginalNodeID&gt;
+    &lt;NodeIsACLOwner&gt;false&lt;/NodeIsACLOwner&gt;
+    &lt;DocumentID&gt;128&lt;/DocumentID&gt;
+    &lt;DocumentName&gt;THOẢI MÁI VUI CHƠI KHÔNG LO BOOK PHÒNG ƯU ĐÃI ĐỘC QUYỀN TỪ MYTOUR DÀNH CHO CHỦ THẺ EXIMBANK&lt;/DocumentName&gt;
+    &lt;DocumentModifiedWhen&gt;2023-04-18T18:04:35.9037309+10:00&lt;/DocumentModifiedWhen&gt;
+    &lt;DocumentModifiedByUserID&gt;75&lt;/DocumentModifiedByUserID&gt;
+    &lt;DocumentForeignKeyValue&gt;23&lt;/DocumentForeignKeyValue&gt;
+    &lt;DocumentCreatedByUserID&gt;75&lt;/DocumentCreatedByUserID&gt;
+    &lt;DocumentCreatedWhen&gt;2023-04-17T19:10:31.1380901+10:00&lt;/DocumentCreatedWhen&gt;
+    &lt;DocumentCheckedOutVersionHistoryID&gt;83&lt;/DocumentCheckedOutVersionHistoryID&gt;
+    &lt;DocumentPublishedVersionHistoryID&gt;78&lt;/DocumentPublishedVersionHistoryID&gt;
+    &lt;DocumentWorkflowStepID&gt;5885&lt;/DocumentWorkflowStepID&gt;
+    &lt;DocumentCulture&gt;en-US&lt;/DocumentCulture&gt;
+    &lt;DocumentNodeID&gt;140&lt;/DocumentNodeID&gt;
+    &lt;DocumentContent /&gt;
+    &lt;DocumentLastPublished&gt;2023-04-17T21:12:41.7204455+10:00&lt;/DocumentLastPublished&gt;
+    &lt;DocumentLastVersionNumber&gt;2.1&lt;/DocumentLastVersionNumber&gt;
+    &lt;DocumentIsArchived&gt;false&lt;/DocumentIsArchived&gt;
+    &lt;DocumentGUID&gt;e18d0aa4-0cdb-49a3-8a8d-00fb39b6937a&lt;/DocumentGUID&gt;
+    &lt;DocumentWorkflowCycleGUID&gt;fb7b1845-83fa-4ccd-9127-2194b0cb51ec&lt;/DocumentWorkflowCycleGUID&gt;
+    &lt;DocumentCanBePublished&gt;true&lt;/DocumentCanBePublished&gt;
+    &lt;DocumentPageBuilderWidgets /&gt;
+    &lt;DocumentPageTemplateConfiguration&gt;{"identifier":"DancingGoat.Article","configurationIdentifier":"7dd9abbc-caa1-47ec-a523-5fd42cbf4069","properties":null}&lt;/DocumentPageTemplateConfiguration&gt;
+    &lt;DocumentShowInMenu&gt;false&lt;/DocumentShowInMenu&gt;
+    &lt;ArticleID&gt;23&lt;/ArticleID&gt;
+    &lt;ArticleTitle&gt;THOẢI MÁI VUI CHƠI KHÔNG LO BOOK PHÒNG ƯU ĐÃI ĐỘC QUYỀN TỪ MYTOUR DÀNH CHO CHỦ THẺ EXIMBANK&lt;/ArticleTitle&gt;
+    &lt;ArticleSummary&gt;ĐỘC QUYỀN TỪ MYTOUR DÀNH CHO CHỦ THẺ EXIMBANK&lt;/ArticleSummary&gt;
+    &lt;ArticleText&gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;img alt="Email-MKT.png" src="~/getattachment/673e0dc5-adcc-4315-8ed1-66b0c18b681a/Email-MKT.png" style="width: 125px; height: 187px;" title="Email-MKT.png" /&amp;gt;&amp;lt;br /&amp;gt;
+Thông tin chi tiết vui lòng liên hệ:&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Eximbank card Center: 1800 1199&amp;lt;br /&amp;gt;
+&amp;lt;br /&amp;gt;
+Email: contact@eximbank.com.vn&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&lt;/ArticleText&gt;
+    &lt;ClassName&gt;DancingGoatCore.Article&lt;/ClassName&gt;
+  &lt;/DancingGoatCore_Article&gt;
+&lt;/NewDataSet&gt;</NodeXML>
+      <ModifiedByUserID>53</ModifiedByUserID>
+      <ModifiedWhen>2023-04-18T15:04:35.9193624+07:00</ModifiedWhen>
+      <VersionNumber>2.1</VersionNumber>
+      <VersionComment></VersionComment>
+      <ToBePublished>false</ToBePublished>
+      <VersionDocumentName>THOẢI MÁI VUI CHƠI KHÔNG LO BOOK PHÒNG ƯU ĐÃI ĐỘC QUYỀN TỪ MYTOUR DÀNH CHO CHỦ THẺ EXIMBANK</VersionDocumentName>
+      <VersionClassID>5534</VersionClassID>
+      <VersionWorkflowID>213</VersionWorkflowID>
+      <VersionWorkflowStepID>5885</VersionWorkflowStepID>
+      <VersionNodeAliasPath>/Articles/Uu-dai/THOAI-MAI-VUI-CHOI-KHONG-LO-BOOK-PHONG-UU-DAI-DOC</VersionNodeAliasPath>
+    </cms_versionhistory>
+  </NewDataSet>
+</cms_versionhistory>

@@ -1,0 +1,233 @@
+﻿<media_library version="13.0">
+  <NewDataSet>
+    <media_library>
+      <LibraryID>30</LibraryID>
+      <LibraryName>Graphics</LibraryName>
+      <LibraryDisplayName>Graphics</LibraryDisplayName>
+      <LibraryDescription>General graphic assets used on the site (e.g. logos and icons)</LibraryDescription>
+      <LibraryFolder>Graphics</LibraryFolder>
+      <LibraryAccess>4444444</LibraryAccess>
+      <LibrarySiteID>7</LibrarySiteID>
+      <LibraryGUID>1a16fa89-c73c-4710-bc59-93570bd32c56</LibraryGUID>
+      <LibraryLastModified>2023-04-21T14:15:36.0541849+07:00</LibraryLastModified>
+      <LibraryUseDirectPathForContent>false</LibraryUseDirectPathForContent>
+    </media_library>
+    <media_library>
+      <LibraryID>29</LibraryID>
+      <LibraryName>banner</LibraryName>
+      <LibraryDisplayName>Banner</LibraryDisplayName>
+      <LibraryFolder>Banner</LibraryFolder>
+      <LibraryAccess>4444444</LibraryAccess>
+      <LibrarySiteID>7</LibrarySiteID>
+      <LibraryGUID>1a668188-d200-488d-aa54-e5b426217ca2</LibraryGUID>
+      <LibraryLastModified>2023-04-21T14:13:06.6022395+07:00</LibraryLastModified>
+      <LibraryTeaserPath>~/getmetafile/26ab3f25-0763-4055-aa8c-3a5a1f12c67b/banner</LibraryTeaserPath>
+      <LibraryTeaserGUID>26ab3f25-0763-4055-aa8c-3a5a1f12c67b</LibraryTeaserGUID>
+      <LibraryUseDirectPathForContent>false</LibraryUseDirectPathForContent>
+    </media_library>
+    <cms_metafile>
+      <MetaFileID>7272</MetaFileID>
+      <MetaFileObjectID>29</MetaFileObjectID>
+      <MetaFileObjectType>media.library</MetaFileObjectType>
+      <MetaFileGroupName>Thumbnail</MetaFileGroupName>
+      <MetaFileName>eximbankbn.jpg</MetaFileName>
+      <MetaFileExtension>.jpg</MetaFileExtension>
+      <MetaFileSize>150376</MetaFileSize>
+      <MetaFileMimeType>image/jpeg</MetaFileMimeType>
+      <MetaFileImageWidth>1900</MetaFileImageWidth>
+      <MetaFileImageHeight>680</MetaFileImageHeight>
+      <MetaFileGUID>26ab3f25-0763-4055-aa8c-3a5a1f12c67b</MetaFileGUID>
+      <MetaFileLastModified>2023-04-21T14:13:06.5453909+07:00</MetaFileLastModified>
+      <MetaFileSiteID>7</MetaFileSiteID>
+    </cms_metafile>
+    <export_task>
+      <TaskID>8</TaskID>
+      <TaskSiteID>7</TaskSiteID>
+      <TaskTitle>Delete Media library 'Coffee gallery'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;Media_Library&gt;
+  &lt;LibraryID&gt;25&lt;/LibraryID&gt;
+  &lt;LibraryName&gt;CoffeeGallery&lt;/LibraryName&gt;
+  &lt;LibraryDisplayName&gt;Coffee gallery&lt;/LibraryDisplayName&gt;
+  &lt;LibraryDescription&gt;Assets used in media gallery&lt;/LibraryDescription&gt;
+  &lt;LibraryFolder&gt;CoffeeGallery&lt;/LibraryFolder&gt;
+  &lt;LibraryAccess&gt;4444444&lt;/LibraryAccess&gt;
+  &lt;LibrarySiteID&gt;7&lt;/LibrarySiteID&gt;
+  &lt;LibraryGUID&gt;80c4f14d-9abf-445d-a507-0f46fdc96493&lt;/LibraryGUID&gt;
+  &lt;LibraryLastModified&gt;2020-11-25T00:55:50.6445356+07:00&lt;/LibraryLastModified&gt;
+&lt;/Media_Library&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;7&lt;/ID&gt;
+    &lt;CodeName&gt;Neweximbank&lt;/CodeName&gt;
+    &lt;GUID&gt;a26a08ad-3feb-4dca-8bd8-dda6201712ee&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2023-04-20T16:20:00.8511167+07:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>media.library</TaskObjectType>
+      <TaskObjectID>25</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>9</TaskID>
+      <TaskSiteID>7</TaskSiteID>
+      <TaskTitle>Delete Media library 'Email campaigns'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;Media_Library&gt;
+  &lt;LibraryID&gt;26&lt;/LibraryID&gt;
+  &lt;LibraryName&gt;EmailCampaigns&lt;/LibraryName&gt;
+  &lt;LibraryDisplayName&gt;Email campaigns&lt;/LibraryDisplayName&gt;
+  &lt;LibraryDescription&gt;Assets used in email campaigns&lt;/LibraryDescription&gt;
+  &lt;LibraryFolder&gt;EmailCampaigns&lt;/LibraryFolder&gt;
+  &lt;LibraryAccess&gt;4444444&lt;/LibraryAccess&gt;
+  &lt;LibrarySiteID&gt;7&lt;/LibrarySiteID&gt;
+  &lt;LibraryGUID&gt;2b079dc1-c199-42af-9374-4a12572d6c59&lt;/LibraryGUID&gt;
+  &lt;LibraryLastModified&gt;2020-11-25T00:55:50.6615356+07:00&lt;/LibraryLastModified&gt;
+&lt;/Media_Library&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;7&lt;/ID&gt;
+    &lt;CodeName&gt;Neweximbank&lt;/CodeName&gt;
+    &lt;GUID&gt;a26a08ad-3feb-4dca-8bd8-dda6201712ee&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2023-04-20T16:20:19.4875836+07:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>media.library</TaskObjectType>
+      <TaskObjectID>26</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>10</TaskID>
+      <TaskSiteID>7</TaskSiteID>
+      <TaskTitle>Delete Media library 'Graphics'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;Media_Library&gt;
+  &lt;LibraryID&gt;24&lt;/LibraryID&gt;
+  &lt;LibraryName&gt;Graphics&lt;/LibraryName&gt;
+  &lt;LibraryDisplayName&gt;Graphics&lt;/LibraryDisplayName&gt;
+  &lt;LibraryDescription&gt;General graphic assets used on the site (e.g. logos and icons)
+&lt;/LibraryDescription&gt;
+  &lt;LibraryFolder&gt;Graphics&lt;/LibraryFolder&gt;
+  &lt;LibraryAccess&gt;4444444&lt;/LibraryAccess&gt;
+  &lt;LibrarySiteID&gt;7&lt;/LibrarySiteID&gt;
+  &lt;LibraryGUID&gt;f3cf24e3-8764-42e1-bf85-0d82b1995250&lt;/LibraryGUID&gt;
+  &lt;LibraryLastModified&gt;2023-04-20T14:08:40.0930067+07:00&lt;/LibraryLastModified&gt;
+  &lt;LibraryUseDirectPathForContent&gt;true&lt;/LibraryUseDirectPathForContent&gt;
+&lt;/Media_Library&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;7&lt;/ID&gt;
+    &lt;CodeName&gt;Neweximbank&lt;/CodeName&gt;
+    &lt;GUID&gt;a26a08ad-3feb-4dca-8bd8-dda6201712ee&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2023-04-20T16:20:49.5180339+07:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>media.library</TaskObjectType>
+      <TaskObjectID>24</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>11</TaskID>
+      <TaskSiteID>7</TaskSiteID>
+      <TaskTitle>Delete Media library 'Eximbank Library'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;Media_Library&gt;
+  &lt;LibraryID&gt;27&lt;/LibraryID&gt;
+  &lt;LibraryName&gt;EximbankLibrary&lt;/LibraryName&gt;
+  &lt;LibraryDisplayName&gt;Eximbank Library&lt;/LibraryDisplayName&gt;
+  &lt;LibraryDescription&gt;Tổng hợp thư mục chứa hình ảnh của Eximbank&lt;/LibraryDescription&gt;
+  &lt;LibraryFolder&gt;Pictures&lt;/LibraryFolder&gt;
+  &lt;LibraryAccess&gt;0&lt;/LibraryAccess&gt;
+  &lt;LibrarySiteID&gt;7&lt;/LibrarySiteID&gt;
+  &lt;LibraryGUID&gt;b721082a-439f-4cad-bc76-ce38c8f160c5&lt;/LibraryGUID&gt;
+  &lt;LibraryLastModified&gt;2023-04-17T15:56:31.6713754+07:00&lt;/LibraryLastModified&gt;
+  &lt;LibraryUseDirectPathForContent&gt;true&lt;/LibraryUseDirectPathForContent&gt;
+&lt;/Media_Library&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;7&lt;/ID&gt;
+    &lt;CodeName&gt;Neweximbank&lt;/CodeName&gt;
+    &lt;GUID&gt;a26a08ad-3feb-4dca-8bd8-dda6201712ee&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2023-04-20T16:20:51.5354707+07:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>media.library</TaskObjectType>
+      <TaskObjectID>27</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>12</TaskID>
+      <TaskSiteID>7</TaskSiteID>
+      <TaskTitle>Delete Media library 'Button Dang Ky'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;Media_Library&gt;
+  &lt;LibraryID&gt;28&lt;/LibraryID&gt;
+  &lt;LibraryName&gt;ButtonDangKy&lt;/LibraryName&gt;
+  &lt;LibraryDisplayName&gt;Button Dang Ky&lt;/LibraryDisplayName&gt;
+  &lt;LibraryFolder&gt;Button&lt;/LibraryFolder&gt;
+  &lt;LibraryAccess&gt;4444444&lt;/LibraryAccess&gt;
+  &lt;LibrarySiteID&gt;7&lt;/LibrarySiteID&gt;
+  &lt;LibraryGUID&gt;4920e461-ef18-491c-9c59-f6bf8620fc91&lt;/LibraryGUID&gt;
+  &lt;LibraryLastModified&gt;2023-04-18T11:22:51.7633431+07:00&lt;/LibraryLastModified&gt;
+  &lt;LibraryTeaserPath&gt;~/getmetafile/efb30299-dac3-4264-a484-f306b91dff10/ButtonDangKy&lt;/LibraryTeaserPath&gt;
+  &lt;LibraryTeaserGUID&gt;efb30299-dac3-4264-a484-f306b91dff10&lt;/LibraryTeaserGUID&gt;
+  &lt;LibraryUseDirectPathForContent&gt;false&lt;/LibraryUseDirectPathForContent&gt;
+&lt;/Media_Library&gt;
+&lt;CMS_MetaFile&gt;
+  &lt;MetaFileID&gt;7270&lt;/MetaFileID&gt;
+  &lt;MetaFileObjectID&gt;28&lt;/MetaFileObjectID&gt;
+  &lt;MetaFileObjectType&gt;media.library&lt;/MetaFileObjectType&gt;
+  &lt;MetaFileGroupName&gt;Thumbnail&lt;/MetaFileGroupName&gt;
+  &lt;MetaFileName&gt;dangky.PNG&lt;/MetaFileName&gt;
+  &lt;MetaFileExtension&gt;.PNG&lt;/MetaFileExtension&gt;
+  &lt;MetaFileSize&gt;1281&lt;/MetaFileSize&gt;
+  &lt;MetaFileMimeType&gt;image/png&lt;/MetaFileMimeType&gt;
+  &lt;MetaFileBinary /&gt;
+  &lt;MetaFileImageWidth&gt;113&lt;/MetaFileImageWidth&gt;
+  &lt;MetaFileImageHeight&gt;43&lt;/MetaFileImageHeight&gt;
+  &lt;MetaFileGUID&gt;efb30299-dac3-4264-a484-f306b91dff10&lt;/MetaFileGUID&gt;
+  &lt;MetaFileLastModified&gt;2023-04-18T11:22:51.7633431+07:00&lt;/MetaFileLastModified&gt;
+  &lt;MetaFileSiteID&gt;7&lt;/MetaFileSiteID&gt;
+&lt;/CMS_MetaFile&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;7&lt;/ID&gt;
+    &lt;CodeName&gt;Neweximbank&lt;/CodeName&gt;
+    &lt;GUID&gt;a26a08ad-3feb-4dca-8bd8-dda6201712ee&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;media_library&lt;/ClassName&gt;
+    &lt;ID&gt;28&lt;/ID&gt;
+    &lt;CodeName&gt;ButtonDangKy&lt;/CodeName&gt;
+    &lt;SiteName&gt;Neweximbank&lt;/SiteName&gt;
+    &lt;GUID&gt;4920e461-ef18-491c-9c59-f6bf8620fc91&lt;/GUID&gt;
+    &lt;ObjectType&gt;media.library&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2023-04-20T16:20:53.5004869+07:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>media.library</TaskObjectType>
+      <TaskObjectID>28</TaskObjectID>
+    </export_task>
+  </NewDataSet>
+</media_library>

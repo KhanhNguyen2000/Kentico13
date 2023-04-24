@@ -1,0 +1,11 @@
+﻿<cms_acl version="13.0">
+  <NewDataSet>
+    <cms_acl>
+      <ACLID>6</ACLID>
+      <ACLInheritedACLs></ACLInheritedACLs>
+      <ACLGUID>0072d163-58b7-495f-bbcd-1f15eaadf7e3</ACLGUID>
+      <ACLLastModified>2023-04-20T13:55:27.9133748+07:00</ACLLastModified>
+      <ACLSiteID>7</ACLSiteID>
+    </cms_acl>
+  </NewDataSet>
+</cms_acl>

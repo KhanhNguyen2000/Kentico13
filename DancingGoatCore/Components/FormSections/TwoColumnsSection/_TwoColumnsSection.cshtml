@@ -1,0 +1,20 @@
+﻿@using Kentico.Forms.Web.Mvc
+@using DancingGoat.Components.FormSections.TwoColumnsSection
+
+
+@model FormSectionViewModel<TwoColumnsSectionProperties>
+
+@if (!string.IsNullOrEmpty(Model?.Properties?.Title))
+{
+    @Html.Raw(Html.Kentico().ResolveRichText(Model.Properties.Title))
+}
+
+<div class="row">
+    <div class="col-md-6 custom-2-cols">
+        @await Html.Kentico().FormZoneAsync()
+    </div>
+    <div class="col-md-6 custom-2-cols">
+        @await Html.Kentico().FormZoneAsync()
+    </div>
+</div>
+   

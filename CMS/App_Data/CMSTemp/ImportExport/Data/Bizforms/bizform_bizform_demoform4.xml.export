@@ -1,0 +1,20 @@
+﻿<bizform_bizform_demoform4 version="13.0">
+  <NewDataSet>
+    <form_dancinggoatcore_demoform_4>
+      <DemoFormID>1</DemoFormID>
+      <FormInserted>2023-04-17T13:42:13.5429046+07:00</FormInserted>
+      <FormUpdated>2023-04-17T13:42:13.5429958+07:00</FormUpdated>
+      <TextInput>Nguyen Xuan Tuan</TextInput>
+      <EmailInput>tuan.nguyen@hitachivantara.com</EmailInput>
+      <TextArea>I'd like to register a new credit card</TextArea>
+    </form_dancinggoatcore_demoform_4>
+    <form_dancinggoatcore_demoform_4>
+      <DemoFormID>2</DemoFormID>
+      <FormInserted>2023-04-17T13:44:40.9281566+07:00</FormInserted>
+      <FormUpdated>2023-04-17T13:44:40.9281661+07:00</FormUpdated>
+      <TextInput>Nguyen Van A</TextInput>
+      <EmailInput>nguyenvana@gmail.com</EmailInput>
+      <TextArea>Inquiry...</TextArea>
+    </form_dancinggoatcore_demoform_4>
+  </NewDataSet>
+</bizform_bizform_demoform4>

@@ -1,0 +1,204 @@
+﻿@using Microsoft.AspNetCore.Mvc.Localization
+
+@using Kentico.Activities.Web.Mvc
+@using Kentico.Membership.Web.Mvc
+@using Kentico.OnlineMarketing.Web.Mvc
+
+@using DancingGoat.Helpers
+@using DancingGoat.Widgets
+
+@inject IHtmlLocalizer<SharedResources> HtmlLocalizer
+
+@{
+    const string ENGLISH = "English";
+    const string ESPANOL = "Español";
+
+    var currentCultureCode = Convert.ToString(@ViewContext.RouteData.Values["culture"]);
+    var currentLanguage = currentCultureCode.Equals("es-es", StringComparison.OrdinalIgnoreCase) ? "ES" : "EN";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head id="head">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="UTF-8" />
+    @Html.Kentico().PageDescription()
+    @Html.Kentico().PageKeywords()
+    @Html.Kentico().PageTitle(ViewBag.Title as string)
+    <link rel="icon" href="~/content/images/logo.jpg"/>
+    <link href="~/Content/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <link rel="canonical" href="@Url.Kentico().PageCanonicalUrl()" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
+    @RenderSection("styles", required: false)
+    @Html.Kentico().ABTestLoggerScript()
+    @Html.Kentico().ActivityLoggingScript()
+    @Html.Kentico().WebAnalyticsLoggingScript()
+    <page-builder-styles />
+</head>
+<body class="@ViewData["PageClass"]">
+    <div class="page-wrap">
+        <vc:tracking-consent />
+        <header data-ktc-search-exclude>
+            <nav class="navigation container">
+                <div class="nav-logo">
+                    <div class="logo-wrapper">
+                        <a href="@Url.Kentico().PageUrl(ContentItemIdentifiers.HOME)" class="logo-link">
+                            <img class="logo-image" alt="Eximbank logo" src="~/Content/Images/logo.png" />
+                        </a>
+                    </div>
+                </div>
+                <vc:navigation footer-navigation="false" />
+                <ul class="additional-menu">
+                    <li class="search-menu-item">
+                        <form asp-action="Index" asp-controller="Search" method="get" class="searchBox">
+                            <input name="searchtext" type="text" placeholder="@HtmlLocalizer["TÌM KIẾM"]" autocomplete="off" />
+                            <input type="submit" value="" class="search-box-btn" />
+                        </form>
+                    </li>
+                    <li class="dropdown">
+                        <a title="User" class="dropbtn">
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                <img src="@Url.Kentico().AvatarUrl(User.Identity.Name, pathToDefaultAvatar: "~/Content/Images/default-avatar.png")" class="dropdown-desktop-avatar" alt="avatar" />
+                            }
+                            else
+                            {
+                                <svg width="21" height="20" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M5.44934 14H15.4493C18.2108 14 20.4493 16.2386 20.4493 19C20.4493 19.5523 20.0016 20 19.4493 20C18.9365 20 18.5138 19.614 18.4561 19.1166L18.4442 18.8237C18.3564 17.3072 17.1421 16.093 15.6256 16.0051L15.4493 16H5.44934C3.79249 16 2.44934 17.3431 2.44934 19C2.44934 19.5523 2.00163 20 1.44934 20C0.897056 20 0.449341 19.5523 0.449341 19C0.449341 16.3112 2.57165 14.1182 5.23245 14.0046L5.44934 14H15.4493H5.44934ZM10.4493 0C13.763 0 16.4493 2.68629 16.4493 6C16.4493 9.31371 13.763 12 10.4493 12C7.13563 12 4.44934 9.31371 4.44934 6C4.44934 2.68629 7.13563 0 10.4493 0ZM10.4493 2C8.2402 2 6.44934 3.79086 6.44934 6C6.44934 8.20914 8.2402 10 10.4493 10C12.6585 10 14.4493 8.20914 14.4493 6C14.4493 3.79086 12.6585 2 10.4493 2Z" fill="currentColor" />
+                                </svg>
+                            }
+                        </a>
+                        <div class="dropdown-content">
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                <a asp-controller="Account" asp-action="YourAccount">@HtmlLocalizer["Your&nbsp;account"]</a>
+                                <form method="post" asp-controller="Account" asp-action="Logout">
+                                    <input type="submit" value="@HtmlLocalizer["Sign out"]" class="sign-out-button" />
+                                </form>
+                            }
+                            else
+                            {
+                                <a asp-controller="Account" asp-action="Register">@HtmlLocalizer["Register"]</a>
+                                <a asp-controller="Account" asp-action="Login">@HtmlLocalizer["Login"]</a>
+                            }
+                        </div>
+                    </li>
+                    @if (Context.Response.StatusCode == (int)System.Net.HttpStatusCode.OK)
+                    {
+                        <li class="dropdown">
+                            <a class="dropbtn">@currentLanguage</a>
+                            <div class="dropdown-content">
+                                <culture-link link-text="@ENGLISH" culture-name="en-US" />
+                                <culture-link link-text="@ESPANOL" culture-name="es-ES" />
+                            </div>
+                        </li>
+                    }
+                    <li class="nav-toggle">
+                        <div class="nav-toggle-inner">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </div>
+                    </li>
+                </ul>
+            </nav>
+            <div class="search-mobile">
+                <form asp-action="Index" asp-controller="Search" method="get" class="searchBox">
+                    <input name="searchtext" type="text" placeholder="@HtmlLocalizer["TÌM KIẾM"]" autocomplete="off" />
+                    <input type="submit" value="" class="search-box-btn" />
+                </form>
+            </div>
+        </header>
+        <div class="container">
+            <div class="page-container-inner">
+                @RenderBody()
+
+                <div class="clear"></div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-wrapper">
+        <footer data-ktc-search-exclude>
+            <div class="footer-container">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-4 col-lg-4 col-xl-4">
+                            <div class="cl-bluelight "><img src="~/Content/Images/hotline.png" alt="" class="footer-icon mh-20px"> Hotline 24/7</div>
+                            <div class="cl-bluedark hotline"><a href="tel:1800 1199">1800 1199</a></div>
+                        </div>
+                        <div class="col-md-8 col-lg-8 col-xl-8">
+                            <div class="flex-center">
+                                <div class="row" style="width: 100%;">
+
+                                    <div class="col-md-3 bang_tinh_lai">
+                                        <div class="support_item">
+                                            <div class="support_icon">
+                                                <img src="~/Content/Images/calculator.png" class="img-fluid" alt="">
+                                            </div>
+                                            <a href="/tinh-lai-tien-gui-tiet-kiem">
+                                                <div class="cl-bluedark fs-18">
+                                                    <span> Bảng tính lãi </span>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div><div class="col-md-3 support_item_chat">
+                                        <div class="support_item">
+                                            <div class="support_icon">
+                                                <img src="~/Content/Images/support.png" class="img-fluid footer-icon" alt="">
+                                            </div>
+                                            <a href="/tygiangoaitevagiavang">
+                                                <div class="cl-bluedark fs-18">
+                                                    <span> Tỷ giá ngoại tệ giá vàng</span>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3 support_item_atm">
+                                        <div class="support_item">
+                                            <div class="support_icon">
+                                                <img src="~/Content/Images/marker.png" class="img-fluid footer-icon" alt="">
+                                            </div>
+                                            <a href="/atm">
+                                                <div class="cl-bluedark fs-18">
+                                                    <span data-original-title="" title="" aria-describedby="tooltip81845">ATM và Địa điểm giao dịch</span>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3 support_item_faq">
+                                        <div class="support_item">
+                                            <div class="support_icon">
+                                                <img src="~/Content/Images/qa.png" class="img-fluid footer-icon" alt="">
+                                            </div>
+                                            <a href="/eib-support">
+                                                <div class="cl-bluedark fs-18">
+                                                    <span>Câu hỏi thường gặp</span>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <div id="footer_site" class="footer-col px-3 py-3"></div>
+    </div>
+
+    <script src="~/Scripts/jquery-3.5.1.min.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/Scripts/responsiveMenuDropdown.js"></script>
+    <script src="~/Scripts/mobileMenu.js"></script>
+    <page-builder-scripts />
+
+    @RenderSection("scripts", required: false)
+
+</body>
+</html>

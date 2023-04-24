@@ -1,0 +1,32 @@
+﻿<bizform_bizform_phieudanhgiachatluongdichvu version="13.0">
+  <NewDataSet>
+    <form_neweximbank_phieudanhgiachatluongdichvu>
+      <PhieuDanhGiaChatLuongDichVuID>1</PhieuDanhGiaChatLuongDichVuID>
+      <FormInserted>2023-04-20T16:30:46.9758541+07:00</FormInserted>
+      <FormUpdated>2023-04-20T16:30:46.9759575+07:00</FormUpdated>
+      <custumer_type>Doanh nghiệp</custumer_type>
+      <customer_name>Tin tức</customer_name>
+      <phone_number>0374805317</phone_number>
+      <EmailInput>nguyen.khanh@hitachivantara.com</EmailInput>
+      <branchname>no</branchname>
+      <saving>Rất hài lòng</saving>
+      <card_service>Rất hài lòng</card_service>
+      <remittance_services>Rất hài lòng</remittance_services>
+      <service_abroad>Rất hài lòng</service_abroad>
+      <ebank>Rất hài lòng</ebank>
+      <credit>Rất hài lòng</credit>
+      <international_payments>Rất hài lòng</international_payments>
+      <money>Rất hài lòng</money>
+      <exchange_transaction>Rất hài lòng</exchange_transaction>
+      <atiude>Rất hài lòng</atiude>
+      <profestional_em>Rất hài lòng</profestional_em>
+      <time_service_fast>Rất hài lòng</time_service_fast>
+      <nice_space>Rất hài lòng</nice_space>
+      <nice_guard>Rất hài lòng</nice_guard>
+      <simple>Rất hài lòng</simple>
+      <cskh>Rất hài lòng</cskh>
+      <nice_ui>Rất hài lòng</nice_ui>
+      <overral_rating>Hài lòng</overral_rating>
+    </form_neweximbank_phieudanhgiachatluongdichvu>
+  </NewDataSet>
+</bizform_bizform_phieudanhgiachatluongdichvu>

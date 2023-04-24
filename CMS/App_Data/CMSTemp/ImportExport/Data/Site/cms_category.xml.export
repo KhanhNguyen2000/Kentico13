@@ -1,0 +1,32 @@
+﻿<cms_category version="13.0">
+  <NewDataSet>
+    <cms_category>
+      <CategoryID>11</CategoryID>
+      <CategoryDisplayName>Ưu đãi - Khuyến mãi</CategoryDisplayName>
+      <CategoryName>UuDai-KhuyenMai</CategoryName>
+      <CategoryCount>1</CategoryCount>
+      <CategoryEnabled>true</CategoryEnabled>
+      <CategoryGUID>cbf9e0ea-8262-48e8-9ccc-dc9133ed09a2</CategoryGUID>
+      <CategoryLastModified>2023-04-17T13:55:26.6509634+07:00</CategoryLastModified>
+      <CategorySiteID>7</CategorySiteID>
+      <CategoryIDPath>/00000011</CategoryIDPath>
+      <CategoryNamePath>/Ưu đãi - Khuyến mãi</CategoryNamePath>
+      <CategoryLevel>0</CategoryLevel>
+      <CategoryOrder>1</CategoryOrder>
+    </cms_category>
+    <cms_category>
+      <CategoryID>12</CategoryID>
+      <CategoryDisplayName>Bản tin thị trường</CategoryDisplayName>
+      <CategoryName>BanTinThiTruong</CategoryName>
+      <CategoryCount>1</CategoryCount>
+      <CategoryEnabled>true</CategoryEnabled>
+      <CategoryGUID>cd1176aa-27aa-48cf-a1a4-aafa10b223da</CategoryGUID>
+      <CategoryLastModified>2023-04-17T13:55:48.0214305+07:00</CategoryLastModified>
+      <CategorySiteID>7</CategorySiteID>
+      <CategoryIDPath>/00000012</CategoryIDPath>
+      <CategoryNamePath>/Bản tin thị trường</CategoryNamePath>
+      <CategoryLevel>0</CategoryLevel>
+      <CategoryOrder>2</CategoryOrder>
+    </cms_category>
+  </NewDataSet>
+</cms_category>

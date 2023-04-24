@@ -1,0 +1,106 @@
+﻿<cms_licensekey version="13.0">
+  <NewDataSet>
+    <cms_licensekey>
+      <LicenseKeyID>11</LicenseKeyID>
+      <LicenseDomain>127.0.0.1</LicenseDomain>
+      <LicenseKey>CX13-20230501-udaVA5</LicenseKey>
+      <LicenseEdition>X</LicenseEdition>
+      <LicenseExpiration>5/1/2023</LicenseExpiration>
+      <LicenseServers>0</LicenseServers>
+    </cms_licensekey>
+    <cms_licensekey>
+      <LicenseKeyID>3</LicenseKeyID>
+      <LicenseDomain>asia-03.kenticolab.com</LicenseDomain>
+      <LicenseKey>DOMAIN:asia-03.kenticolab.com
+PRODUCT:CX13
+EXPIRATION:00000000
+SERVERS:2
+kxa9r0+tCvA38SL5OV0ERWfRNJt27jaHETBhNrQDqqZDc8liyqfaKfefIUdlsX6KxadUVZB7dkD13DpHipOkYzj57JfyAmtKBxKxcFCWaqO2X9s7zbppqXy0vzCtBBpavr4a9X4CiTcNxuuw37pofxq+DQBqqNkqmDQDDU2rtkFdJ8ZA2xYYMWVG6kymv+dTnK6hjgFwQCdWGOQRZ7a0S3va2A1n7KSo/tyvxm/6qaa17xqHbQlKMW1KNXkD/0+djHISyCX+KXCRbvTBZKNTYo96VC5x61+W4Bn2ND0OW7hu/Pe4DrrhDvfgbpvGBIS7qKNg73rxDw603IQzqPwmxA==</LicenseKey>
+      <LicenseEdition>X</LicenseEdition>
+      <LicenseExpiration>LicenseInfoProvider.FullLicense</LicenseExpiration>
+      <LicenseServers>2</LicenseServers>
+    </cms_licensekey>
+    <cms_licensekey>
+      <LicenseKeyID>4</LicenseKeyID>
+      <LicenseDomain>eu-03.kenticolab.com</LicenseDomain>
+      <LicenseKey>DOMAIN:eu-03.kenticolab.com
+PRODUCT:CX13
+EXPIRATION:00000000
+SERVERS:2
+rHWSY/TIqv429E2YHUQsztfCGiWJeoaH2FqHhyBZXm5A0BtdWHNforV8n2Twia2aPzJquIl0rH7lpAqlW5T6SqTzThoo9MNhlMGEqn12sA9YWgR7rhWIY1avtvf1Z+sTkVfX3+55bH4IVkTKe3Jti44tfra4xltB4Ra2zuyU2qyfTFIcGEqcKijrqtrHx53pxgfoHP3M4UikJBsN3ZYFkq8LPkYF84xQb+KRgA+wXWU1meikGl/9i58II1GJcG3MJRNSd0FKEIQcKcfY4xxLlmM/Iwdhf7Eph2TvOoHuMFQOIDtxZMXwgV3RUWLbtqGLCKcbuB47UrtLnw6lv7SNoA==</LicenseKey>
+      <LicenseEdition>X</LicenseEdition>
+      <LicenseExpiration>LicenseInfoProvider.FullLicense</LicenseExpiration>
+      <LicenseServers>2</LicenseServers>
+    </cms_licensekey>
+    <cms_licensekey>
+      <LicenseKeyID>5</LicenseKeyID>
+      <LicenseDomain>eu-04.kenticolab.com</LicenseDomain>
+      <LicenseKey>DOMAIN:eu-04.kenticolab.com
+PRODUCT:CX13
+EXPIRATION:00000000
+SERVERS:2
+AJUKeILP76M0U2I6jLy9xl05Muv8YbsAO8+VxVjuX573f09VfWPbdUNMSju143c0M5Fbv+BNLXVOn7tX47Cc1z6GTVeA7DcxwwUhgOk07LFKiydGBKHkCjZmE1CqBqgtvslJsXIdh9uDXPMrH4lcZqbn8pOajDjrMSIbQ+YeFVf8PV/XNlA/deooeqHPgW6JKIUDk9QDv6QD9N7pb7+bVyZfLtuIkXtpSttxKwtzJv+PcwhmkPebDUBi87FsGS5Nm00Eevn3nywlohUuYFiIPM3dumYCOQvJ4Kmyb8imI8K5My25+hyrhwN2himR7vXM7YrbOSyZAEG1SK/EoYyUVw==</LicenseKey>
+      <LicenseEdition>X</LicenseEdition>
+      <LicenseExpiration>LicenseInfoProvider.FullLicense</LicenseExpiration>
+      <LicenseServers>2</LicenseServers>
+    </cms_licensekey>
+    <cms_licensekey>
+      <LicenseKeyID>12</LicenseKeyID>
+      <LicenseDomain>localhost</LicenseDomain>
+      <LicenseKey>CX13-20230501-udaVA5</LicenseKey>
+      <LicenseEdition>X</LicenseEdition>
+      <LicenseExpiration>5/1/2023</LicenseExpiration>
+      <LicenseServers>0</LicenseServers>
+    </cms_licensekey>
+    <cms_licensekey>
+      <LicenseKeyID>6</LicenseKeyID>
+      <LicenseDomain>us-03.kenticolab.com</LicenseDomain>
+      <LicenseKey>DOMAIN:us-03.kenticolab.com
+PRODUCT:CX13
+EXPIRATION:00000000
+SERVERS:2
+mFLLgZSUG52YuCrVv2xDT5Q7Fbyi1QDMsKXkOIKs1ZrkbGYFGlYEKatfVc+4Xe8ztUxhEYs9CTntknhaHvQ6N+0GeTEOKywUmVmkSXyjOg6pXqnYtdDfll2d7sLatxQk6fniDvYsuqr6Jg6XuIhEWbBrX4nm1DuxC59BPwat/OkmZw1Ca7pZV2rAkVHmAglRV1+TT5gFGcgM1nrsLiBzKtWLrNP3r7EYIIjHZtvHBwCzzly2cmUk7Tg0RUiBgkzyjSQKTiHY7HdVUz4psTRR027ZZtWmg36iQ2XNWWxqNfakWk1O4jaFcpECH4lHKTMPbk4YOmAZ0okQqqcMnDdlAA==</LicenseKey>
+      <LicenseEdition>X</LicenseEdition>
+      <LicenseExpiration>LicenseInfoProvider.FullLicense</LicenseExpiration>
+      <LicenseServers>2</LicenseServers>
+    </cms_licensekey>
+    <export_task>
+      <TaskID>1</TaskID>
+      <TaskTitle>Delete License key 'localhost'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_LicenseKey&gt;
+  &lt;LicenseKeyID&gt;1&lt;/LicenseKeyID&gt;
+  &lt;LicenseDomain&gt;localhost&lt;/LicenseDomain&gt;
+  &lt;LicenseKey&gt;CX13-20230501-udaVA5&lt;/LicenseKey&gt;
+  &lt;LicenseEdition&gt;X&lt;/LicenseEdition&gt;
+  &lt;LicenseExpiration&gt;5/1/2023&lt;/LicenseExpiration&gt;
+  &lt;LicenseServers&gt;0&lt;/LicenseServers&gt;
+&lt;/CMS_LicenseKey&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2023-04-18T16:10:24.4904999+07:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.licensekey</TaskObjectType>
+      <TaskObjectID>1</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>2</TaskID>
+      <TaskTitle>Delete License key '127.0.0.1'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_LicenseKey&gt;
+  &lt;LicenseKeyID&gt;2&lt;/LicenseKeyID&gt;
+  &lt;LicenseDomain&gt;127.0.0.1&lt;/LicenseDomain&gt;
+  &lt;LicenseKey&gt;CX13-20230501-udaVA5&lt;/LicenseKey&gt;
+  &lt;LicenseEdition&gt;X&lt;/LicenseEdition&gt;
+  &lt;LicenseExpiration&gt;5/1/2023&lt;/LicenseExpiration&gt;
+  &lt;LicenseServers&gt;0&lt;/LicenseServers&gt;
+&lt;/CMS_LicenseKey&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2023-04-18T16:10:24.5113482+07:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.licensekey</TaskObjectType>
+      <TaskObjectID>2</TaskObjectID>
+    </export_task>
+  </NewDataSet>
+</cms_licensekey>

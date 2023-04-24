@@ -1,0 +1,13 @@
+﻿<cms_consent version="13.0">
+  <NewDataSet>
+    <cms_consent>
+      <ConsentID>1</ConsentID>
+      <ConsentDisplayName>Eximbank - Card Registration</ConsentDisplayName>
+      <ConsentName>eximbank_card_registration_consent</ConsentName>
+      <ConsentContent>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;ConsentContent xmlns:i="http://www.w3.org/2001/XMLSchema-instance"&gt;&lt;ConsentLanguageVersions&gt;&lt;ConsentLanguageVersion&gt;&lt;CultureCode&gt;en-US&lt;/CultureCode&gt;&lt;FullText&gt;&amp;lt;strong&amp;gt;Tôi đồng ý với các điều khoản và điều kiện của Eximbank.&amp;lt;/strong&amp;gt;&lt;/FullText&gt;&lt;ShortText&gt;&amp;lt;strong&amp;gt;Tôi đồng ý với các điều khoản và điều kiện của Eximbank.&amp;lt;/strong&amp;gt;&lt;/ShortText&gt;&lt;/ConsentLanguageVersion&gt;&lt;/ConsentLanguageVersions&gt;&lt;/ConsentContent&gt;</ConsentContent>
+      <ConsentGuid>3fdbc763-442a-4151-8a79-c81bcce45281</ConsentGuid>
+      <ConsentLastModified>2023-04-19T16:51:00.6859737+07:00</ConsentLastModified>
+      <ConsentHash>447dd0ee174ee4747a088b2633a05305a4d774b62b198937bb9b3e5a269cdbdb</ConsentHash>
+    </cms_consent>
+  </NewDataSet>
+</cms_consent>

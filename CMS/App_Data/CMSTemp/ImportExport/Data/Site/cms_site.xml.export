@@ -1,0 +1,15 @@
+﻿<cms_site version="13.0">
+  <NewDataSet>
+    <cms_site>
+      <SiteID>7</SiteID>
+      <SiteName>Neweximbank</SiteName>
+      <SiteDisplayName>Neweximbank</SiteDisplayName>
+      <SiteDescription></SiteDescription>
+      <SiteStatus>RUNNING</SiteStatus>
+      <SiteDomainName>localhost:50219</SiteDomainName>
+      <SiteGUID>a26a08ad-3feb-4dca-8bd8-dda6201712ee</SiteGUID>
+      <SiteLastModified>2023-04-20T13:55:54.200811+07:00</SiteLastModified>
+      <SitePresentationURL>http://localhost:50233</SitePresentationURL>
+    </cms_site>
+  </NewDataSet>
+</cms_site>

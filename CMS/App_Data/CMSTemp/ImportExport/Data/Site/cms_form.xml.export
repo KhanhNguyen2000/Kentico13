@@ -1,0 +1,2819 @@
+﻿<cms_form version="13.0">
+  <NewDataSet>
+    <cms_form>
+      <FormID>43</FormID>
+      <FormDisplayName>Form Đăng Ký</FormDisplayName>
+      <FormName>FormDangKy</FormName>
+      <FormEmailAttachUploadedDocs>true</FormEmailAttachUploadedDocs>
+      <FormClassID>5612</FormClassID>
+      <FormItems>0</FormItems>
+      <FormDisplayText>Đăng Ký Thành Công</FormDisplayText>
+      <FormClearAfterSave>false</FormClearAfterSave>
+      <FormSubmitButtonText>Đăng ký</FormSubmitButtonText>
+      <FormSiteID>7</FormSiteID>
+      <FormGUID>47190777-11d8-4302-9078-57ee1ddc4d2e</FormGUID>
+      <FormLastModified>2023-04-20T13:58:48.2646701+07:00</FormLastModified>
+      <FormLogActivity>true</FormLogActivity>
+      <FormBuilderLayout>{
+  "editableAreas": [
+    {
+      "identifier": "DefaultFormBuilderArea",
+      "sections": [
+        {
+          "identifier": "00000000-0000-0000-0000-000000000000",
+          "type": "Kentico.DefaultSection",
+          "zones": [
+            {
+              "identifier": "8f4a2062-4583-4b0b-9f99-5c1e421b5398",
+              "formComponents": [
+                {
+                  "identifier": "257b53c9-b240-4093-b990-deac8bbb055c"
+                },
+                {
+                  "identifier": "1bba1d9b-96a8-4316-ad33-8f159ab849c1"
+                }
+              ]
+            }
+          ],
+          "properties": null
+        },
+        {
+          "identifier": "266787ce-92bf-458b-97c7-0f8d778ed61b",
+          "type": "DancingGoat.CustomSection",
+          "zones": [
+            {
+              "identifier": "0b0c94ac-b17c-4c05-abb9-cce17e7f0ef5",
+              "formComponents": []
+            }
+          ],
+          "properties": null
+        }
+      ]
+    }
+  ]
+}</FormBuilderLayout>
+    </cms_form>
+    <cms_form>
+      <FormID>44</FormID>
+      <FormDisplayName>Apply for Credit Card</FormDisplayName>
+      <FormName>ApplyForCreditCard</FormName>
+      <FormEmailAttachUploadedDocs>true</FormEmailAttachUploadedDocs>
+      <FormClassID>5613</FormClassID>
+      <FormItems>0</FormItems>
+      <FormClearAfterSave>true</FormClearAfterSave>
+      <FormSiteID>7</FormSiteID>
+      <FormGUID>91f567a9-f0ca-4c4a-9638-6bfa530cde4d</FormGUID>
+      <FormLastModified>2023-04-13T16:11:47.0798589+07:00</FormLastModified>
+      <FormLogActivity>true</FormLogActivity>
+      <FormBuilderLayout>{
+  "editableAreas": [
+    {
+      "identifier": "DefaultFormBuilderArea",
+      "sections": [
+        {
+          "identifier": "00000000-0000-0000-0000-000000000000",
+          "type": "Kentico.DefaultSection",
+          "zones": [
+            {
+              "identifier": "9ec699bc-2089-48dc-b369-ab261d9f4f25",
+              "formComponents": [
+                {
+                  "identifier": "257816f7-84b4-440f-a001-cb5001d9b6fb"
+                },
+                {
+                  "identifier": "d9aceb29-c66e-472e-b8d7-6456fc20107f"
+                },
+                {
+                  "identifier": "ad812fc8-7353-4f53-b538-7730a1a7bb24"
+                },
+                {
+                  "identifier": "5018ec26-0f10-4995-a855-7e720af1a47f"
+                },
+                {
+                  "identifier": "62a529e9-380f-4908-9db9-0580a36a3134"
+                }
+              ]
+            }
+          ],
+          "properties": null
+        }
+      ]
+    }
+  ]
+}</FormBuilderLayout>
+    </cms_form>
+    <cms_form>
+      <FormID>46</FormID>
+      <FormDisplayName>Đăng ký thẻ trực tuyến</FormDisplayName>
+      <FormName>online_card_registration</FormName>
+      <FormEmailAttachUploadedDocs>true</FormEmailAttachUploadedDocs>
+      <FormClassID>5615</FormClassID>
+      <FormItems>0</FormItems>
+      <FormClearAfterSave>true</FormClearAfterSave>
+      <FormSubmitButtonText>Đăng ký</FormSubmitButtonText>
+      <FormSiteID>7</FormSiteID>
+      <FormGUID>18bffa00-29ed-464e-a847-6ee02e73c79c</FormGUID>
+      <FormLastModified>2023-04-19T16:52:57.2727231+07:00</FormLastModified>
+      <FormLogActivity>true</FormLogActivity>
+      <FormBuilderLayout>{
+  "editableAreas": [
+    {
+      "identifier": "DefaultFormBuilderArea",
+      "sections": [
+        {
+          "identifier": "00000000-0000-0000-0000-000000000000",
+          "type": "DancingGoat.TitledSection",
+          "zones": [
+            {
+              "identifier": "be80bc57-968a-4a9a-a6bd-466af3b28e56",
+              "formComponents": []
+            }
+          ],
+          "properties": {
+            "$type": "DancingGoat.Components.FormSections.TitledSection.TitledSectionProperties, DancingGoatCore",
+            "title": "\u003cp\u003e\u003cstrong\u003eTh\u0026ocirc;ng tin c\u0026aacute; nh\u0026acirc;n\u003c/strong\u003e\u003c/p\u003e"
+          }
+        },
+        {
+          "identifier": "d6258273-2350-42de-b881-7f0cfb74e1a0",
+          "type": "DancingGoat.TwoColumnsSection",
+          "zones": [
+            {
+              "identifier": "cec8ce4b-92a6-46bf-b7d9-691f4347dffb",
+              "formComponents": []
+            },
+            {
+              "identifier": "abb7a7cf-4dce-491b-8bc0-a7e2dbe878f0",
+              "formComponents": [
+                {
+                  "identifier": "f4a7fa07-1c7a-4750-aa0e-9042525be98f"
+                }
+              ]
+            }
+          ],
+          "properties": null
+        },
+        {
+          "identifier": "d21cad66-272e-4cb9-9704-740dedb25b28",
+          "type": "DancingGoat.TwoColumnsSection",
+          "zones": [
+            {
+              "identifier": "7a97c7a0-2e14-4e84-a61a-aff7c39dd763",
+              "formComponents": [
+                {
+                  "identifier": "1ed9be72-1223-49c3-9cc3-cb2f8559f878"
+                }
+              ]
+            },
+            {
+              "identifier": "05deef97-f111-43a3-a93e-b3b41ecb6251",
+              "formComponents": [
+                {
+                  "identifier": "78ebf6c9-a8cf-4de5-b0a8-f935d3678bd1"
+                }
+              ]
+            }
+          ],
+          "properties": null
+        },
+        {
+          "identifier": "37282b08-6e7a-41b2-b968-da23f8934fab",
+          "type": "DancingGoat.TwoColumnsSection",
+          "zones": [
+            {
+              "identifier": "fbc1298e-ae68-41bf-82b2-229440087984",
+              "formComponents": [
+                {
+                  "identifier": "46c5b31d-3287-45cc-86bb-fb06ea6f5f84"
+                }
+              ]
+            },
+            {
+              "identifier": "f1ae90e2-342d-45a4-a3f0-6a98f813111a",
+              "formComponents": [
+                {
+                  "identifier": "e16db486-0b16-4729-8751-d60e9f56e3d1"
+                }
+              ]
+            }
+          ],
+          "properties": null
+        },
+        {
+          "identifier": "590d5126-21b7-4416-9a30-7cec1657fe90",
+          "type": "DancingGoat.TitledSection",
+          "zones": [
+            {
+              "identifier": "4587c01b-5d58-4a69-8b38-3429be30b0e3",
+              "formComponents": []
+            }
+          ],
+          "properties": {
+            "$type": "DancingGoat.Components.FormSections.TitledSection.TitledSectionProperties, DancingGoatCore",
+            "title": "\u003cp\u003e\u003cstrong\u003eTh\u0026ocirc;ng tin t\u0026agrave;i ch\u0026iacute;nh\u003c/strong\u003e\u003c/p\u003e"
+          }
+        },
+        {
+          "identifier": "b2788832-ac4b-423c-8235-bf4ea7f99a52",
+          "type": "DancingGoat.TwoColumnsSection",
+          "zones": [
+            {
+              "identifier": "082f12c2-4755-4317-80b5-483308cd6f35",
+              "formComponents": [
+                {
+                  "identifier": "73027f50-91bf-4d1f-8de6-2f12a5b5853c"
+                }
+              ]
+            },
+            {
+              "identifier": "f0922d36-d23a-4f3b-a500-152b1481ad07",
+              "formComponents": [
+                {
+                  "identifier": "bce5f17b-5e78-45d2-bebd-80f8c258e271"
+                }
+              ]
+            }
+          ],
+          "properties": null
+        },
+        {
+          "identifier": "db4332ca-6cab-402b-a5ac-7fe332878d9c",
+          "type": "Kentico.DefaultSection",
+          "zones": [
+            {
+              "identifier": "c297ed1e-8154-4ebc-98d2-a3e8cf23621d",
+              "formComponents": [
+                {
+                  "identifier": "ae31050f-b296-4e46-9847-c5717fe56177"
+                }
+              ]
+            }
+          ],
+          "properties": null
+        }
+      ]
+    }
+  ]
+}</FormBuilderLayout>
+    </cms_form>
+    <cms_form>
+      <FormID>49</FormID>
+      <FormDisplayName>Contact Us</FormDisplayName>
+      <FormName>DancingGoatCoreContactUsNew</FormName>
+      <FormEmailAttachUploadedDocs>true</FormEmailAttachUploadedDocs>
+      <FormClassID>5618</FormClassID>
+      <FormItems>7</FormItems>
+      <FormDisplayText>Thanks! We'll get back to you soon.</FormDisplayText>
+      <FormClearAfterSave>false</FormClearAfterSave>
+      <FormSubmitButtonText></FormSubmitButtonText>
+      <FormSiteID>7</FormSiteID>
+      <FormGUID>129d9ced-d72f-407e-a604-7ffde2b638ea</FormGUID>
+      <FormLastModified>2023-03-23T14:45:44.1567036+07:00</FormLastModified>
+      <FormLogActivity>true</FormLogActivity>
+      <FormBuilderLayout>{
+  "editableAreas": [
+    {
+      "identifier": "DefaultFormBuilderArea",
+      "sections": [
+        {
+          "identifier": "00000000-0000-0000-0000-000000000000",
+          "type": "DancingGoat.TitledSection",
+          "zones": [
+            {
+              "identifier": "f0239885-7ea9-4591-856d-abdc4a8db5cd",
+              "formComponents": [
+                {
+                  "identifier": "8b5772d7-0e92-4a14-831a-0e11f6657847"
+                },
+                {
+                  "identifier": "b2878eb5-79c1-479f-828f-fc858bfedf3f"
+                },
+                {
+                  "identifier": "187a859f-be94-4a63-968c-74461782acf9"
+                },
+                {
+                  "identifier": "c4282da9-6526-4d1e-98ab-b8359c19c66a"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "$type": "DancingGoat.Components.FormSections.TitledSection.TitledSectionProperties, DancingGoatCore",
+            "title": "\u003ch2\u003eSend us a message\u003c/h2\u003e"
+          }
+        }
+      ]
+    }
+  ]
+}</FormBuilderLayout>
+    </cms_form>
+    <cms_form>
+      <FormID>54</FormID>
+      <FormDisplayName>PHIẾU ĐÁNH GIÁ CHẤT LƯỢNG DỊCH VỤ</FormDisplayName>
+      <FormName>service_quality_assessment_survey</FormName>
+      <FormEmailAttachUploadedDocs>true</FormEmailAttachUploadedDocs>
+      <FormClassID>5623</FormClassID>
+      <FormItems>0</FormItems>
+      <FormDisplayText>Cảm ơn bạn đã tham gia khảo sát. Đánh giá của bạn sẽ được chúng tôi trân trọng tiếp nhận.</FormDisplayText>
+      <FormClearAfterSave>false</FormClearAfterSave>
+      <FormSubmitButtonText>Đệ trình khảo sát</FormSubmitButtonText>
+      <FormSiteID>7</FormSiteID>
+      <FormGUID>781294a2-5682-458e-866a-81c52f24159f</FormGUID>
+      <FormLastModified>2023-04-21T14:30:26.4568251+07:00</FormLastModified>
+      <FormLogActivity>true</FormLogActivity>
+      <FormBuilderLayout>{
+  "editableAreas": [
+    {
+      "identifier": "DefaultFormBuilderArea",
+      "sections": [
+        {
+          "identifier": "2f5e8fdd-f5e7-4e50-9994-2b9d5015a639",
+          "type": "DancingGoat.CustomSection",
+          "zones": [
+            {
+              "identifier": "685ecd89-ed54-45ea-9512-ef042786f8da",
+              "formComponents": [
+                {
+                  "identifier": "9d2e891e-064d-4d8f-9508-3e571f51ac3d"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "$type": "DancingGoat.Components.FormSections.CustomSection.CustomSectionProperties, DancingGoatCore",
+            "title": "\u003cp\u003e\u003cstrong\u003e1. Th\u0026ocirc;ng tin kh\u0026aacute;ch h\u0026agrave;ng\u003c/strong\u003e\u003c/p\u003e"
+          }
+        },
+        {
+          "identifier": "0262c575-ef4d-4d4d-8c60-96a14c89eb8e",
+          "type": "DancingGoat.TwoColumnsSection",
+          "zones": [
+            {
+              "identifier": "0fcd764e-e994-46a1-ace4-1d80ce7077a9",
+              "formComponents": [
+                {
+                  "identifier": "bf95bf9b-c905-43ea-a942-2cbd96e77e14"
+                }
+              ]
+            },
+            {
+              "identifier": "d7411ab5-43c0-47be-afa8-c751f37b0f6b",
+              "formComponents": [
+                {
+                  "identifier": "f22c02aa-ef05-4c35-8341-4e3cceab73f6"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "$type": "DancingGoat.Components.FormSections.TwoColumnsSection.TwoColumnsSectionProperties, DancingGoatCore",
+            "title": null
+          }
+        },
+        {
+          "identifier": "31b751ed-0e52-445d-8079-1501898d9407",
+          "type": "DancingGoat.TwoColumnsSection",
+          "zones": [
+            {
+              "identifier": "00b68aff-143d-4493-9387-db291f88dcc0",
+              "formComponents": [
+                {
+                  "identifier": "1bc1125c-4a4a-4509-b5da-5f3ace260baa"
+                }
+              ]
+            },
+            {
+              "identifier": "081efc11-762b-492d-99e3-5c618bda1d2a",
+              "formComponents": [
+                {
+                  "identifier": "7b17cb5d-0fef-4cdd-85db-cbb74c8055ef"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "$type": "DancingGoat.Components.FormSections.TwoColumnsSection.TwoColumnsSectionProperties, DancingGoatCore",
+            "title": null
+          }
+        },
+        {
+          "identifier": "5270886b-ddb7-4893-8d19-46d34ba854a0",
+          "type": "DancingGoat.CustomRadioSection",
+          "zones": [
+            {
+              "identifier": "14eca3a4-f548-4113-8b0b-d7455dd59172",
+              "formComponents": [
+                {
+                  "identifier": "c7ec75a4-f0b3-4853-b487-d58638d9f795"
+                },
+                {
+                  "identifier": "62a911c2-17c9-421a-9356-735e461367e5"
+                }
+              ]
+            }
+          ],
+          "properties": null
+        },
+        {
+          "identifier": "f806412a-475d-457c-a945-c36761c4991a",
+          "type": "DancingGoat.CustomSection",
+          "zones": [
+            {
+              "identifier": "17cf703c-e6ea-4016-9111-2e90eaf28d2e",
+              "formComponents": [
+                {
+                  "identifier": "bd036234-34b3-4587-a2da-230657e05653"
+                },
+                {
+                  "identifier": "788cf6fe-cb08-480f-8482-9377144109e2"
+                },
+                {
+                  "identifier": "1d85eb4c-907a-40de-8e80-8ef5869c2ea8"
+                },
+                {
+                  "identifier": "53a3694d-edef-4662-9318-8a9a7d15feb2"
+                },
+                {
+                  "identifier": "4a578a4c-f46f-4858-b807-95287d6d3046"
+                },
+                {
+                  "identifier": "b17cefcb-4763-49e1-bd70-c7d597e0cc79"
+                },
+                {
+                  "identifier": "7518cb69-9d0a-45f1-9ff1-162321f23b44"
+                },
+                {
+                  "identifier": "613e9e6e-48b6-47e2-8256-4f9085ef4673"
+                },
+                {
+                  "identifier": "b395462c-e709-4011-83a5-3a001ca28f5f"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "$type": "DancingGoat.Components.FormSections.CustomSection.CustomSectionProperties, DancingGoatCore",
+            "title": "\u003cp\u003e\u003cstrong\u003e2. Trường hợp Qu\u0026yacute; kh\u0026aacute;ch đ\u0026atilde; sử dụng c\u0026aacute;c sản phẩm, dịch vụ do Eximbank cung cấp, Qu\u0026yacute; kh\u0026aacute;ch đ\u0026aacute;nh gi\u0026aacute; như thế n\u0026agrave;o?\u003c/strong\u003e\u003c/p\u003e"
+          }
+        },
+        {
+          "identifier": "5174d53c-0fb1-41d4-be00-22f888145cea",
+          "type": "DancingGoat.CustomSection",
+          "zones": [
+            {
+              "identifier": "c1f86e7d-41ba-4a7e-84e7-fc180ac7871f",
+              "formComponents": [
+                {
+                  "identifier": "ac2959de-67d8-40f3-b48f-424cb65073b2"
+                },
+                {
+                  "identifier": "258bfd6e-c4c0-452e-b32c-cf2f1d0727f4"
+                },
+                {
+                  "identifier": "3b4443b3-d19b-4127-bb5e-a463c30c142a"
+                },
+                {
+                  "identifier": "a4cc72bd-45a6-407f-b7b5-c9ecb9d93209"
+                },
+                {
+                  "identifier": "d7353d23-fb7a-4297-8342-83fdd48af546"
+                },
+                {
+                  "identifier": "5ca8891c-1e18-4edc-acd7-8c697d05e30d"
+                },
+                {
+                  "identifier": "76bec517-321b-4ade-a6cc-7bff291dad4a"
+                },
+                {
+                  "identifier": "94df9a7e-8221-45d2-8419-509970c2d3e3"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "$type": "DancingGoat.Components.FormSections.CustomSection.CustomSectionProperties, DancingGoatCore",
+            "title": "\u003cp\u003e\u003cstrong\u003e3. Qu\u0026yacute; kh\u0026aacute;ch vui l\u0026ograve;ng cho biết đ\u0026aacute;nh gi\u0026aacute; về chất lượng dịch vụ khi giao dịch tại Eximbank:\u003c/strong\u003e\u003c/p\u003e"
+          }
+        },
+        {
+          "identifier": "84d75523-02ac-47d5-adec-80df0d4f58cd",
+          "type": "DancingGoat.CustomRadioSection",
+          "zones": [
+            {
+              "identifier": "c5ef771e-6c90-4417-85b7-60afb7580895",
+              "formComponents": [
+                {
+                  "identifier": "90e27811-6b62-4d0e-871a-09b30adc7dc7"
+                }
+              ]
+            }
+          ],
+          "properties": null
+        },
+        {
+          "identifier": "9fffacf5-0fad-4bc4-8cf0-e2d1f0764d10",
+          "type": "DancingGoat.CustomSection",
+          "zones": [
+            {
+              "identifier": "c02b14da-28fd-4f0c-908e-d86cd32852c9",
+              "formComponents": [
+                {
+                  "identifier": "86d444fc-ad87-4a29-b186-6c3c3860058d"
+                }
+              ]
+            }
+          ],
+          "properties": null
+        }
+      ]
+    }
+  ]
+}</FormBuilderLayout>
+    </cms_form>
+    <cms_form>
+      <FormID>51</FormID>
+      <FormDisplayName>Demo Form</FormDisplayName>
+      <FormName>DemoForm</FormName>
+      <FormEmailAttachUploadedDocs>true</FormEmailAttachUploadedDocs>
+      <FormClassID>5620</FormClassID>
+      <FormItems>2</FormItems>
+      <FormDisplayText>Cám ơn bạn đã đăng kí, Chúng tôi sẽ liên hệ sớm nhất...</FormDisplayText>
+      <FormClearAfterSave>false</FormClearAfterSave>
+      <FormSubmitButtonText>Đăng kí</FormSubmitButtonText>
+      <FormSiteID>7</FormSiteID>
+      <FormGUID>9425634b-54ca-4d66-9315-aac318ffd61c</FormGUID>
+      <FormLastModified>2023-04-17T13:44:06.6482248+07:00</FormLastModified>
+      <FormLogActivity>true</FormLogActivity>
+      <FormBuilderLayout>{
+  "editableAreas": [
+    {
+      "identifier": "DefaultFormBuilderArea",
+      "sections": [
+        {
+          "identifier": "00000000-0000-0000-0000-000000000000",
+          "type": "Kentico.DefaultSection",
+          "zones": [
+            {
+              "identifier": "871ef9e7-1975-48c5-a22d-56186e9ec66f",
+              "formComponents": [
+                {
+                  "identifier": "6f31fd35-f702-4c06-a706-39d4bce0be56"
+                },
+                {
+                  "identifier": "365cfd56-0b6c-4951-8a33-96bb70ac08bf"
+                },
+                {
+                  "identifier": "5e2a3c65-be5f-4050-9634-256aa35bbf68"
+                }
+              ]
+            }
+          ],
+          "properties": null
+        }
+      ]
+    }
+  ]
+}</FormBuilderLayout>
+    </cms_form>
+    <cms_form>
+      <FormID>52</FormID>
+      <FormDisplayName>Coffee sample list</FormDisplayName>
+      <FormName>DancingGoatCoreCoffeeSampleList</FormName>
+      <FormEmailAttachUploadedDocs>true</FormEmailAttachUploadedDocs>
+      <FormClassID>5621</FormClassID>
+      <FormItems>6</FormItems>
+      <FormDisplayText>Thank you!</FormDisplayText>
+      <FormClearAfterSave>false</FormClearAfterSave>
+      <FormSubmitButtonText>Taste the coffee</FormSubmitButtonText>
+      <FormSiteID>7</FormSiteID>
+      <FormGUID>ed48bcbb-953a-4177-b1d2-c3512bbab4a5</FormGUID>
+      <FormLastModified>2020-11-25T00:55:38.0131225+07:00</FormLastModified>
+      <FormLogActivity>true</FormLogActivity>
+      <FormBuilderLayout>{
+  "editableAreas": [
+    {
+      "identifier": "DefaultFormBuilderArea",
+      "sections": [
+        {
+          "identifier": "00000000-0000-0000-0000-000000000000",
+          "type": "Kentico.DefaultSection",
+          "zones": [
+            {
+              "identifier": "771b792c-2181-446e-ba18-b665c65d51d6",
+              "formComponents": [
+                {
+                  "identifier": "b1ac740c-8b11-4e44-a250-edb873303dff"
+                },
+                {
+                  "identifier": "24869232-567e-4b70-9c3f-e2c6df9f9e13"
+                },
+                {
+                  "identifier": "f503bf1c-2a71-45df-8fa5-c9d421e8f199"
+                },
+                {
+                  "identifier": "5da9e206-58d0-444e-a8ad-bad97a268394"
+                },
+                {
+                  "identifier": "294e9efb-dc46-4404-9b9a-a6d9520b254d"
+                },
+                {
+                  "identifier": "cf5668b1-e002-4a8c-a53f-0682a39e2d25"
+                },
+                {
+                  "identifier": "5ae2921e-9b50-4be3-8c24-667b18ddf970"
+                },
+                {
+                  "identifier": "79c65cb0-e12c-4b8c-8f4e-1f4f9be034ea"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}</FormBuilderLayout>
+    </cms_form>
+    <cms_form>
+      <FormID>53</FormID>
+      <FormDisplayName>phiếu đánh giá chất lượng dịch vụ</FormDisplayName>
+      <FormName>PhieuDanhGiaChatLuongDichVu</FormName>
+      <FormEmailAttachUploadedDocs>true</FormEmailAttachUploadedDocs>
+      <FormClassID>5622</FormClassID>
+      <FormItems>1</FormItems>
+      <FormDisplayText>Cảm ơn đã đánh giá dịch vụ!</FormDisplayText>
+      <FormClearAfterSave>false</FormClearAfterSave>
+      <FormSubmitButtonText>Đệ trình khảo sát</FormSubmitButtonText>
+      <FormSiteID>7</FormSiteID>
+      <FormGUID>07af696c-80c8-45c6-a7af-d6fdb1174f3c</FormGUID>
+      <FormLastModified>2023-04-20T15:01:57.5977843+07:00</FormLastModified>
+      <FormLogActivity>true</FormLogActivity>
+      <FormBuilderLayout>{
+  "editableAreas": [
+    {
+      "identifier": "DefaultFormBuilderArea",
+      "sections": [
+        {
+          "identifier": "00000000-0000-0000-0000-000000000000",
+          "type": "DancingGoat.TitledSection",
+          "zones": [
+            {
+              "identifier": "b3922486-65e5-4a79-ba7a-886971aa9e81",
+              "formComponents": []
+            }
+          ],
+          "properties": {
+            "$type": "DancingGoat.Components.FormSections.TitledSection.TitledSectionProperties, DancingGoatCore",
+            "title": "\u003cp\u003e\u003cstrong\u003ePHIẾU Đ\u0026Aacute;NH GI\u0026Aacute; CHẤT LƯỢNG DỊCH VỤ\u003c/strong\u003e\u003c/p\u003e"
+          }
+        },
+        {
+          "identifier": "50b27dfe-a681-4631-af6f-605f1e26bf51",
+          "type": "DancingGoat.TitledSection",
+          "zones": [
+            {
+              "identifier": "37e6cd5f-e09a-4b3e-93e2-c924ff8f2400",
+              "formComponents": []
+            }
+          ],
+          "properties": {
+            "$type": "DancingGoat.Components.FormSections.TitledSection.TitledSectionProperties, DancingGoatCore",
+            "title": "\u003cp\u003e\u003cstrong\u003eTh\u0026ocirc;ng tin kh\u0026aacute;ch h\u0026agrave;ng:\u003c/strong\u003e\u003c/p\u003e"
+          }
+        },
+        {
+          "identifier": "5aca0d99-ab8f-425a-97dc-09b14f91a9ee",
+          "type": "DancingGoat.CustomSection",
+          "zones": [
+            {
+              "identifier": "3e4c8607-5987-4fb2-a90f-2269d8a27d53",
+              "formComponents": [
+                {
+                  "identifier": "4972dd5a-e702-4fa5-93f4-532f109cae45"
+                }
+              ]
+            }
+          ],
+          "properties": null
+        },
+        {
+          "identifier": "530c71b6-cfd0-41ff-8d9b-f1eba116f702",
+          "type": "DancingGoat.CustomSection",
+          "zones": [
+            {
+              "identifier": "33c79e4d-c3d2-4d21-8314-42b8012e50ac",
+              "formComponents": [
+                {
+                  "identifier": "222cdd1a-0597-4bd0-9313-6777f62a9704"
+                },
+                {
+                  "identifier": "c43d1e74-9556-4e33-b678-f54a31fc0c3b"
+                },
+                {
+                  "identifier": "4585792d-f5bc-4179-9e21-2d447baa1c12"
+                },
+                {
+                  "identifier": "f3b067d4-6086-496b-bfba-d9921428af79"
+                },
+                {
+                  "identifier": "70b12853-891d-4a10-b9ba-5ffc87498d34"
+                },
+                {
+                  "identifier": "7fbe8660-230b-4649-a73e-04ea6b7609da"
+                }
+              ]
+            }
+          ],
+          "properties": null
+        },
+        {
+          "identifier": "6f9d4ca5-e9c9-4d29-b5ab-bd65309d4c16",
+          "type": "DancingGoat.TitledSection",
+          "zones": [
+            {
+              "identifier": "1be09a52-03d6-4a4c-b7ed-a87a8be9fad6",
+              "formComponents": []
+            }
+          ],
+          "properties": {
+            "$type": "DancingGoat.Components.FormSections.TitledSection.TitledSectionProperties, DancingGoatCore",
+            "title": "\u003cp\u003e\u003cstrong\u003e2. Trường hợp Qu\u0026yacute; kh\u0026aacute;ch đ\u0026atilde; sử dụng c\u0026aacute;c sản phẩm, dịch vụ do Eximbank cung cấp, Qu\u0026yacute; kh\u0026aacute;ch đ\u0026aacute;nh gi\u0026aacute; như thế n\u0026agrave;o?\u003c/strong\u003e\u003c/p\u003e"
+          }
+        },
+        {
+          "identifier": "49a7e4d3-b70b-469f-8fff-bdc1aa3e4d46",
+          "type": "DancingGoat.CustomSection",
+          "zones": [
+            {
+              "identifier": "4425429f-23a9-4561-a6a1-413976709f13",
+              "formComponents": [
+                {
+                  "identifier": "b306d0fb-e0ef-478e-b0eb-b0142d6c2672"
+                },
+                {
+                  "identifier": "365b68d0-0936-464b-8e41-88529a28c918"
+                },
+                {
+                  "identifier": "accd8b7a-e279-45e6-881a-dacbf68c5517"
+                },
+                {
+                  "identifier": "ac42219f-2505-4205-b76c-4bafa1b2455f"
+                },
+                {
+                  "identifier": "0fb9ed24-c29a-41d6-b197-941d6ec37b98"
+                },
+                {
+                  "identifier": "42be0866-44a8-4f20-8fa4-0f66a066a915"
+                },
+                {
+                  "identifier": "d5bde7d8-b56a-49a1-b179-7981bacf11a7"
+                },
+                {
+                  "identifier": "2004a35d-be22-4e76-bc9d-f7450012cbfd"
+                },
+                {
+                  "identifier": "16ea0967-949c-4fad-86c1-d20b637db74d"
+                }
+              ]
+            }
+          ],
+          "properties": null
+        },
+        {
+          "identifier": "48e43d3a-51d6-4f48-9c38-755782232d6d",
+          "type": "DancingGoat.TitledSection",
+          "zones": [
+            {
+              "identifier": "abb04618-0097-4575-b20d-edb738fa5e54",
+              "formComponents": []
+            }
+          ],
+          "properties": {
+            "$type": "DancingGoat.Components.FormSections.TitledSection.TitledSectionProperties, DancingGoatCore",
+            "title": "\u003cp\u003e\u003cstrong\u003e3. Qu\u0026yacute; kh\u0026aacute;ch vui l\u0026ograve;ng cho biết đ\u0026aacute;nh gi\u0026aacute; về chất lượng dịch vụ khi giao dịch tại Eximbank\u003c/strong\u003e\u003c/p\u003e"
+          }
+        },
+        {
+          "identifier": "349463d2-4b28-4022-8f87-a69f45af204d",
+          "type": "DancingGoat.CustomSection",
+          "zones": [
+            {
+              "identifier": "fa3b9c30-ef26-418a-b733-2e20b377ba15",
+              "formComponents": [
+                {
+                  "identifier": "3c0babf0-167f-48ef-94b5-ec65d44e63a4"
+                },
+                {
+                  "identifier": "9a60ecb2-e68a-4e99-b8db-d245c55f89f3"
+                },
+                {
+                  "identifier": "4c5c608c-b840-49a3-99d0-5aebdc896a18"
+                },
+                {
+                  "identifier": "e9341d49-ac66-451e-9f42-d9a985686b7e"
+                },
+                {
+                  "identifier": "62dabd33-3dcf-4714-8765-c16091b51630"
+                },
+                {
+                  "identifier": "3efbffd5-3986-4321-9c7d-2cf0f9864336"
+                },
+                {
+                  "identifier": "8a2f518a-9627-4a23-b0ae-50846eb022a8"
+                },
+                {
+                  "identifier": "e8977d5a-1284-45a0-a4cf-1bd8a75f1336"
+                }
+              ]
+            }
+          ],
+          "properties": null
+        },
+        {
+          "identifier": "d5b1caca-8963-4500-998a-995e4b606de7",
+          "type": "DancingGoat.TitledSection",
+          "zones": [
+            {
+              "identifier": "326dfaef-b67e-4f35-817e-360477fc4e4f",
+              "formComponents": [
+                {
+                  "identifier": "5802bdf6-0176-4156-be23-bc62964200a6"
+                },
+                {
+                  "identifier": "215cca02-0a20-481a-8ee7-5965e4c9e451"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "$type": "DancingGoat.Components.FormSections.TitledSection.TitledSectionProperties, DancingGoatCore",
+            "title": "\u003cp\u003e\u003cstrong\u003e4. Qu\u0026yacute; kh\u0026aacute;ch đ\u0026aacute;nh gi\u0026aacute; chung về chất lượng dịch vụ của Eximbank như thế n\u0026agrave;o?\u003c/strong\u003e\u003c/p\u003e"
+          }
+        }
+      ]
+    }
+  ]
+}</FormBuilderLayout>
+    </cms_form>
+    <cms_class>
+      <ClassID>5623</ClassID>
+      <ClassDisplayName>PHIẾU ĐÁNH GIÁ CHẤT LƯỢNG DỊCH VỤ</ClassDisplayName>
+      <ClassName>BizForm.service_quality_assessment_survey4</ClassName>
+      <ClassUsesVersioning>false</ClassUsesVersioning>
+      <ClassIsDocumentType>false</ClassIsDocumentType>
+      <ClassIsCoupledClass>true</ClassIsCoupledClass>
+      <ClassXmlSchema>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata"&gt;
+  &lt;xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true"&gt;
+    &lt;xs:complexType&gt;
+      &lt;xs:choice minOccurs="0" maxOccurs="unbounded"&gt;
+        &lt;xs:element name="Form_DancingGoatCore_ServiceQualityAssessmentSurvey_4"&gt;
+          &lt;xs:complexType&gt;
+            &lt;xs:sequence&gt;
+              &lt;xs:element name="service_quality_assessment_surveyID" msdata:ReadOnly="true" msdata:AutoIncrement="true" type="xs:int" /&gt;
+              &lt;xs:element name="FormInserted" type="xs:dateTime" /&gt;
+              &lt;xs:element name="FormUpdated" type="xs:dateTime" /&gt;
+              &lt;xs:element name="customer_type"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="customer_name"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="500" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="phone_number"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="500" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="email"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="500" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="address" minOccurs="0"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="500" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="time_used"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="branch_used" minOccurs="0"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="500" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="saving"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="card_service"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="test_service" minOccurs="0"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="study_abroad_service"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="e_bankinng"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="credit"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="international_payment"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="money_deposit"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="exchange_transactions"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="nice_attitude"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="professional_service"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="fast_time_service"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="nice_space"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="nice_guard"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="simple_procedure"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="attentive_customer_service"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="easy_use_interface"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="overrall_rating"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="other_opinion" minOccurs="0"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="500" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+            &lt;/xs:sequence&gt;
+          &lt;/xs:complexType&gt;
+        &lt;/xs:element&gt;
+      &lt;/xs:choice&gt;
+    &lt;/xs:complexType&gt;
+    &lt;xs:unique name="Constraint1" msdata:PrimaryKey="true"&gt;
+      &lt;xs:selector xpath=".//Form_DancingGoatCore_ServiceQualityAssessmentSurvey_4" /&gt;
+      &lt;xs:field xpath="service_quality_assessment_surveyID" /&gt;
+    &lt;/xs:unique&gt;
+  &lt;/xs:element&gt;
+&lt;/xs:schema&gt;</ClassXmlSchema>
+      <ClassFormDefinition>&lt;form version="2"&gt;&lt;field column="service_quality_assessment_surveyID" columntype="integer" guid="036e4ab9-0e8c-4dec-9b56-fe5c25aba5cb" isPK="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;service_quality_assessment_surveyID&lt;/fieldcaption&gt;&lt;/properties&gt;&lt;/field&gt;&lt;field column="FormInserted" columnprecision="7" columntype="datetime" guid="b45faa13-b70c-49d7-ac8d-f315313d602e" system="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Form inserted&lt;/fieldcaption&gt;&lt;/properties&gt;&lt;/field&gt;&lt;field column="FormUpdated" columnprecision="7" columntype="datetime" guid="941bd8a9-ed46-4b64-860f-a339c5bab4f5" system="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Form updated&lt;/fieldcaption&gt;&lt;/properties&gt;&lt;/field&gt;&lt;field column="customer_type" columnsize="200" columntype="text" guid="9d2e891e-064d-4d8f-9508-3e571f51ac3d" visible="true"&gt;&lt;properties&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Doanh nghiệp
+Cá nhân&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="customer_name" columnsize="500" columntype="text" guid="bf95bf9b-c905-43ea-a942-2cbd96e77e14" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Tên khách hàng:&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.TextInput&lt;/componentidentifier&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="phone_number" columnsize="500" columntype="text" guid="f22c02aa-ef05-4c35-8341-4e3cceab73f6" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Số điện thoại:&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.TextInput&lt;/componentidentifier&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="email" columnsize="500" columntype="text" guid="1bc1125c-4a4a-4509-b5da-5f3ace260baa" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Địa chỉ email:&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.EmailInput&lt;/componentidentifier&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field allowempty="true" column="address" columnsize="500" columntype="text" guid="7b17cb5d-0fef-4cdd-85db-cbb74c8055ef" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Địa chỉ:&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.TextInput&lt;/componentidentifier&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="time_used" columnsize="200" columntype="text" guid="c7ec75a4-f0b3-4853-b487-d58638d9f795" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Quý khách đã giao dịch với Eximbank trong thời gian:&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;1 năm
+2~3 năm
+4~5 năm
+Trên 5 năm&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field allowempty="true" column="branch_used" columnsize="500" columntype="text" guid="62a911c2-17c9-421a-9356-735e461367e5" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Quý khách thường xuyên giao dịch với Chi nhánh/PGD nào của Eximbank:&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.TextInput&lt;/componentidentifier&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="saving" columnsize="200" columntype="text" guid="bd036234-34b3-4587-a2da-230657e05653" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;-Tiền gửi, tiết kiệm:&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="card_service" columnsize="200" columntype="text" guid="788cf6fe-cb08-480f-8482-9377144109e2" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;- Dịch vụ thẻ:&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field allowempty="true" column="test_service" columnsize="200" columntype="text" guid="1d85eb4c-907a-40de-8e80-8ef5869c2ea8" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;- Dịch vụ kiều hối:&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="study_abroad_service" columnsize="200" columntype="text" guid="53a3694d-edef-4662-9318-8a9a7d15feb2" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;- Dịch vụ du học:&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="e_bankinng" columnsize="200" columntype="text" guid="4a578a4c-f46f-4858-b807-95287d6d3046" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;- Ngân hàng điện tử (SMS Banking, Mobile Banking, InternetBanking):&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="credit" columnsize="200" columntype="text" guid="b17cefcb-4763-49e1-bd70-c7d597e0cc79" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;- Tín dụng (vay):&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="international_payment" columnsize="200" columntype="text" guid="7518cb69-9d0a-45f1-9ff1-162321f23b44" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;- Thanh toán quốc tế:&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="money_deposit" columnsize="200" columntype="text" guid="613e9e6e-48b6-47e2-8256-4f9085ef4673" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;- Dịch vụ chuyển tiền:&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="exchange_transactions" columnsize="200" columntype="text" guid="b395462c-e709-4011-83a5-3a001ca28f5f" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;- Giao dịch hối đoái:&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="nice_attitude" columnsize="200" columntype="text" guid="ac2959de-67d8-40f3-b48f-424cb65073b2" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;- Thái độ phục vụ của nhân viên Eximbank ân cần, chu đáo:&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="professional_service" columnsize="200" columntype="text" guid="258bfd6e-c4c0-452e-b32c-cf2f1d0727f4" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;- Nhân viên chuyên nghiệp, tư vấn rõ ràng, thực hiện giao dịch chính xác:&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="fast_time_service" columnsize="200" columntype="text" guid="3b4443b3-d19b-4127-bb5e-a463c30c142a" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;- Thời gian phục vụ nhanh:&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="nice_space" columnsize="200" columntype="text" guid="a4cc72bd-45a6-407f-b7b5-c9ecb9d93209" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;- Không gian giao dịch sạch sẽ, thoáng mát và tiện nghi:&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="nice_guard" columnsize="200" columntype="text" guid="d7353d23-fb7a-4297-8342-83fdd48af546" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;- Nhân viên bảo vệ nhiệt tình:&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="simple_procedure" columnsize="200" columntype="text" guid="5ca8891c-1e18-4edc-acd7-8c697d05e30d" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;- Thủ tục đơn giản:&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="attentive_customer_service" columnsize="200" columntype="text" guid="76bec517-321b-4ade-a6cc-7bff291dad4a" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;- Dịch vụ chăm sóc khách hàng chu đáo (khuyến mãi, quà tặng,..):&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="easy_use_interface" columnsize="200" columntype="text" guid="94df9a7e-8221-45d2-8419-509970c2d3e3" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;- Giao diện website của Eximbank dễ sử dụng và hiệu quả:&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="overrall_rating" columnsize="200" columntype="text" guid="90e27811-6b62-4d0e-871a-09b30adc7dc7" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;4. Quý khách đánh giá chung về chất lượng dịch vụ của Eximbank như thế nào?&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field allowempty="true" column="other_opinion" columnsize="500" columntype="text" guid="86d444fc-ad87-4a29-b186-6c3c3860058d" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;5. Ý kiến khác:&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.TextInput&lt;/componentidentifier&gt;&lt;/settings&gt;&lt;/field&gt;&lt;/form&gt;</ClassFormDefinition>
+      <ClassNodeNameSource></ClassNodeNameSource>
+      <ClassTableName>Form_DancingGoatCore_ServiceQualityAssessmentSurvey_4</ClassTableName>
+      <ClassShowAsSystemTable>false</ClassShowAsSystemTable>
+      <ClassLastModified>2023-04-21T14:30:26.3715674+07:00</ClassLastModified>
+      <ClassGUID>527232e6-cdc1-4cca-9f5b-22cefb1a48d4</ClassGUID>
+      <ClassIsCustomTable>false</ClassIsCustomTable>
+      <ClassSearchCreationDateColumn>FormInserted</ClassSearchCreationDateColumn>
+      <ClassSearchSettings>&lt;search&gt;&lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="525b0f73-a84b-4b74-8806-ec53db41e7a7" name="service_quality_assessment_surveyID" searchable="True" tokenized="False" updatetrigger="True" /&gt;&lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="6e6fd2fd-05b7-4e5d-9818-5ac3edd60a4f" name="FormInserted" searchable="True" tokenized="False" updatetrigger="True" /&gt;&lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="9651f8f3-5257-4386-8a9b-f5a9550f2edb" name="FormUpdated" searchable="True" tokenized="False" updatetrigger="True" /&gt;&lt;/search&gt;</ClassSearchSettings>
+      <ClassSearchEnabled>true</ClassSearchEnabled>
+      <ClassVersionGUID>76e12fd4-ec83-4b55-b33b-232744fc097f</ClassVersionGUID>
+      <ClassIsForm>true</ClassIsForm>
+      <ClassUsesPageBuilder>false</ClassUsesPageBuilder>
+      <ClassIsNavigationItem>false</ClassIsNavigationItem>
+      <ClassHasURL>false</ClassHasURL>
+      <ClassHasMetadata>false</ClassHasMetadata>
+    </cms_class>
+    <cms_class>
+      <ClassID>5622</ClassID>
+      <ClassDisplayName>phiếu đánh giá chất lượng dịch vụ</ClassDisplayName>
+      <ClassName>BizForm.PhieuDanhGiaChatLuongDichVu</ClassName>
+      <ClassUsesVersioning>false</ClassUsesVersioning>
+      <ClassIsDocumentType>false</ClassIsDocumentType>
+      <ClassIsCoupledClass>true</ClassIsCoupledClass>
+      <ClassXmlSchema>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata"&gt;
+  &lt;xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true"&gt;
+    &lt;xs:complexType&gt;
+      &lt;xs:choice minOccurs="0" maxOccurs="unbounded"&gt;
+        &lt;xs:element name="Form_Neweximbank_PhieuDanhGiaChatLuongDichVu"&gt;
+          &lt;xs:complexType&gt;
+            &lt;xs:sequence&gt;
+              &lt;xs:element name="PhieuDanhGiaChatLuongDichVuID" msdata:AutoIncrement="true" type="xs:int" /&gt;
+              &lt;xs:element name="FormInserted" type="xs:dateTime" /&gt;
+              &lt;xs:element name="FormUpdated" type="xs:dateTime" /&gt;
+              &lt;xs:element name="custumer_type"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="customer_name"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="500" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="phone_number"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="500" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="EmailInput"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="500" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="diachi" minOccurs="0"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="500" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="timeuseservice" minOccurs="0"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="branchname"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="500" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="saving"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="card_service"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="remittance_services"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="service_abroad"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="ebank"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="credit"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="international_payments"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="money"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="exchange_transaction"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="atiude"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="profestional_em"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="time_service_fast"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="nice_space"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="nice_guard"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="simple"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="cskh" minOccurs="0"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="nice_ui"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="overral_rating"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="opinion" minOccurs="0"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="500" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+            &lt;/xs:sequence&gt;
+          &lt;/xs:complexType&gt;
+        &lt;/xs:element&gt;
+      &lt;/xs:choice&gt;
+    &lt;/xs:complexType&gt;
+    &lt;xs:unique name="Constraint1" msdata:PrimaryKey="true"&gt;
+      &lt;xs:selector xpath=".//Form_Neweximbank_PhieuDanhGiaChatLuongDichVu" /&gt;
+      &lt;xs:field xpath="PhieuDanhGiaChatLuongDichVuID" /&gt;
+    &lt;/xs:unique&gt;
+  &lt;/xs:element&gt;
+&lt;/xs:schema&gt;</ClassXmlSchema>
+      <ClassFormDefinition>&lt;form version="2"&gt;&lt;field column="PhieuDanhGiaChatLuongDichVuID" columntype="integer" guid="34f6b6ef-7d85-4157-a97e-304df3042426" isPK="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;PhieuDanhGiaChatLuongDichVuID&lt;/fieldcaption&gt;&lt;/properties&gt;&lt;/field&gt;&lt;field column="FormInserted" columnprecision="7" columntype="datetime" guid="7cc43539-4e17-49ac-aae9-e723c8bca8c5" system="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Form inserted&lt;/fieldcaption&gt;&lt;/properties&gt;&lt;/field&gt;&lt;field column="FormUpdated" columnprecision="7" columntype="datetime" guid="5e9a13f5-3cd6-42f0-b7c5-04dc79925c27" system="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Form updated&lt;/fieldcaption&gt;&lt;/properties&gt;&lt;/field&gt;&lt;field column="custumer_type" columnsize="200" columntype="text" guid="4972dd5a-e702-4fa5-93f4-532f109cae45" visible="true"&gt;&lt;properties&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Doanh nghiệp
+Cá nhân&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="customer_name" columnsize="500" columntype="text" guid="222cdd1a-0597-4bd0-9313-6777f62a9704" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Tên khách hàng&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.TextInput&lt;/componentidentifier&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="phone_number" columnsize="500" columntype="text" guid="c43d1e74-9556-4e33-b678-f54a31fc0c3b" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Số điện thoại&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.TextInput&lt;/componentidentifier&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="EmailInput" columnsize="500" columntype="text" guid="4585792d-f5bc-4179-9e21-2d447baa1c12" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Địa chỉ email&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.EmailInput&lt;/componentidentifier&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field allowempty="true" column="diachi" columnsize="500" columntype="text" guid="f3b067d4-6086-496b-bfba-d9921428af79" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Địa chỉ&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.TextInput&lt;/componentidentifier&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field allowempty="true" column="timeuseservice" columnsize="200" columntype="text" guid="70b12853-891d-4a10-b9ba-5ffc87498d34" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Quý khách đã giao dịch với Eximbank trong thời gian&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;1 năm
+2~3 năm
+4~5 năm
+Trên 5 năm&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="branchname" columnsize="500" columntype="text" guid="7fbe8660-230b-4649-a73e-04ea6b7609da" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Quý khách thường xuyên giao dịch với Chi nhánh/PGD nào của Eximbank&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.TextInput&lt;/componentidentifier&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="saving" columnsize="200" columntype="text" guid="b306d0fb-e0ef-478e-b0eb-b0142d6c2672" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;- Tiền gửi, tiết kiệm&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="card_service" columnsize="200" columntype="text" guid="365b68d0-0936-464b-8e41-88529a28c918" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;- Dịch vụ thẻ&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="remittance_services" columnsize="200" columntype="text" guid="accd8b7a-e279-45e6-881a-dacbf68c5517" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;- Dịch vụ kiều hối&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="service_abroad" columnsize="200" columntype="text" guid="ac42219f-2505-4205-b76c-4bafa1b2455f" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;- Dịch vụ du học&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="ebank" columnsize="200" columntype="text" guid="0fb9ed24-c29a-41d6-b197-941d6ec37b98" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;- Ngân hàng điện tử (SMS Banking, Mobile Banking, InternetBanking)&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="credit" columnsize="200" columntype="text" guid="42be0866-44a8-4f20-8fa4-0f66a066a915" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;- Tín dụng (vay)&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="international_payments" columnsize="200" columntype="text" guid="d5bde7d8-b56a-49a1-b179-7981bacf11a7" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;- Thanh toán quốc tế&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="money" columnsize="200" columntype="text" guid="2004a35d-be22-4e76-bc9d-f7450012cbfd" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;- Dịch vụ chuyển tiền&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="exchange_transaction" columnsize="200" columntype="text" guid="16ea0967-949c-4fad-86c1-d20b637db74d" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;- Giao dịch hối đoái&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="atiude" columnsize="200" columntype="text" guid="3c0babf0-167f-48ef-94b5-ec65d44e63a4" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;- Thái độ phục vụ của nhân viên Eximbank ân cần, chu đáo&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="profestional_em" columnsize="200" columntype="text" guid="9a60ecb2-e68a-4e99-b8db-d245c55f89f3" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;- Nhân viên chuyên nghiệp, tư vấn rõ ràng, thực hiện giao dịch chính xác&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="time_service_fast" columnsize="200" columntype="text" guid="4c5c608c-b840-49a3-99d0-5aebdc896a18" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;- Thời gian phục vụ nhanh&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="nice_space" columnsize="200" columntype="text" guid="e9341d49-ac66-451e-9f42-d9a985686b7e" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;- Không gian giao dịch sạch sẽ, thoáng mát và tiện nghi&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="nice_guard" columnsize="200" columntype="text" guid="62dabd33-3dcf-4714-8765-c16091b51630" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;- Nhân viên bảo vệ nhiệt tình&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="simple" columnsize="200" columntype="text" guid="3efbffd5-3986-4321-9c7d-2cf0f9864336" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;- Thủ tục đơn giản&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field allowempty="true" column="cskh" columnsize="200" columntype="text" guid="8a2f518a-9627-4a23-b0ae-50846eb022a8" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;- Dịch vụ chăm sóc khách hàng chu đáo (khuyến mãi, quà tặng,..)&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="nice_ui" columnsize="200" columntype="text" guid="e8977d5a-1284-45a0-a4cf-1bd8a75f1336" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;- Giao diện website của Eximbank dễ sử dụng và hiệu quả&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="overral_rating" columnsize="200" columntype="text" guid="5802bdf6-0176-4156-be23-bc62964200a6" visible="true"&gt;&lt;properties&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.RadioButtons&lt;/componentidentifier&gt;&lt;DataSource&gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&lt;/DataSource&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field allowempty="true" column="opinion" columnsize="500" columntype="text" guid="215cca02-0a20-481a-8ee7-5965e4c9e451" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;5. Ý kiến khác&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.TextInput&lt;/componentidentifier&gt;&lt;/settings&gt;&lt;/field&gt;&lt;/form&gt;</ClassFormDefinition>
+      <ClassNodeNameSource></ClassNodeNameSource>
+      <ClassTableName>Form_Neweximbank_PhieuDanhGiaChatLuongDichVu</ClassTableName>
+      <ClassShowAsSystemTable>false</ClassShowAsSystemTable>
+      <ClassLastModified>2023-04-20T15:00:53.9754195+07:00</ClassLastModified>
+      <ClassGUID>8ea011ff-9126-4a1d-8ae6-2ab95660c3e5</ClassGUID>
+      <ClassIsCustomTable>false</ClassIsCustomTable>
+      <ClassSearchCreationDateColumn>FormInserted</ClassSearchCreationDateColumn>
+      <ClassSearchSettings>&lt;search&gt;&lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="0968ca47-eab0-4794-bdd2-5d0a57723ed2" name="FormUpdated" searchable="True" tokenized="False" updatetrigger="True" /&gt;&lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="549da00b-5daf-4477-b024-7919125dcc92" name="FormInserted" searchable="True" tokenized="False" updatetrigger="True" /&gt;&lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="e92fbbb2-bc7f-43a1-9946-933d1d89be0e" name="PhieuDanhGiaChatLuongDichVuID" searchable="True" tokenized="False" updatetrigger="True" /&gt;&lt;/search&gt;</ClassSearchSettings>
+      <ClassSearchEnabled>true</ClassSearchEnabled>
+      <ClassVersionGUID>75dd67c9-d184-4a74-a043-747a3105ce86</ClassVersionGUID>
+      <ClassIsForm>true</ClassIsForm>
+      <ClassUsesPageBuilder>false</ClassUsesPageBuilder>
+      <ClassIsNavigationItem>false</ClassIsNavigationItem>
+      <ClassHasURL>false</ClassHasURL>
+      <ClassHasMetadata>false</ClassHasMetadata>
+    </cms_class>
+    <cms_class>
+      <ClassID>5612</ClassID>
+      <ClassDisplayName>Form Đăng Ký</ClassDisplayName>
+      <ClassName>BizForm.FormDangKy4</ClassName>
+      <ClassUsesVersioning>false</ClassUsesVersioning>
+      <ClassIsDocumentType>false</ClassIsDocumentType>
+      <ClassIsCoupledClass>true</ClassIsCoupledClass>
+      <ClassXmlSchema>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata"&gt;
+  &lt;xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true"&gt;
+    &lt;xs:complexType&gt;
+      &lt;xs:choice minOccurs="0" maxOccurs="unbounded"&gt;
+        &lt;xs:element name="Form_DancingGoatCore_FormDangKy_4"&gt;
+          &lt;xs:complexType&gt;
+            &lt;xs:sequence&gt;
+              &lt;xs:element name="FormDangKyID" msdata:AutoIncrement="true" type="xs:int" /&gt;
+              &lt;xs:element name="FormInserted" type="xs:dateTime" /&gt;
+              &lt;xs:element name="FormUpdated" type="xs:dateTime" /&gt;
+              &lt;xs:element name="ConsentAgreement" msdata:DataType="System.Guid, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e" type="xs:string" minOccurs="0" /&gt;
+              &lt;xs:element name="TextInput" minOccurs="0"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="500" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+            &lt;/xs:sequence&gt;
+          &lt;/xs:complexType&gt;
+        &lt;/xs:element&gt;
+      &lt;/xs:choice&gt;
+    &lt;/xs:complexType&gt;
+    &lt;xs:unique name="Constraint1" msdata:PrimaryKey="true"&gt;
+      &lt;xs:selector xpath=".//Form_DancingGoatCore_FormDangKy_4" /&gt;
+      &lt;xs:field xpath="FormDangKyID" /&gt;
+    &lt;/xs:unique&gt;
+  &lt;/xs:element&gt;
+&lt;/xs:schema&gt;</ClassXmlSchema>
+      <ClassFormDefinition>&lt;form version="2"&gt;&lt;field column="FormDangKyID" columntype="integer" guid="7a053203-c9b3-41f8-9b42-5f8ef678f7bf" isPK="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;FormDangKyID&lt;/fieldcaption&gt;&lt;/properties&gt;&lt;/field&gt;&lt;field column="FormInserted" columnprecision="7" columntype="datetime" guid="b3fdfc7b-c2f6-4a22-8ef5-3cb40c9aeacf" system="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Form inserted&lt;/fieldcaption&gt;&lt;/properties&gt;&lt;/field&gt;&lt;field column="FormUpdated" columnprecision="7" columntype="datetime" guid="08a4d278-83a9-41ee-a4d4-db8880221ce3" system="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Form updated&lt;/fieldcaption&gt;&lt;/properties&gt;&lt;/field&gt;&lt;field allowempty="true" column="ConsentAgreement" columntype="guid" guid="257b53c9-b240-4093-b990-deac8bbb055c" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Consent agreement&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.ConsentAgreement&lt;/componentidentifier&gt;&lt;/settings&gt;&lt;visibilityconditiondata&gt;&lt;VisibilityConditionConfiguration&gt;
+  &lt;Identifier&gt;Kentico.NeverVisible&lt;/Identifier&gt;
+  &lt;VisibilityCondition /&gt;
+&lt;/VisibilityConditionConfiguration&gt;&lt;/visibilityconditiondata&gt;&lt;/field&gt;&lt;field allowempty="true" column="TextInput" columnsize="500" columntype="text" guid="1bba1d9b-96a8-4316-ad33-8f159ab849c1" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Text input&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.TextInput&lt;/componentidentifier&gt;&lt;/settings&gt;&lt;/field&gt;&lt;/form&gt;</ClassFormDefinition>
+      <ClassNodeNameSource></ClassNodeNameSource>
+      <ClassTableName>Form_DancingGoatCore_FormDangKy_4</ClassTableName>
+      <ClassShowAsSystemTable>false</ClassShowAsSystemTable>
+      <ClassLastModified>2023-04-20T13:58:48.2566259+07:00</ClassLastModified>
+      <ClassGUID>b649d5f9-018b-45aa-81dd-442d1cd80754</ClassGUID>
+      <ClassIsCustomTable>false</ClassIsCustomTable>
+      <ClassSearchCreationDateColumn>FormInserted</ClassSearchCreationDateColumn>
+      <ClassSearchSettings>&lt;search&gt;&lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="6a0a23f1-b8ff-487f-9b0e-b2eed0a6e044" name="FormInserted" searchable="True" tokenized="False" updatetrigger="True" /&gt;&lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="8b2be771-34fd-4579-9a44-c88e5e4daf17" name="FormUpdated" searchable="True" tokenized="False" updatetrigger="True" /&gt;&lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="f3cebbfd-be43-4b27-92a0-a069df046d5c" name="FormDangKyID" searchable="True" tokenized="False" updatetrigger="True" /&gt;&lt;/search&gt;</ClassSearchSettings>
+      <ClassSearchEnabled>true</ClassSearchEnabled>
+      <ClassVersionGUID>e161e68d-21d1-4da2-a120-71a9020960ad</ClassVersionGUID>
+      <ClassIsForm>true</ClassIsForm>
+      <ClassUsesPageBuilder>false</ClassUsesPageBuilder>
+      <ClassIsNavigationItem>false</ClassIsNavigationItem>
+      <ClassHasURL>false</ClassHasURL>
+      <ClassHasMetadata>false</ClassHasMetadata>
+    </cms_class>
+    <cms_class>
+      <ClassID>5615</ClassID>
+      <ClassDisplayName>Đăng ký thẻ trực tuyến</ClassDisplayName>
+      <ClassName>BizForm.online_card_registration4</ClassName>
+      <ClassUsesVersioning>false</ClassUsesVersioning>
+      <ClassIsDocumentType>false</ClassIsDocumentType>
+      <ClassIsCoupledClass>true</ClassIsCoupledClass>
+      <ClassXmlSchema>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata"&gt;
+  &lt;xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true"&gt;
+    &lt;xs:complexType&gt;
+      &lt;xs:choice minOccurs="0" maxOccurs="unbounded"&gt;
+        &lt;xs:element name="Form_DancingGoatCore_OnlineCardRegistration_4"&gt;
+          &lt;xs:complexType&gt;
+            &lt;xs:sequence&gt;
+              &lt;xs:element name="online_card_registrationID" msdata:ReadOnly="true" msdata:AutoIncrement="true" type="xs:int" /&gt;
+              &lt;xs:element name="FormInserted" type="xs:dateTime" /&gt;
+              &lt;xs:element name="FormUpdated" type="xs:dateTime" /&gt;
+              &lt;xs:element name="fullname" minOccurs="0"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="500" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="email"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="500" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="phone_number" type="xs:int" /&gt;
+              &lt;xs:element name="id_card_number" type="xs:int" /&gt;
+              &lt;xs:element name="city_province" minOccurs="0"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="monthly_salary"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="salary_channel"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="200" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="eximbank_consent" msdata:DataType="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" type="xs:string" minOccurs="0" /&gt;
+            &lt;/xs:sequence&gt;
+          &lt;/xs:complexType&gt;
+        &lt;/xs:element&gt;
+      &lt;/xs:choice&gt;
+    &lt;/xs:complexType&gt;
+    &lt;xs:unique name="Constraint1" msdata:PrimaryKey="true"&gt;
+      &lt;xs:selector xpath=".//Form_DancingGoatCore_OnlineCardRegistration_4" /&gt;
+      &lt;xs:field xpath="online_card_registrationID" /&gt;
+    &lt;/xs:unique&gt;
+  &lt;/xs:element&gt;
+&lt;/xs:schema&gt;</ClassXmlSchema>
+      <ClassFormDefinition>&lt;form version="2"&gt;&lt;field column="online_card_registrationID" columntype="integer" guid="4c43b5a5-af53-4c71-a957-84d615e79eb1" isPK="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;online_card_registrationID&lt;/fieldcaption&gt;&lt;/properties&gt;&lt;/field&gt;&lt;field column="FormInserted" columnprecision="7" columntype="datetime" guid="a7930140-78c6-4460-a971-467b543a220e" system="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Form inserted&lt;/fieldcaption&gt;&lt;/properties&gt;&lt;/field&gt;&lt;field column="FormUpdated" columnprecision="7" columntype="datetime" guid="f2e71544-fe85-4967-93f6-cd185568591a" system="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Form updated&lt;/fieldcaption&gt;&lt;/properties&gt;&lt;/field&gt;&lt;field allowempty="true" column="fullname" columnsize="500" columntype="text" guid="f4a7fa07-1c7a-4750-aa0e-9042525be98f" visible="true"&gt;&lt;properties&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.TextInput&lt;/componentidentifier&gt;&lt;Placeholder&gt;Họ tên đầy đủ của bạn&lt;/Placeholder&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="email" columnsize="500" columntype="text" guid="1ed9be72-1223-49c3-9cc3-cb2f8559f878" visible="true"&gt;&lt;properties&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.EmailInput&lt;/componentidentifier&gt;&lt;Placeholder&gt;Email của bạn&lt;/Placeholder&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="phone_number" columntype="integer" guid="78ebf6c9-a8cf-4de5-b0a8-f935d3678bd1" visible="true"&gt;&lt;properties&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.IntInput&lt;/componentidentifier&gt;&lt;Placeholder&gt;Số điện thoại&lt;/Placeholder&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="id_card_number" columntype="integer" guid="46c5b31d-3287-45cc-86bb-fb06ea6f5f84" visible="true"&gt;&lt;properties&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.IntInput&lt;/componentidentifier&gt;&lt;Placeholder&gt;Số CMND/CCCD&lt;/Placeholder&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field allowempty="true" column="city_province" columnsize="200" columntype="text" guid="e16db486-0b16-4729-8751-d60e9f56e3d1" visible="true"&gt;&lt;properties&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.DropDown&lt;/componentidentifier&gt;&lt;DataSource&gt;Hà Nội
+Thành phố Hồ Chí Minh
+Hải Phòng
+Quảng Ninh&lt;/DataSource&gt;&lt;OptionLabel&gt;Tỉnh/TP sinh sống&lt;/OptionLabel&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="monthly_salary" columnsize="200" columntype="text" guid="73027f50-91bf-4d1f-8de6-2f12a5b5853c" visible="true"&gt;&lt;properties&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.DropDown&lt;/componentidentifier&gt;&lt;DataSource&gt;Dưới 5.000.000
+5.000.000 đến 10.000.000
+10.000.000 đến 30.000.000
+Trên 30.000.000&lt;/DataSource&gt;&lt;OptionLabel&gt;Lương hằng tháng sau thuế&lt;/OptionLabel&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="salary_channel" columnsize="200" columntype="text" guid="bce5f17b-5e78-45d2-bebd-80f8c258e271" visible="true"&gt;&lt;properties&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.DropDown&lt;/componentidentifier&gt;&lt;DataSource&gt;Nhận tiền mặt
+Qua internet banking&lt;/DataSource&gt;&lt;OptionLabel&gt;Bạn nhận lương qua?&lt;/OptionLabel&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field allowempty="true" column="eximbank_consent" columntype="guid" guid="ae31050f-b296-4e46-9847-c5717fe56177" visible="true"&gt;&lt;properties&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.ConsentAgreement&lt;/componentidentifier&gt;&lt;ConsentCodeName&gt;eximbank_card_registration_consent&lt;/ConsentCodeName&gt;&lt;/settings&gt;&lt;/field&gt;&lt;/form&gt;</ClassFormDefinition>
+      <ClassNodeNameSource></ClassNodeNameSource>
+      <ClassTableName>Form_DancingGoatCore_OnlineCardRegistration_4</ClassTableName>
+      <ClassShowAsSystemTable>false</ClassShowAsSystemTable>
+      <ClassLastModified>2023-04-19T16:52:01.5373711+07:00</ClassLastModified>
+      <ClassGUID>1d418896-f46c-4ac2-8f97-69ffad1406dc</ClassGUID>
+      <ClassIsCustomTable>false</ClassIsCustomTable>
+      <ClassSearchCreationDateColumn>FormInserted</ClassSearchCreationDateColumn>
+      <ClassSearchSettings>&lt;search&gt;&lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="2499d00b-8718-4a82-9a59-8a4c11e043d6" name="FormInserted" searchable="True" tokenized="False" updatetrigger="True" /&gt;&lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="400d8af2-e4ee-4f51-bbf3-b5df4f9fd3b1" name="online_card_registrationID" searchable="True" tokenized="False" updatetrigger="True" /&gt;&lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="930e360b-1dc2-48ed-a291-b1c83cc21dcd" name="FormUpdated" searchable="True" tokenized="False" updatetrigger="True" /&gt;&lt;/search&gt;</ClassSearchSettings>
+      <ClassSearchEnabled>true</ClassSearchEnabled>
+      <ClassVersionGUID>b016930f-93b3-4132-99ed-a54c69dabb51</ClassVersionGUID>
+      <ClassIsForm>true</ClassIsForm>
+      <ClassUsesPageBuilder>false</ClassUsesPageBuilder>
+      <ClassIsNavigationItem>false</ClassIsNavigationItem>
+      <ClassHasURL>false</ClassHasURL>
+      <ClassHasMetadata>false</ClassHasMetadata>
+    </cms_class>
+    <cms_class>
+      <ClassID>5620</ClassID>
+      <ClassDisplayName>Demo Form</ClassDisplayName>
+      <ClassName>BizForm.DemoForm4</ClassName>
+      <ClassUsesVersioning>false</ClassUsesVersioning>
+      <ClassIsDocumentType>false</ClassIsDocumentType>
+      <ClassIsCoupledClass>true</ClassIsCoupledClass>
+      <ClassXmlSchema>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata"&gt;
+  &lt;xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true"&gt;
+    &lt;xs:complexType&gt;
+      &lt;xs:choice minOccurs="0" maxOccurs="unbounded"&gt;
+        &lt;xs:element name="Form_DancingGoatCore_DemoForm_4"&gt;
+          &lt;xs:complexType&gt;
+            &lt;xs:sequence&gt;
+              &lt;xs:element name="DemoFormID" msdata:ReadOnly="true" msdata:AutoIncrement="true" type="xs:int" /&gt;
+              &lt;xs:element name="FormInserted" type="xs:dateTime" /&gt;
+              &lt;xs:element name="FormUpdated" type="xs:dateTime" /&gt;
+              &lt;xs:element name="TextInput" minOccurs="0"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="500" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="EmailInput" minOccurs="0"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="500" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="TextArea" minOccurs="0"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="2147483647" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+            &lt;/xs:sequence&gt;
+          &lt;/xs:complexType&gt;
+        &lt;/xs:element&gt;
+      &lt;/xs:choice&gt;
+    &lt;/xs:complexType&gt;
+    &lt;xs:unique name="Constraint1" msdata:PrimaryKey="true"&gt;
+      &lt;xs:selector xpath=".//Form_DancingGoatCore_DemoForm_4" /&gt;
+      &lt;xs:field xpath="DemoFormID" /&gt;
+    &lt;/xs:unique&gt;
+  &lt;/xs:element&gt;
+&lt;/xs:schema&gt;</ClassXmlSchema>
+      <ClassFormDefinition>&lt;form version="2"&gt;&lt;field column="DemoFormID" columntype="integer" guid="d1035f6e-56cc-4c6e-84be-e5b657df7daf" isPK="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;DemoFormID&lt;/fieldcaption&gt;&lt;/properties&gt;&lt;/field&gt;&lt;field column="FormInserted" columnprecision="7" columntype="datetime" guid="1248cec6-be23-4481-82bc-0c2675c619c2" system="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Form inserted&lt;/fieldcaption&gt;&lt;/properties&gt;&lt;/field&gt;&lt;field column="FormUpdated" columnprecision="7" columntype="datetime" guid="9bf77202-ac68-4898-bc53-93b79e65c869" system="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Form updated&lt;/fieldcaption&gt;&lt;/properties&gt;&lt;/field&gt;&lt;field allowempty="true" column="TextInput" columnsize="500" columntype="text" guid="6f31fd35-f702-4c06-a706-39d4bce0be56" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Name&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.TextInput&lt;/componentidentifier&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field allowempty="true" column="EmailInput" columnsize="500" columntype="text" guid="365cfd56-0b6c-4951-8a33-96bb70ac08bf" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Email&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.EmailInput&lt;/componentidentifier&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field allowempty="true" column="TextArea" columntype="longtext" guid="5e2a3c65-be5f-4050-9634-256aa35bbf68" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Your Inquiry&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.TextArea&lt;/componentidentifier&gt;&lt;/settings&gt;&lt;/field&gt;&lt;/form&gt;</ClassFormDefinition>
+      <ClassNodeNameSource></ClassNodeNameSource>
+      <ClassTableName>Form_DancingGoatCore_DemoForm_4</ClassTableName>
+      <ClassShowAsSystemTable>false</ClassShowAsSystemTable>
+      <ClassLastModified>2023-04-17T13:39:08.1724792+07:00</ClassLastModified>
+      <ClassGUID>18037979-87c8-4e4b-93d7-729c39ab61e4</ClassGUID>
+      <ClassIsCustomTable>false</ClassIsCustomTable>
+      <ClassSearchCreationDateColumn>FormInserted</ClassSearchCreationDateColumn>
+      <ClassSearchSettings>&lt;search&gt;&lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="914d1cb2-d810-4ffd-9375-5cfc67a3029f" name="FormInserted" searchable="True" tokenized="False" updatetrigger="True" /&gt;&lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="adcbdcb4-0098-4591-9d76-b9a04cdc6971" name="DemoFormID" searchable="True" tokenized="False" updatetrigger="True" /&gt;&lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="fb6ea9b9-fb01-44ce-98a9-41b4ce3b5d9f" name="FormUpdated" searchable="True" tokenized="False" updatetrigger="True" /&gt;&lt;/search&gt;</ClassSearchSettings>
+      <ClassSearchEnabled>true</ClassSearchEnabled>
+      <ClassVersionGUID>f4ec24d2-86ce-4ba1-8cb4-0b114a321948</ClassVersionGUID>
+      <ClassIsForm>true</ClassIsForm>
+      <ClassUsesPageBuilder>false</ClassUsesPageBuilder>
+      <ClassIsNavigationItem>false</ClassIsNavigationItem>
+      <ClassHasURL>false</ClassHasURL>
+      <ClassHasMetadata>false</ClassHasMetadata>
+    </cms_class>
+    <cms_class>
+      <ClassID>5613</ClassID>
+      <ClassDisplayName>Apply for Credit Card</ClassDisplayName>
+      <ClassName>BizForm.ApplyForCreditCard4</ClassName>
+      <ClassUsesVersioning>false</ClassUsesVersioning>
+      <ClassIsDocumentType>false</ClassIsDocumentType>
+      <ClassIsCoupledClass>true</ClassIsCoupledClass>
+      <ClassXmlSchema>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata"&gt;
+  &lt;xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true"&gt;
+    &lt;xs:complexType&gt;
+      &lt;xs:choice minOccurs="0" maxOccurs="unbounded"&gt;
+        &lt;xs:element name="Form_DancingGoatCore_ApplyForCreditCard_4"&gt;
+          &lt;xs:complexType&gt;
+            &lt;xs:sequence&gt;
+              &lt;xs:element name="ApplyForCreditCardID" msdata:ReadOnly="true" msdata:AutoIncrement="true" type="xs:int" /&gt;
+              &lt;xs:element name="FormInserted" type="xs:dateTime" /&gt;
+              &lt;xs:element name="FormUpdated" type="xs:dateTime" /&gt;
+              &lt;xs:element name="fullname" minOccurs="0"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="500" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="EmailInput" minOccurs="0"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="500" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="MultipleChoice" minOccurs="0"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="2147483647" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="MultipleChoice_1" minOccurs="0"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="2147483647" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="TextArea" minOccurs="0"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="2147483647" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+            &lt;/xs:sequence&gt;
+          &lt;/xs:complexType&gt;
+        &lt;/xs:element&gt;
+      &lt;/xs:choice&gt;
+    &lt;/xs:complexType&gt;
+    &lt;xs:unique name="Constraint1" msdata:PrimaryKey="true"&gt;
+      &lt;xs:selector xpath=".//Form_DancingGoatCore_ApplyForCreditCard_4" /&gt;
+      &lt;xs:field xpath="ApplyForCreditCardID" /&gt;
+    &lt;/xs:unique&gt;
+  &lt;/xs:element&gt;
+&lt;/xs:schema&gt;</ClassXmlSchema>
+      <ClassFormDefinition>&lt;form version="2"&gt;&lt;field column="ApplyForCreditCardID" columntype="integer" guid="02b3be8e-d991-43c4-82fd-76f23dccaa46" isPK="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;ApplyForCreditCardID&lt;/fieldcaption&gt;&lt;/properties&gt;&lt;/field&gt;&lt;field column="FormInserted" columnprecision="7" columntype="datetime" guid="5d8a5767-e398-47e7-96fe-6d3b982afeef" system="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Form inserted&lt;/fieldcaption&gt;&lt;/properties&gt;&lt;/field&gt;&lt;field column="FormUpdated" columnprecision="7" columntype="datetime" guid="5b01b1e4-1733-4cd6-a98b-874118183d16" system="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Form updated&lt;/fieldcaption&gt;&lt;/properties&gt;&lt;/field&gt;&lt;field allowempty="true" column="fullname" columnsize="500" columntype="text" guid="257816f7-84b4-440f-a001-cb5001d9b6fb" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Họ và Tên&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.TextInput&lt;/componentidentifier&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field allowempty="true" column="EmailInput" columnsize="500" columntype="text" guid="d9aceb29-c66e-472e-b8d7-6456fc20107f" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Email&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.EmailInput&lt;/componentidentifier&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field allowempty="true" column="MultipleChoice" columntype="longtext" guid="ad812fc8-7353-4f53-b538-7730a1a7bb24" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Giới tính&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.MultipleChoice&lt;/componentidentifier&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field allowempty="true" column="MultipleChoice_1" columntype="longtext" guid="5018ec26-0f10-4995-a855-7e720af1a47f" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Nghề nghiệp&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.MultipleChoice&lt;/componentidentifier&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field allowempty="true" column="TextArea" columntype="longtext" guid="62a529e9-380f-4908-9db9-0580a36a3134" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Yêu cầu&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.TextArea&lt;/componentidentifier&gt;&lt;/settings&gt;&lt;/field&gt;&lt;/form&gt;</ClassFormDefinition>
+      <ClassNodeNameSource></ClassNodeNameSource>
+      <ClassTableName>Form_DancingGoatCore_ApplyForCreditCard_4</ClassTableName>
+      <ClassShowAsSystemTable>false</ClassShowAsSystemTable>
+      <ClassLastModified>2023-04-13T16:11:47.0730766+07:00</ClassLastModified>
+      <ClassGUID>deec3f6c-a395-4319-9dcf-821c8cac7843</ClassGUID>
+      <ClassIsCustomTable>false</ClassIsCustomTable>
+      <ClassSearchCreationDateColumn>FormInserted</ClassSearchCreationDateColumn>
+      <ClassSearchSettings>&lt;search&gt;&lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="0f6160ae-012b-4cae-bb91-1d5984987f31" name="FormInserted" searchable="True" tokenized="False" updatetrigger="True" /&gt;&lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="20993206-fe23-41d4-8f2e-fbbd044beedd" name="FormUpdated" searchable="True" tokenized="False" updatetrigger="True" /&gt;&lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="d57ab146-4441-46a6-b1d9-7e23dd36e518" name="ApplyForCreditCardID" searchable="True" tokenized="False" updatetrigger="True" /&gt;&lt;/search&gt;</ClassSearchSettings>
+      <ClassSearchEnabled>true</ClassSearchEnabled>
+      <ClassVersionGUID>84cf4a24-1f29-4525-a950-ecf1cf79170d</ClassVersionGUID>
+      <ClassIsForm>true</ClassIsForm>
+      <ClassUsesPageBuilder>false</ClassUsesPageBuilder>
+      <ClassIsNavigationItem>false</ClassIsNavigationItem>
+      <ClassHasURL>false</ClassHasURL>
+      <ClassHasMetadata>false</ClassHasMetadata>
+    </cms_class>
+    <cms_class>
+      <ClassID>5618</ClassID>
+      <ClassDisplayName>Contact Us</ClassDisplayName>
+      <ClassName>bizform.DancingGoatCoreContactUsNew5</ClassName>
+      <ClassUsesVersioning>false</ClassUsesVersioning>
+      <ClassIsDocumentType>false</ClassIsDocumentType>
+      <ClassIsCoupledClass>true</ClassIsCoupledClass>
+      <ClassXmlSchema>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata"&gt;
+  &lt;xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true"&gt;
+    &lt;xs:complexType&gt;
+      &lt;xs:choice minOccurs="0" maxOccurs="unbounded"&gt;
+        &lt;xs:element name="Form_DancingGoatCore_ContactUsNew_5"&gt;
+          &lt;xs:complexType&gt;
+            &lt;xs:sequence&gt;
+              &lt;xs:element name="DancingGoatCoreContactUsNewID" msdata:ReadOnly="true" msdata:AutoIncrement="true" type="xs:int" /&gt;
+              &lt;xs:element name="FormInserted" type="xs:dateTime" /&gt;
+              &lt;xs:element name="FormUpdated" type="xs:dateTime" /&gt;
+              &lt;xs:element name="UserFirstName" minOccurs="0"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="500" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="UserLastName" minOccurs="0"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="500" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="UserEmail"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="500" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="UserMessage"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="2147483647" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+            &lt;/xs:sequence&gt;
+          &lt;/xs:complexType&gt;
+        &lt;/xs:element&gt;
+      &lt;/xs:choice&gt;
+    &lt;/xs:complexType&gt;
+    &lt;xs:unique name="Constraint1" msdata:PrimaryKey="true"&gt;
+      &lt;xs:selector xpath=".//Form_DancingGoatCore_ContactUsNew_5" /&gt;
+      &lt;xs:field xpath="DancingGoatCoreContactUsNewID" /&gt;
+    &lt;/xs:unique&gt;
+  &lt;/xs:element&gt;
+&lt;/xs:schema&gt;</ClassXmlSchema>
+      <ClassFormDefinition>&lt;form version="2"&gt;&lt;field column="DancingGoatCoreContactUsNewID" columntype="integer" guid="24f5ef64-ea10-43a6-bd22-957409ea85ac" isPK="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;DancingGoatCoreContactUsNewID&lt;/fieldcaption&gt;&lt;/properties&gt;&lt;settings&gt;&lt;controlname&gt;labelcontrol&lt;/controlname&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="FormInserted" columnprecision="7" columntype="datetime" guid="4bef8ad7-bac1-41a1-ac81-cb2258131753" system="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Form inserted&lt;/fieldcaption&gt;&lt;/properties&gt;&lt;settings&gt;&lt;controlname&gt;calendarcontrol&lt;/controlname&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="FormUpdated" columnprecision="7" columntype="datetime" guid="87882a51-caf7-4eab-b3b1-50d9e2dbb305" system="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Form updated&lt;/fieldcaption&gt;&lt;/properties&gt;&lt;settings&gt;&lt;controlname&gt;calendarcontrol&lt;/controlname&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field allowempty="true" column="UserFirstName" columnsize="500" columntype="text" guid="8b5772d7-0e92-4a14-831a-0e11f6657847" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;First name&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.TextInput&lt;/componentidentifier&gt;&lt;/settings&gt;&lt;validationrulesdata&gt;&lt;ValidationRuleConfiguration&gt;&lt;Identifier&gt;kentico.maximumlength&lt;/Identifier&gt;&lt;ValidationRule&gt;&lt;InstanceIdentifier&gt;1ef8499f-9cc9-4c52-a120-0e220bc4727c&lt;/InstanceIdentifier&gt;&lt;ErrorMessage&gt;Maximum allowed length of the input text is 200&lt;/ErrorMessage&gt;&lt;MaximumLength&gt;200&lt;/MaximumLength&gt;&lt;/ValidationRule&gt;&lt;/ValidationRuleConfiguration&gt;&lt;/validationrulesdata&gt;&lt;/field&gt;&lt;field allowempty="true" column="UserLastName" columnsize="500" columntype="text" guid="b2878eb5-79c1-479f-828f-fc858bfedf3f" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Last name&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.TextInput&lt;/componentidentifier&gt;&lt;/settings&gt;&lt;validationrulesdata&gt;&lt;ValidationRuleConfiguration&gt;&lt;Identifier&gt;kentico.maximumlength&lt;/Identifier&gt;&lt;ValidationRule&gt;&lt;InstanceIdentifier&gt;0d0925ad-9d12-48c3-950e-66d6424ce5bc&lt;/InstanceIdentifier&gt;&lt;ErrorMessage&gt;Maximum allowed length of the input text is 200&lt;/ErrorMessage&gt;&lt;MaximumLength&gt;200&lt;/MaximumLength&gt;&lt;/ValidationRule&gt;&lt;/ValidationRuleConfiguration&gt;&lt;/validationrulesdata&gt;&lt;/field&gt;&lt;field column="UserEmail" columnsize="500" columntype="text" guid="187a859f-be94-4a63-968c-74461782acf9" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Email&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.EmailInput&lt;/componentidentifier&gt;&lt;/settings&gt;&lt;validationrulesdata&gt;&lt;ValidationRuleConfiguration&gt;&lt;Identifier&gt;kentico.maximumlength&lt;/Identifier&gt;&lt;ValidationRule&gt;&lt;InstanceIdentifier&gt;fb3a2bb7-496f-4b42-9cd9-4e9d780ec33d&lt;/InstanceIdentifier&gt;&lt;ErrorMessage&gt;Maximum allowed length of the input text is 100&lt;/ErrorMessage&gt;&lt;MaximumLength&gt;100&lt;/MaximumLength&gt;&lt;/ValidationRule&gt;&lt;/ValidationRuleConfiguration&gt;&lt;/validationrulesdata&gt;&lt;/field&gt;&lt;field column="UserMessage" columntype="longtext" guid="c4282da9-6526-4d1e-98ab-b8359c19c66a" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Message&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.TextArea&lt;/componentidentifier&gt;&lt;/settings&gt;&lt;/field&gt;&lt;/form&gt;</ClassFormDefinition>
+      <ClassNodeNameSource></ClassNodeNameSource>
+      <ClassTableName>Form_DancingGoatCore_ContactUsNew_5</ClassTableName>
+      <ClassShowAsSystemTable>false</ClassShowAsSystemTable>
+      <ClassLastModified>2023-03-23T14:45:40.398123+07:00</ClassLastModified>
+      <ClassGUID>f35645c0-d78a-400e-b79a-8cb385e9f7ea</ClassGUID>
+      <ClassIsCustomTable>false</ClassIsCustomTable>
+      <ClassSearchCreationDateColumn>FormInserted</ClassSearchCreationDateColumn>
+      <ClassSearchSettings>&lt;search&gt;&lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="1982371b-41eb-43a4-b052-7d451308aa5e" name="DancingGoatCoreContactUsNewID" searchable="True" tokenized="False" /&gt;&lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="9217d095-a7f7-4c42-94eb-a5d180cc6516" name="FormUpdated" searchable="True" tokenized="False" /&gt;&lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="ea34e564-02c2-405b-b62e-12e9015d56c7" name="FormInserted" searchable="True" tokenized="False" /&gt;&lt;/search&gt;</ClassSearchSettings>
+      <ClassSearchEnabled>true</ClassSearchEnabled>
+      <ClassContactMapping>&lt;form&gt;&lt;field column="ContactEmail" mappedtofield="UserEmail" /&gt;&lt;field column="ContactFirstName" mappedtofield="UserFirstName" /&gt;&lt;field column="ContactLastName" mappedtofield="UserLastName" /&gt;&lt;/form&gt;</ClassContactMapping>
+      <ClassContactOverwriteEnabled>false</ClassContactOverwriteEnabled>
+      <ClassVersionGUID>044bdc25-3acd-4b4f-9488-3a9a5e39b370</ClassVersionGUID>
+      <ClassIsForm>true</ClassIsForm>
+      <ClassUsesPageBuilder>false</ClassUsesPageBuilder>
+      <ClassIsNavigationItem>false</ClassIsNavigationItem>
+      <ClassHasURL>false</ClassHasURL>
+      <ClassHasMetadata>false</ClassHasMetadata>
+    </cms_class>
+    <cms_class>
+      <ClassID>5621</ClassID>
+      <ClassDisplayName>Coffee sample list</ClassDisplayName>
+      <ClassName>bizform.DancingGoatCoreCoffeeSampleList5</ClassName>
+      <ClassUsesVersioning>false</ClassUsesVersioning>
+      <ClassIsDocumentType>false</ClassIsDocumentType>
+      <ClassIsCoupledClass>true</ClassIsCoupledClass>
+      <ClassXmlSchema>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata"&gt;
+  &lt;xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true"&gt;
+    &lt;xs:complexType&gt;
+      &lt;xs:choice minOccurs="0" maxOccurs="unbounded"&gt;
+        &lt;xs:element name="Form_DancingGoatCore_CoffeeSampleList_5"&gt;
+          &lt;xs:complexType&gt;
+            &lt;xs:sequence&gt;
+              &lt;xs:element name="DancingGoatCoreCoffeeSampleListID" msdata:ReadOnly="true" msdata:AutoIncrement="true" type="xs:int" /&gt;
+              &lt;xs:element name="FormInserted" type="xs:dateTime" /&gt;
+              &lt;xs:element name="FormUpdated" type="xs:dateTime" /&gt;
+              &lt;xs:element name="FirstName"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="500" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="LastName"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="500" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="Email"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="500" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="Address"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="500" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="City"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="500" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="ZIPCode"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="500" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="State" minOccurs="0"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="500" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+              &lt;xs:element name="Country"&gt;
+                &lt;xs:simpleType&gt;
+                  &lt;xs:restriction base="xs:string"&gt;
+                    &lt;xs:maxLength value="500" /&gt;
+                  &lt;/xs:restriction&gt;
+                &lt;/xs:simpleType&gt;
+              &lt;/xs:element&gt;
+            &lt;/xs:sequence&gt;
+          &lt;/xs:complexType&gt;
+        &lt;/xs:element&gt;
+      &lt;/xs:choice&gt;
+    &lt;/xs:complexType&gt;
+    &lt;xs:unique name="Constraint1" msdata:PrimaryKey="true"&gt;
+      &lt;xs:selector xpath=".//Form_DancingGoatCore_CoffeeSampleList_5" /&gt;
+      &lt;xs:field xpath="DancingGoatCoreCoffeeSampleListID" /&gt;
+    &lt;/xs:unique&gt;
+  &lt;/xs:element&gt;
+&lt;/xs:schema&gt;</ClassXmlSchema>
+      <ClassFormDefinition>&lt;form version="2"&gt;&lt;field column="DancingGoatCoreCoffeeSampleListID" columntype="integer" guid="fa26372d-9fbc-4934-b327-b7e8f26d7857" isPK="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;DancingGoatCoreCoffeeSampleListID&lt;/fieldcaption&gt;&lt;/properties&gt;&lt;settings&gt;&lt;controlname&gt;labelcontrol&lt;/controlname&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="FormInserted" columnprecision="7" columntype="datetime" guid="d11e7374-c6bd-4712-a167-aca1d21438f0" system="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Form inserted&lt;/fieldcaption&gt;&lt;/properties&gt;&lt;settings&gt;&lt;controlname&gt;calendarcontrol&lt;/controlname&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="FormUpdated" columnprecision="7" columntype="datetime" guid="b22bc094-1c2a-4723-9332-0e25a6641762" system="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Form updated&lt;/fieldcaption&gt;&lt;/properties&gt;&lt;settings&gt;&lt;controlname&gt;calendarcontrol&lt;/controlname&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="FirstName" columnsize="500" columntype="text" guid="b1ac740c-8b11-4e44-a250-edb873303dff" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;First name&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.TextInput&lt;/componentidentifier&gt;&lt;controlname&gt;unknown&lt;/controlname&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="LastName" columnsize="500" columntype="text" guid="24869232-567e-4b70-9c3f-e2c6df9f9e13" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Last name&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.TextInput&lt;/componentidentifier&gt;&lt;controlname&gt;unknown&lt;/controlname&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="Email" columnsize="500" columntype="text" guid="f503bf1c-2a71-45df-8fa5-c9d421e8f199" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Email&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.EmailInput&lt;/componentidentifier&gt;&lt;controlname&gt;unknown&lt;/controlname&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="Address" columnsize="500" columntype="text" guid="5da9e206-58d0-444e-a8ad-bad97a268394" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Address&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.TextInput&lt;/componentidentifier&gt;&lt;controlname&gt;unknown&lt;/controlname&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="City" columnsize="500" columntype="text" guid="294e9efb-dc46-4404-9b9a-a6d9520b254d" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;City&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.TextInput&lt;/componentidentifier&gt;&lt;controlname&gt;unknown&lt;/controlname&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="ZIPCode" columnsize="500" columntype="text" guid="cf5668b1-e002-4a8c-a53f-0682a39e2d25" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;ZIP code&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.TextInput&lt;/componentidentifier&gt;&lt;controlname&gt;unknown&lt;/controlname&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field allowempty="true" column="State" columnsize="500" columntype="text" guid="5ae2921e-9b50-4be3-8c24-667b18ddf970" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;State&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.TextInput&lt;/componentidentifier&gt;&lt;controlname&gt;unknown&lt;/controlname&gt;&lt;/settings&gt;&lt;/field&gt;&lt;field column="Country" columnsize="500" columntype="text" guid="79c65cb0-e12c-4b8c-8f4e-1f4f9be034ea" visible="true"&gt;&lt;properties&gt;&lt;fieldcaption&gt;Country&lt;/fieldcaption&gt;&lt;smart&gt;False&lt;/smart&gt;&lt;/properties&gt;&lt;settings&gt;&lt;componentidentifier&gt;Kentico.TextInput&lt;/componentidentifier&gt;&lt;controlname&gt;unknown&lt;/controlname&gt;&lt;/settings&gt;&lt;/field&gt;&lt;/form&gt;</ClassFormDefinition>
+      <ClassNodeNameSource></ClassNodeNameSource>
+      <ClassTableName>Form_DancingGoatCore_CoffeeSampleList_5</ClassTableName>
+      <ClassShowAsSystemTable>false</ClassShowAsSystemTable>
+      <ClassLastModified>2020-11-25T00:55:27.2001277+07:00</ClassLastModified>
+      <ClassGUID>f57e38f1-d244-408c-afb5-c199292d9fa3</ClassGUID>
+      <ClassIsCustomTable>false</ClassIsCustomTable>
+      <ClassSearchCreationDateColumn>FormInserted</ClassSearchCreationDateColumn>
+      <ClassSearchSettings>&lt;search&gt;&lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="7cfb5025-0f08-45ff-aae2-c48de760bcfc" name="FormUpdated" searchable="True" tokenized="False" /&gt;&lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="b3c6c9fe-9167-48ea-838d-d9a34c526045" name="FormInserted" searchable="True" tokenized="False" /&gt;&lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="c371f8bb-aa77-4241-b831-03d347b58e44" name="DancingGoatCoreCoffeeSampleListID" searchable="True" tokenized="False" /&gt;&lt;/search&gt;</ClassSearchSettings>
+      <ClassSearchEnabled>true</ClassSearchEnabled>
+      <ClassContactMapping>&lt;form&gt;&lt;field column="ContactAddress1" mappedtofield="Address" /&gt;&lt;field column="ContactCity" mappedtofield="City" /&gt;&lt;field column="ContactCountryID" mappedtofield="Country" /&gt;&lt;field column="ContactEmail" mappedtofield="Email" /&gt;&lt;field column="ContactFirstName" mappedtofield="FirstName" /&gt;&lt;field column="ContactLastName" mappedtofield="LastName" /&gt;&lt;field column="ContactStateID" mappedtofield="State" /&gt;&lt;field column="ContactZIP" mappedtofield="ZIPCode" /&gt;&lt;/form&gt;</ClassContactMapping>
+      <ClassContactOverwriteEnabled>false</ClassContactOverwriteEnabled>
+      <ClassVersionGUID>43dea55f-4b28-4bb7-8d5e-12206ff836cc</ClassVersionGUID>
+      <ClassIsForm>true</ClassIsForm>
+      <ClassUsesPageBuilder>false</ClassUsesPageBuilder>
+      <ClassIsNavigationItem>false</ClassIsNavigationItem>
+      <ClassHasURL>false</ClassHasURL>
+      <ClassHasMetadata>false</ClassHasMetadata>
+    </cms_class>
+    <export_task>
+      <TaskID>3</TaskID>
+      <TaskSiteID>7</TaskSiteID>
+      <TaskTitle>Delete Form 'test'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Form&gt;
+  &lt;FormID&gt;50&lt;/FormID&gt;
+  &lt;FormDisplayName&gt;test&lt;/FormDisplayName&gt;
+  &lt;FormName&gt;Test_1&lt;/FormName&gt;
+  &lt;FormEmailAttachUploadedDocs&gt;true&lt;/FormEmailAttachUploadedDocs&gt;
+  &lt;FormClassID&gt;5619&lt;/FormClassID&gt;
+  &lt;FormItems&gt;0&lt;/FormItems&gt;
+  &lt;FormClearAfterSave&gt;true&lt;/FormClearAfterSave&gt;
+  &lt;FormSiteID&gt;7&lt;/FormSiteID&gt;
+  &lt;FormGUID&gt;cde84205-4c30-45e8-8400-97713ab2060a&lt;/FormGUID&gt;
+  &lt;FormLastModified&gt;2023-04-20T11:18:56.7987826+07:00&lt;/FormLastModified&gt;
+  &lt;FormLogActivity&gt;true&lt;/FormLogActivity&gt;
+&lt;/CMS_Form&gt;
+&lt;CMS_Class&gt;
+  &lt;ClassID&gt;5619&lt;/ClassID&gt;
+  &lt;ClassDisplayName&gt;test&lt;/ClassDisplayName&gt;
+  &lt;ClassName&gt;BizForm.Test_4&lt;/ClassName&gt;
+  &lt;ClassUsesVersioning&gt;false&lt;/ClassUsesVersioning&gt;
+  &lt;ClassIsDocumentType&gt;false&lt;/ClassIsDocumentType&gt;
+  &lt;ClassIsCoupledClass&gt;true&lt;/ClassIsCoupledClass&gt;
+  &lt;ClassXmlSchema&gt;&amp;lt;?xml version="1.0" encoding="utf-8"?&amp;gt;
+&amp;lt;xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata"&amp;gt;
+  &amp;lt;xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true"&amp;gt;
+    &amp;lt;xs:complexType&amp;gt;
+      &amp;lt;xs:choice minOccurs="0" maxOccurs="unbounded"&amp;gt;
+        &amp;lt;xs:element name="Form_DancingGoatCore_Test_1_2"&amp;gt;
+          &amp;lt;xs:complexType&amp;gt;
+            &amp;lt;xs:sequence&amp;gt;
+              &amp;lt;xs:element name="Test_1ID" msdata:ReadOnly="true" msdata:AutoIncrement="true" type="xs:int" /&amp;gt;
+              &amp;lt;xs:element name="FormInserted" type="xs:dateTime" /&amp;gt;
+              &amp;lt;xs:element name="FormUpdated" type="xs:dateTime" /&amp;gt;
+            &amp;lt;/xs:sequence&amp;gt;
+          &amp;lt;/xs:complexType&amp;gt;
+        &amp;lt;/xs:element&amp;gt;
+      &amp;lt;/xs:choice&amp;gt;
+    &amp;lt;/xs:complexType&amp;gt;
+    &amp;lt;xs:unique name="Constraint1" msdata:PrimaryKey="true"&amp;gt;
+      &amp;lt;xs:selector xpath=".//Form_DancingGoatCore_Test_1_2" /&amp;gt;
+      &amp;lt;xs:field xpath="Test_1ID" /&amp;gt;
+    &amp;lt;/xs:unique&amp;gt;
+  &amp;lt;/xs:element&amp;gt;
+&amp;lt;/xs:schema&amp;gt;&lt;/ClassXmlSchema&gt;
+  &lt;ClassFormDefinition&gt;&amp;lt;form version="2"&amp;gt;&amp;lt;field column="Test_1ID" columntype="integer" guid="dbeec521-cf73-4983-9d44-e8171e999af5" isPK="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;fieldcaption&amp;gt;Test_1ID&amp;lt;/fieldcaption&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field column="FormInserted" columnprecision="7" columntype="datetime" guid="54ccd050-6de1-4c76-90ae-3af92798b4d1" system="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;fieldcaption&amp;gt;Form inserted&amp;lt;/fieldcaption&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field column="FormUpdated" columnprecision="7" columntype="datetime" guid="ce74a36b-2f6d-46ac-94ad-810e3a52b306" system="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;fieldcaption&amp;gt;Form updated&amp;lt;/fieldcaption&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;/form&amp;gt;&lt;/ClassFormDefinition&gt;
+  &lt;ClassNodeNameSource /&gt;
+  &lt;ClassTableName&gt;Form_DancingGoatCore_Test_1_2&lt;/ClassTableName&gt;
+  &lt;ClassShowAsSystemTable&gt;false&lt;/ClassShowAsSystemTable&gt;
+  &lt;ClassLastModified&gt;2023-04-20T11:18:56.7667912+07:00&lt;/ClassLastModified&gt;
+  &lt;ClassGUID&gt;a6a55563-e844-4edd-8135-14ce759c37ec&lt;/ClassGUID&gt;
+  &lt;ClassIsCustomTable&gt;false&lt;/ClassIsCustomTable&gt;
+  &lt;ClassSearchCreationDateColumn&gt;FormInserted&lt;/ClassSearchCreationDateColumn&gt;
+  &lt;ClassSearchSettings&gt;&amp;lt;search&amp;gt;&amp;lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="84b14893-bfe3-4063-ae57-6dc06b15cab4" name="FormUpdated" searchable="True" tokenized="False" updatetrigger="True" /&amp;gt;&amp;lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="8b5d7622-9da5-4741-b4e8-ca99282d938e" name="Test_1ID" searchable="True" tokenized="False" updatetrigger="True" /&amp;gt;&amp;lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="adffc760-1dec-4333-a926-a10bd8437892" name="FormInserted" searchable="True" tokenized="False" updatetrigger="True" /&amp;gt;&amp;lt;/search&amp;gt;&lt;/ClassSearchSettings&gt;
+  &lt;ClassSearchEnabled&gt;true&lt;/ClassSearchEnabled&gt;
+  &lt;ClassVersionGUID&gt;c376784a-64f4-4006-a183-fa22711841eb&lt;/ClassVersionGUID&gt;
+  &lt;ClassIsForm&gt;true&lt;/ClassIsForm&gt;
+  &lt;ClassUsesPageBuilder&gt;false&lt;/ClassUsesPageBuilder&gt;
+  &lt;ClassIsNavigationItem&gt;false&lt;/ClassIsNavigationItem&gt;
+  &lt;ClassHasURL&gt;false&lt;/ClassHasURL&gt;
+  &lt;ClassHasMetadata&gt;false&lt;/ClassHasMetadata&gt;
+&lt;/CMS_Class&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;7&lt;/ID&gt;
+    &lt;CodeName&gt;Neweximbank&lt;/CodeName&gt;
+    &lt;GUID&gt;a26a08ad-3feb-4dca-8bd8-dda6201712ee&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_class&lt;/ClassName&gt;
+    &lt;ID&gt;5619&lt;/ID&gt;
+    &lt;CodeName&gt;BizForm.Test_4&lt;/CodeName&gt;
+    &lt;GUID&gt;a6a55563-e844-4edd-8135-14ce759c37ec&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.formclass&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2023-04-20T13:59:01.0992195+07:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.form</TaskObjectType>
+      <TaskObjectID>50</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>4</TaskID>
+      <TaskSiteID>7</TaskSiteID>
+      <TaskTitle>Delete Form 'test'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Form&gt;
+  &lt;FormID&gt;48&lt;/FormID&gt;
+  &lt;FormDisplayName&gt;test&lt;/FormDisplayName&gt;
+  &lt;FormName&gt;Test&lt;/FormName&gt;
+  &lt;FormEmailAttachUploadedDocs&gt;true&lt;/FormEmailAttachUploadedDocs&gt;
+  &lt;FormClassID&gt;5617&lt;/FormClassID&gt;
+  &lt;FormItems&gt;0&lt;/FormItems&gt;
+  &lt;FormClearAfterSave&gt;true&lt;/FormClearAfterSave&gt;
+  &lt;FormSiteID&gt;7&lt;/FormSiteID&gt;
+  &lt;FormGUID&gt;0abb1f27-a79e-4b35-baab-7b396b13e250&lt;/FormGUID&gt;
+  &lt;FormLastModified&gt;2023-04-19T09:58:29.8976158+07:00&lt;/FormLastModified&gt;
+  &lt;FormLogActivity&gt;true&lt;/FormLogActivity&gt;
+&lt;/CMS_Form&gt;
+&lt;CMS_Class&gt;
+  &lt;ClassID&gt;5617&lt;/ClassID&gt;
+  &lt;ClassDisplayName&gt;test&lt;/ClassDisplayName&gt;
+  &lt;ClassName&gt;BizForm.Test2&lt;/ClassName&gt;
+  &lt;ClassUsesVersioning&gt;false&lt;/ClassUsesVersioning&gt;
+  &lt;ClassIsDocumentType&gt;false&lt;/ClassIsDocumentType&gt;
+  &lt;ClassIsCoupledClass&gt;true&lt;/ClassIsCoupledClass&gt;
+  &lt;ClassXmlSchema&gt;&amp;lt;?xml version="1.0" encoding="utf-8"?&amp;gt;
+&amp;lt;xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata"&amp;gt;
+  &amp;lt;xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true"&amp;gt;
+    &amp;lt;xs:complexType&amp;gt;
+      &amp;lt;xs:choice minOccurs="0" maxOccurs="unbounded"&amp;gt;
+        &amp;lt;xs:element name="Form_DancingGoatCore_Test_3"&amp;gt;
+          &amp;lt;xs:complexType&amp;gt;
+            &amp;lt;xs:sequence&amp;gt;
+              &amp;lt;xs:element name="TestID" msdata:ReadOnly="true" msdata:AutoIncrement="true" type="xs:int" /&amp;gt;
+              &amp;lt;xs:element name="FormInserted" type="xs:dateTime" /&amp;gt;
+              &amp;lt;xs:element name="FormUpdated" type="xs:dateTime" /&amp;gt;
+            &amp;lt;/xs:sequence&amp;gt;
+          &amp;lt;/xs:complexType&amp;gt;
+        &amp;lt;/xs:element&amp;gt;
+      &amp;lt;/xs:choice&amp;gt;
+    &amp;lt;/xs:complexType&amp;gt;
+    &amp;lt;xs:unique name="Constraint1" msdata:PrimaryKey="true"&amp;gt;
+      &amp;lt;xs:selector xpath=".//Form_DancingGoatCore_Test_3" /&amp;gt;
+      &amp;lt;xs:field xpath="TestID" /&amp;gt;
+    &amp;lt;/xs:unique&amp;gt;
+  &amp;lt;/xs:element&amp;gt;
+&amp;lt;/xs:schema&amp;gt;&lt;/ClassXmlSchema&gt;
+  &lt;ClassFormDefinition&gt;&amp;lt;form version="2"&amp;gt;&amp;lt;field column="TestID" columntype="integer" guid="3bb3aa89-d335-4e0f-9af3-ed7901cec7b6" isPK="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;fieldcaption&amp;gt;TestID&amp;lt;/fieldcaption&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field column="FormInserted" columnprecision="7" columntype="datetime" guid="cef673dc-a98f-4912-bc5d-5f88a94902de" system="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;fieldcaption&amp;gt;Form inserted&amp;lt;/fieldcaption&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field column="FormUpdated" columnprecision="7" columntype="datetime" guid="e12a8cfb-4545-4c09-92b9-995730ae0bc5" system="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;fieldcaption&amp;gt;Form updated&amp;lt;/fieldcaption&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;/form&amp;gt;&lt;/ClassFormDefinition&gt;
+  &lt;ClassNodeNameSource /&gt;
+  &lt;ClassTableName&gt;Form_DancingGoatCore_Test_3&lt;/ClassTableName&gt;
+  &lt;ClassShowAsSystemTable&gt;false&lt;/ClassShowAsSystemTable&gt;
+  &lt;ClassLastModified&gt;2023-04-19T09:58:29.8666997+07:00&lt;/ClassLastModified&gt;
+  &lt;ClassGUID&gt;b3c24aa1-d151-4ae5-af45-f1bcdf29b00f&lt;/ClassGUID&gt;
+  &lt;ClassIsCustomTable&gt;false&lt;/ClassIsCustomTable&gt;
+  &lt;ClassSearchCreationDateColumn&gt;FormInserted&lt;/ClassSearchCreationDateColumn&gt;
+  &lt;ClassSearchSettings&gt;&amp;lt;search&amp;gt;&amp;lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="7032c71c-867c-4ed9-8d4e-c94631777436" name="TestID" searchable="True" tokenized="False" updatetrigger="True" /&amp;gt;&amp;lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="ee629f93-2083-445e-8a61-99a5876f8c19" name="FormInserted" searchable="True" tokenized="False" updatetrigger="True" /&amp;gt;&amp;lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="fd76195f-5987-4daf-ab93-6f3355b61e15" name="FormUpdated" searchable="True" tokenized="False" updatetrigger="True" /&amp;gt;&amp;lt;/search&amp;gt;&lt;/ClassSearchSettings&gt;
+  &lt;ClassSearchEnabled&gt;true&lt;/ClassSearchEnabled&gt;
+  &lt;ClassVersionGUID&gt;7439b93f-aae7-4d12-ba3f-49b49f6af0e0&lt;/ClassVersionGUID&gt;
+  &lt;ClassIsForm&gt;true&lt;/ClassIsForm&gt;
+  &lt;ClassUsesPageBuilder&gt;false&lt;/ClassUsesPageBuilder&gt;
+  &lt;ClassIsNavigationItem&gt;false&lt;/ClassIsNavigationItem&gt;
+  &lt;ClassHasURL&gt;false&lt;/ClassHasURL&gt;
+  &lt;ClassHasMetadata&gt;false&lt;/ClassHasMetadata&gt;
+&lt;/CMS_Class&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;7&lt;/ID&gt;
+    &lt;CodeName&gt;Neweximbank&lt;/CodeName&gt;
+    &lt;GUID&gt;a26a08ad-3feb-4dca-8bd8-dda6201712ee&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_class&lt;/ClassName&gt;
+    &lt;ID&gt;5617&lt;/ID&gt;
+    &lt;CodeName&gt;BizForm.Test2&lt;/CodeName&gt;
+    &lt;GUID&gt;b3c24aa1-d151-4ae5-af45-f1bcdf29b00f&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.formclass&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2023-04-20T13:59:02.7179897+07:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.form</TaskObjectType>
+      <TaskObjectID>48</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>5</TaskID>
+      <TaskSiteID>7</TaskSiteID>
+      <TaskTitle>Delete Form 'PHIẾU ĐÁNH GIÁ CHẤT LƯỢNG DỊCH VỤ'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Form&gt;
+  &lt;FormID&gt;42&lt;/FormID&gt;
+  &lt;FormDisplayName&gt;PHIẾU ĐÁNH GIÁ CHẤT LƯỢNG DỊCH VỤ&lt;/FormDisplayName&gt;
+  &lt;FormName&gt;service_quality_assessment_survey&lt;/FormName&gt;
+  &lt;FormEmailAttachUploadedDocs&gt;true&lt;/FormEmailAttachUploadedDocs&gt;
+  &lt;FormClassID&gt;5611&lt;/FormClassID&gt;
+  &lt;FormItems&gt;0&lt;/FormItems&gt;
+  &lt;FormClearAfterSave&gt;true&lt;/FormClearAfterSave&gt;
+  &lt;FormSiteID&gt;7&lt;/FormSiteID&gt;
+  &lt;FormGUID&gt;be221b2d-2eaf-4da0-8a0a-2ef605f4806a&lt;/FormGUID&gt;
+  &lt;FormLastModified&gt;2023-04-20T10:46:54.3183383+07:00&lt;/FormLastModified&gt;
+  &lt;FormLogActivity&gt;true&lt;/FormLogActivity&gt;
+  &lt;FormBuilderLayout&gt;{
+  "editableAreas": [
+    {
+      "identifier": "DefaultFormBuilderArea",
+      "sections": [
+        {
+          "identifier": "63384516-44a2-40de-bab8-08236aff2540",
+          "type": "DancingGoat.TitledSection",
+          "zones": [
+            {
+              "identifier": "4a4d1b36-2936-4233-8856-bfc6b9f3b5a1",
+              "formComponents": []
+            }
+          ],
+          "properties": {
+            "$type": "DancingGoat.Components.FormSections.TitledSection.TitledSectionProperties, DancingGoatCore",
+            "title": "\u003cp\u003e\u003cstrong\u003ePHIẾU Đ\u0026Aacute;NH GI\u0026Aacute; CHẤT LƯỢNG DỊCH VỤ\u003c/strong\u003e\u003c/p\u003e"
+          }
+        },
+        {
+          "identifier": "172f797b-07e2-4597-84c4-da31719221e5",
+          "type": "DancingGoat.TitledSection",
+          "zones": [
+            {
+              "identifier": "d8ad938c-3fa2-4baf-99d5-2d1ca24343d1",
+              "formComponents": []
+            }
+          ],
+          "properties": {
+            "$type": "DancingGoat.Components.FormSections.TitledSection.TitledSectionProperties, DancingGoatCore",
+            "title": "\u003cp\u003e\u003cstrong\u003e1. Th\u0026ocirc;ng tin kh\u0026aacute;ch h\u0026agrave;ng\u003c/strong\u003e\u003c/p\u003e"
+          }
+        },
+        {
+          "identifier": "58e0e4ef-8a06-4d6a-a709-8fc30133fe32",
+          "type": "DancingGoat.CustomSection",
+          "zones": [
+            {
+              "identifier": "ef612ebc-9482-4121-817e-5df3a21b8149",
+              "formComponents": [
+                {
+                  "identifier": "9d2e891e-064d-4d8f-9508-3e571f51ac3d"
+                }
+              ]
+            }
+          ],
+          "properties": null
+        },
+        {
+          "identifier": "0262c575-ef4d-4d4d-8c60-96a14c89eb8e",
+          "type": "DancingGoat.TwoColumnsSection",
+          "zones": [
+            {
+              "identifier": "7314b244-58bc-4b02-a8b9-7731352f68dc",
+              "formComponents": [
+                {
+                  "identifier": "bf95bf9b-c905-43ea-a942-2cbd96e77e14"
+                }
+              ]
+            },
+            {
+              "identifier": "f39e15ff-32ee-4148-8eed-037eea6791e3",
+              "formComponents": [
+                {
+                  "identifier": "f22c02aa-ef05-4c35-8341-4e3cceab73f6"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "$type": "DancingGoat.Components.FormSections.TwoColumnsSection.TwoColumnsSectionProperties, DancingGoatCore",
+            "title": null
+          }
+        },
+        {
+          "identifier": "31b751ed-0e52-445d-8079-1501898d9407",
+          "type": "DancingGoat.TwoColumnsSection",
+          "zones": [
+            {
+              "identifier": "00b68aff-143d-4493-9387-db291f88dcc0",
+              "formComponents": [
+                {
+                  "identifier": "1bc1125c-4a4a-4509-b5da-5f3ace260baa"
+                }
+              ]
+            },
+            {
+              "identifier": "081efc11-762b-492d-99e3-5c618bda1d2a",
+              "formComponents": [
+                {
+                  "identifier": "7b17cb5d-0fef-4cdd-85db-cbb74c8055ef"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "$type": "DancingGoat.Components.FormSections.TwoColumnsSection.TwoColumnsSectionProperties, DancingGoatCore",
+            "title": null
+          }
+        },
+        {
+          "identifier": "5270886b-ddb7-4893-8d19-46d34ba854a0",
+          "type": "DancingGoat.CustomSection",
+          "zones": [
+            {
+              "identifier": "1c29f53a-c65c-4bbb-a753-6cefc000ebee",
+              "formComponents": [
+                {
+                  "identifier": "c7ec75a4-f0b3-4853-b487-d58638d9f795"
+                }
+              ]
+            }
+          ],
+          "properties": null
+        },
+        {
+          "identifier": "dd2a1f4a-9a66-443b-aea4-7b2d42e61da0",
+          "type": "DancingGoat.CustomSection",
+          "zones": [
+            {
+              "identifier": "0a875d43-ec32-4b37-8981-18326ebb742a",
+              "formComponents": [
+                {
+                  "identifier": "62a911c2-17c9-421a-9356-735e461367e5"
+                }
+              ]
+            }
+          ],
+          "properties": null
+        },
+        {
+          "identifier": "065b54cc-bd71-4c15-9c9e-a9ce1c576659",
+          "type": "DancingGoat.TitledSection",
+          "zones": [
+            {
+              "identifier": "65eefd35-9f22-444d-93c9-bd65989632aa",
+              "formComponents": []
+            }
+          ],
+          "properties": {
+            "$type": "DancingGoat.Components.FormSections.TitledSection.TitledSectionProperties, DancingGoatCore",
+            "title": "\u003cp id=\u0022isPasted\u0022\u003e\u003cstrong\u003e2. Trường hợp Qu\u0026yacute; kh\u0026aacute;ch đ\u0026atilde; sử dụng c\u0026aacute;c sản phẩm, dịch vụ do Eximbank cung cấp, Qu\u0026yacute; kh\u0026aacute;ch đ\u0026aacute;nh gi\u0026aacute; như thế n\u0026agrave;o?\u003c/strong\u003e\u003c/p\u003e"
+          }
+        },
+        {
+          "identifier": "0db8b915-09d4-4d4f-99bd-af9a3b24984b",
+          "type": "DancingGoat.CustomSection",
+          "zones": [
+            {
+              "identifier": "7abc8b17-0b7b-48e1-a76b-43a7b082d3cf",
+              "formComponents": [
+                {
+                  "identifier": "1d85eb4c-907a-40de-8e80-8ef5869c2ea8"
+                },
+                {
+                  "identifier": "788cf6fe-cb08-480f-8482-9377144109e2"
+                },
+                {
+                  "identifier": "53a3694d-edef-4662-9318-8a9a7d15feb2"
+                }
+              ]
+            }
+          ],
+          "properties": null
+        },
+        {
+          "identifier": "84d75523-02ac-47d5-adec-80df0d4f58cd",
+          "type": "Kentico.DefaultSection",
+          "zones": [
+            {
+              "identifier": "89bc930c-6dd3-4d88-a988-963e28dc593a",
+              "formComponents": [
+                {
+                  "identifier": "90e27811-6b62-4d0e-871a-09b30adc7dc7"
+                }
+              ]
+            }
+          ],
+          "properties": null
+        }
+      ]
+    }
+  ]
+}&lt;/FormBuilderLayout&gt;
+&lt;/CMS_Form&gt;
+&lt;CMS_Class&gt;
+  &lt;ClassID&gt;5611&lt;/ClassID&gt;
+  &lt;ClassDisplayName&gt;PHIẾU ĐÁNH GIÁ CHẤT LƯỢNG DỊCH VỤ&lt;/ClassDisplayName&gt;
+  &lt;ClassName&gt;BizForm.service_quality_assessment_survey4&lt;/ClassName&gt;
+  &lt;ClassUsesVersioning&gt;false&lt;/ClassUsesVersioning&gt;
+  &lt;ClassIsDocumentType&gt;false&lt;/ClassIsDocumentType&gt;
+  &lt;ClassIsCoupledClass&gt;true&lt;/ClassIsCoupledClass&gt;
+  &lt;ClassXmlSchema&gt;&amp;lt;?xml version="1.0" encoding="utf-8"?&amp;gt;
+&amp;lt;xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata"&amp;gt;
+  &amp;lt;xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true"&amp;gt;
+    &amp;lt;xs:complexType&amp;gt;
+      &amp;lt;xs:choice minOccurs="0" maxOccurs="unbounded"&amp;gt;
+        &amp;lt;xs:element name="Form_DancingGoatCore_ServiceQualityAssessmentSurvey_4"&amp;gt;
+          &amp;lt;xs:complexType&amp;gt;
+            &amp;lt;xs:sequence&amp;gt;
+              &amp;lt;xs:element name="service_quality_assessment_surveyID" msdata:ReadOnly="true" msdata:AutoIncrement="true" type="xs:int" /&amp;gt;
+              &amp;lt;xs:element name="FormInserted" type="xs:dateTime" /&amp;gt;
+              &amp;lt;xs:element name="FormUpdated" type="xs:dateTime" /&amp;gt;
+              &amp;lt;xs:element name="customer_type"&amp;gt;
+                &amp;lt;xs:simpleType&amp;gt;
+                  &amp;lt;xs:restriction base="xs:string"&amp;gt;
+                    &amp;lt;xs:maxLength value="200" /&amp;gt;
+                  &amp;lt;/xs:restriction&amp;gt;
+                &amp;lt;/xs:simpleType&amp;gt;
+              &amp;lt;/xs:element&amp;gt;
+              &amp;lt;xs:element name="customer_name"&amp;gt;
+                &amp;lt;xs:simpleType&amp;gt;
+                  &amp;lt;xs:restriction base="xs:string"&amp;gt;
+                    &amp;lt;xs:maxLength value="500" /&amp;gt;
+                  &amp;lt;/xs:restriction&amp;gt;
+                &amp;lt;/xs:simpleType&amp;gt;
+              &amp;lt;/xs:element&amp;gt;
+              &amp;lt;xs:element name="phone_number"&amp;gt;
+                &amp;lt;xs:simpleType&amp;gt;
+                  &amp;lt;xs:restriction base="xs:string"&amp;gt;
+                    &amp;lt;xs:maxLength value="500" /&amp;gt;
+                  &amp;lt;/xs:restriction&amp;gt;
+                &amp;lt;/xs:simpleType&amp;gt;
+              &amp;lt;/xs:element&amp;gt;
+              &amp;lt;xs:element name="email"&amp;gt;
+                &amp;lt;xs:simpleType&amp;gt;
+                  &amp;lt;xs:restriction base="xs:string"&amp;gt;
+                    &amp;lt;xs:maxLength value="500" /&amp;gt;
+                  &amp;lt;/xs:restriction&amp;gt;
+                &amp;lt;/xs:simpleType&amp;gt;
+              &amp;lt;/xs:element&amp;gt;
+              &amp;lt;xs:element name="address" minOccurs="0"&amp;gt;
+                &amp;lt;xs:simpleType&amp;gt;
+                  &amp;lt;xs:restriction base="xs:string"&amp;gt;
+                    &amp;lt;xs:maxLength value="500" /&amp;gt;
+                  &amp;lt;/xs:restriction&amp;gt;
+                &amp;lt;/xs:simpleType&amp;gt;
+              &amp;lt;/xs:element&amp;gt;
+              &amp;lt;xs:element name="time_used" minOccurs="0"&amp;gt;
+                &amp;lt;xs:simpleType&amp;gt;
+                  &amp;lt;xs:restriction base="xs:string"&amp;gt;
+                    &amp;lt;xs:maxLength value="200" /&amp;gt;
+                  &amp;lt;/xs:restriction&amp;gt;
+                &amp;lt;/xs:simpleType&amp;gt;
+              &amp;lt;/xs:element&amp;gt;
+              &amp;lt;xs:element name="branch_used" minOccurs="0"&amp;gt;
+                &amp;lt;xs:simpleType&amp;gt;
+                  &amp;lt;xs:restriction base="xs:string"&amp;gt;
+                    &amp;lt;xs:maxLength value="500" /&amp;gt;
+                  &amp;lt;/xs:restriction&amp;gt;
+                &amp;lt;/xs:simpleType&amp;gt;
+              &amp;lt;/xs:element&amp;gt;
+              &amp;lt;xs:element name="test_service" minOccurs="0"&amp;gt;
+                &amp;lt;xs:simpleType&amp;gt;
+                  &amp;lt;xs:restriction base="xs:string"&amp;gt;
+                    &amp;lt;xs:maxLength value="200" /&amp;gt;
+                  &amp;lt;/xs:restriction&amp;gt;
+                &amp;lt;/xs:simpleType&amp;gt;
+              &amp;lt;/xs:element&amp;gt;
+              &amp;lt;xs:element name="card_service"&amp;gt;
+                &amp;lt;xs:simpleType&amp;gt;
+                  &amp;lt;xs:restriction base="xs:string"&amp;gt;
+                    &amp;lt;xs:maxLength value="200" /&amp;gt;
+                  &amp;lt;/xs:restriction&amp;gt;
+                &amp;lt;/xs:simpleType&amp;gt;
+              &amp;lt;/xs:element&amp;gt;
+              &amp;lt;xs:element name="study_abroad_service"&amp;gt;
+                &amp;lt;xs:simpleType&amp;gt;
+                  &amp;lt;xs:restriction base="xs:string"&amp;gt;
+                    &amp;lt;xs:maxLength value="200" /&amp;gt;
+                  &amp;lt;/xs:restriction&amp;gt;
+                &amp;lt;/xs:simpleType&amp;gt;
+              &amp;lt;/xs:element&amp;gt;
+              &amp;lt;xs:element name="overrall_rating" minOccurs="0"&amp;gt;
+                &amp;lt;xs:simpleType&amp;gt;
+                  &amp;lt;xs:restriction base="xs:string"&amp;gt;
+                    &amp;lt;xs:maxLength value="200" /&amp;gt;
+                  &amp;lt;/xs:restriction&amp;gt;
+                &amp;lt;/xs:simpleType&amp;gt;
+              &amp;lt;/xs:element&amp;gt;
+            &amp;lt;/xs:sequence&amp;gt;
+          &amp;lt;/xs:complexType&amp;gt;
+        &amp;lt;/xs:element&amp;gt;
+      &amp;lt;/xs:choice&amp;gt;
+    &amp;lt;/xs:complexType&amp;gt;
+    &amp;lt;xs:unique name="Constraint1" msdata:PrimaryKey="true"&amp;gt;
+      &amp;lt;xs:selector xpath=".//Form_DancingGoatCore_ServiceQualityAssessmentSurvey_4" /&amp;gt;
+      &amp;lt;xs:field xpath="service_quality_assessment_surveyID" /&amp;gt;
+    &amp;lt;/xs:unique&amp;gt;
+  &amp;lt;/xs:element&amp;gt;
+&amp;lt;/xs:schema&amp;gt;&lt;/ClassXmlSchema&gt;
+  &lt;ClassFormDefinition&gt;&amp;lt;form version="2"&amp;gt;&amp;lt;field column="service_quality_assessment_surveyID" columntype="integer" guid="036e4ab9-0e8c-4dec-9b56-fe5c25aba5cb" isPK="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;fieldcaption&amp;gt;service_quality_assessment_surveyID&amp;lt;/fieldcaption&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field column="FormInserted" columnprecision="7" columntype="datetime" guid="b45faa13-b70c-49d7-ac8d-f315313d602e" system="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;fieldcaption&amp;gt;Form inserted&amp;lt;/fieldcaption&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field column="FormUpdated" columnprecision="7" columntype="datetime" guid="941bd8a9-ed46-4b64-860f-a339c5bab4f5" system="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;fieldcaption&amp;gt;Form updated&amp;lt;/fieldcaption&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field column="customer_type" columnsize="200" columntype="text" guid="9d2e891e-064d-4d8f-9508-3e571f51ac3d" visible="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;smart&amp;gt;False&amp;lt;/smart&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;settings&amp;gt;&amp;lt;componentidentifier&amp;gt;Kentico.RadioButtons&amp;lt;/componentidentifier&amp;gt;&amp;lt;DataSource&amp;gt;Doanh nghiệp
+Cá nhân&amp;lt;/DataSource&amp;gt;&amp;lt;/settings&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field column="customer_name" columnsize="500" columntype="text" guid="bf95bf9b-c905-43ea-a942-2cbd96e77e14" visible="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;fieldcaption&amp;gt;Tên khách hàng&amp;lt;/fieldcaption&amp;gt;&amp;lt;smart&amp;gt;False&amp;lt;/smart&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;settings&amp;gt;&amp;lt;componentidentifier&amp;gt;Kentico.TextInput&amp;lt;/componentidentifier&amp;gt;&amp;lt;/settings&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field column="phone_number" columnsize="500" columntype="text" guid="f22c02aa-ef05-4c35-8341-4e3cceab73f6" visible="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;fieldcaption&amp;gt;Số điện thoai&amp;lt;/fieldcaption&amp;gt;&amp;lt;smart&amp;gt;False&amp;lt;/smart&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;settings&amp;gt;&amp;lt;componentidentifier&amp;gt;Kentico.TextInput&amp;lt;/componentidentifier&amp;gt;&amp;lt;/settings&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field column="email" columnsize="500" columntype="text" guid="1bc1125c-4a4a-4509-b5da-5f3ace260baa" visible="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;fieldcaption&amp;gt;Địa chỉ email&amp;lt;/fieldcaption&amp;gt;&amp;lt;smart&amp;gt;False&amp;lt;/smart&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;settings&amp;gt;&amp;lt;componentidentifier&amp;gt;Kentico.EmailInput&amp;lt;/componentidentifier&amp;gt;&amp;lt;/settings&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field allowempty="true" column="address" columnsize="500" columntype="text" guid="7b17cb5d-0fef-4cdd-85db-cbb74c8055ef" visible="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;fieldcaption&amp;gt;Địa chỉ&amp;lt;/fieldcaption&amp;gt;&amp;lt;smart&amp;gt;False&amp;lt;/smart&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;settings&amp;gt;&amp;lt;componentidentifier&amp;gt;Kentico.TextInput&amp;lt;/componentidentifier&amp;gt;&amp;lt;/settings&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field allowempty="true" column="time_used" columnsize="200" columntype="text" guid="c7ec75a4-f0b3-4853-b487-d58638d9f795" visible="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;fieldcaption&amp;gt;Quý khách đã giao dịch với Eximbank trong thời gian&amp;lt;/fieldcaption&amp;gt;&amp;lt;smart&amp;gt;False&amp;lt;/smart&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;settings&amp;gt;&amp;lt;componentidentifier&amp;gt;Kentico.RadioButtons&amp;lt;/componentidentifier&amp;gt;&amp;lt;DataSource&amp;gt;1 năm
+2~3 năm
+4~5 năm
+Trên 5 năm&amp;lt;/DataSource&amp;gt;&amp;lt;/settings&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field allowempty="true" column="branch_used" columnsize="500" columntype="text" guid="62a911c2-17c9-421a-9356-735e461367e5" visible="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;fieldcaption&amp;gt;Quý khách thường xuyên giao dịch với Chi nhánh/PGD nào của Eximbank&amp;lt;/fieldcaption&amp;gt;&amp;lt;smart&amp;gt;False&amp;lt;/smart&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;settings&amp;gt;&amp;lt;componentidentifier&amp;gt;Kentico.TextInput&amp;lt;/componentidentifier&amp;gt;&amp;lt;/settings&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field allowempty="true" column="test_service" columnsize="200" columntype="text" guid="1d85eb4c-907a-40de-8e80-8ef5869c2ea8" visible="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;fieldcaption&amp;gt;- Dịch vụ kiều hối&amp;lt;/fieldcaption&amp;gt;&amp;lt;smart&amp;gt;False&amp;lt;/smart&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;settings&amp;gt;&amp;lt;componentidentifier&amp;gt;Kentico.RadioButtons&amp;lt;/componentidentifier&amp;gt;&amp;lt;DataSource&amp;gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&amp;lt;/DataSource&amp;gt;&amp;lt;/settings&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field column="card_service" columnsize="200" columntype="text" guid="788cf6fe-cb08-480f-8482-9377144109e2" visible="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;fieldcaption&amp;gt;- Dịch vụ thẻ&amp;lt;/fieldcaption&amp;gt;&amp;lt;smart&amp;gt;False&amp;lt;/smart&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;settings&amp;gt;&amp;lt;componentidentifier&amp;gt;Kentico.RadioButtons&amp;lt;/componentidentifier&amp;gt;&amp;lt;DataSource&amp;gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&amp;lt;/DataSource&amp;gt;&amp;lt;/settings&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field column="study_abroad_service" columnsize="200" columntype="text" guid="53a3694d-edef-4662-9318-8a9a7d15feb2" visible="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;fieldcaption&amp;gt;- Dịch vụ du hoc&amp;lt;/fieldcaption&amp;gt;&amp;lt;smart&amp;gt;False&amp;lt;/smart&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;settings&amp;gt;&amp;lt;componentidentifier&amp;gt;Kentico.RadioButtons&amp;lt;/componentidentifier&amp;gt;&amp;lt;DataSource&amp;gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&amp;lt;/DataSource&amp;gt;&amp;lt;/settings&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field allowempty="true" column="overrall_rating" columnsize="200" columntype="text" guid="90e27811-6b62-4d0e-871a-09b30adc7dc7" visible="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;fieldcaption&amp;gt;4. Quý khách đánh giá chung về chất lượng dịch vụ của Eximbank như thế nào?&amp;lt;/fieldcaption&amp;gt;&amp;lt;smart&amp;gt;False&amp;lt;/smart&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;settings&amp;gt;&amp;lt;componentidentifier&amp;gt;Kentico.RadioButtons&amp;lt;/componentidentifier&amp;gt;&amp;lt;DataSource&amp;gt;Rất hài lòng
+Hài lòng
+Bình thường
+Chưa hài lòng&amp;lt;/DataSource&amp;gt;&amp;lt;/settings&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;/form&amp;gt;&lt;/ClassFormDefinition&gt;
+  &lt;ClassNodeNameSource /&gt;
+  &lt;ClassTableName&gt;Form_DancingGoatCore_ServiceQualityAssessmentSurvey_4&lt;/ClassTableName&gt;
+  &lt;ClassShowAsSystemTable&gt;false&lt;/ClassShowAsSystemTable&gt;
+  &lt;ClassLastModified&gt;2023-04-20T10:46:54.2391176+07:00&lt;/ClassLastModified&gt;
+  &lt;ClassGUID&gt;977ad175-5dc8-4fd9-a387-d24f29698c5b&lt;/ClassGUID&gt;
+  &lt;ClassIsCustomTable&gt;false&lt;/ClassIsCustomTable&gt;
+  &lt;ClassSearchCreationDateColumn&gt;FormInserted&lt;/ClassSearchCreationDateColumn&gt;
+  &lt;ClassSearchSettings&gt;&amp;lt;search&amp;gt;&amp;lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="525b0f73-a84b-4b74-8806-ec53db41e7a7" name="service_quality_assessment_surveyID" searchable="True" tokenized="False" updatetrigger="True" /&amp;gt;&amp;lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="6e6fd2fd-05b7-4e5d-9818-5ac3edd60a4f" name="FormInserted" searchable="True" tokenized="False" updatetrigger="True" /&amp;gt;&amp;lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="9651f8f3-5257-4386-8a9b-f5a9550f2edb" name="FormUpdated" searchable="True" tokenized="False" updatetrigger="True" /&amp;gt;&amp;lt;/search&amp;gt;&lt;/ClassSearchSettings&gt;
+  &lt;ClassSearchEnabled&gt;true&lt;/ClassSearchEnabled&gt;
+  &lt;ClassVersionGUID&gt;3345b440-ba0a-46ae-99b3-e00af492eef7&lt;/ClassVersionGUID&gt;
+  &lt;ClassIsForm&gt;true&lt;/ClassIsForm&gt;
+  &lt;ClassUsesPageBuilder&gt;false&lt;/ClassUsesPageBuilder&gt;
+  &lt;ClassIsNavigationItem&gt;false&lt;/ClassIsNavigationItem&gt;
+  &lt;ClassHasURL&gt;false&lt;/ClassHasURL&gt;
+  &lt;ClassHasMetadata&gt;false&lt;/ClassHasMetadata&gt;
+&lt;/CMS_Class&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;7&lt;/ID&gt;
+    &lt;CodeName&gt;Neweximbank&lt;/CodeName&gt;
+    &lt;GUID&gt;a26a08ad-3feb-4dca-8bd8-dda6201712ee&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_class&lt;/ClassName&gt;
+    &lt;ID&gt;5611&lt;/ID&gt;
+    &lt;CodeName&gt;BizForm.service_quality_assessment_survey4&lt;/CodeName&gt;
+    &lt;GUID&gt;977ad175-5dc8-4fd9-a387-d24f29698c5b&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.formclass&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2023-04-20T13:59:10.7715527+07:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.form</TaskObjectType>
+      <TaskObjectID>42</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>6</TaskID>
+      <TaskSiteID>7</TaskSiteID>
+      <TaskTitle>Delete Form 'New Data'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Form&gt;
+  &lt;FormID&gt;45&lt;/FormID&gt;
+  &lt;FormDisplayName&gt;New Data&lt;/FormDisplayName&gt;
+  &lt;FormName&gt;NewData&lt;/FormName&gt;
+  &lt;FormEmailAttachUploadedDocs&gt;true&lt;/FormEmailAttachUploadedDocs&gt;
+  &lt;FormClassID&gt;5614&lt;/FormClassID&gt;
+  &lt;FormItems&gt;0&lt;/FormItems&gt;
+  &lt;FormClearAfterSave&gt;true&lt;/FormClearAfterSave&gt;
+  &lt;FormSiteID&gt;7&lt;/FormSiteID&gt;
+  &lt;FormGUID&gt;71e90db9-24a5-40c9-aa6c-6d52795affe0&lt;/FormGUID&gt;
+  &lt;FormLastModified&gt;2023-04-17T16:17:42.7656296+07:00&lt;/FormLastModified&gt;
+  &lt;FormLogActivity&gt;true&lt;/FormLogActivity&gt;
+&lt;/CMS_Form&gt;
+&lt;CMS_Class&gt;
+  &lt;ClassID&gt;5614&lt;/ClassID&gt;
+  &lt;ClassDisplayName&gt;New Data&lt;/ClassDisplayName&gt;
+  &lt;ClassName&gt;BizForm.NewData4&lt;/ClassName&gt;
+  &lt;ClassUsesVersioning&gt;false&lt;/ClassUsesVersioning&gt;
+  &lt;ClassIsDocumentType&gt;false&lt;/ClassIsDocumentType&gt;
+  &lt;ClassIsCoupledClass&gt;true&lt;/ClassIsCoupledClass&gt;
+  &lt;ClassXmlSchema&gt;&amp;lt;?xml version="1.0" encoding="utf-8"?&amp;gt;
+&amp;lt;xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata"&amp;gt;
+  &amp;lt;xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true"&amp;gt;
+    &amp;lt;xs:complexType&amp;gt;
+      &amp;lt;xs:choice minOccurs="0" maxOccurs="unbounded"&amp;gt;
+        &amp;lt;xs:element name="Form_DancingGoatCore_NewData_4"&amp;gt;
+          &amp;lt;xs:complexType&amp;gt;
+            &amp;lt;xs:sequence&amp;gt;
+              &amp;lt;xs:element name="NewDataID" msdata:ReadOnly="true" msdata:AutoIncrement="true" type="xs:int" /&amp;gt;
+              &amp;lt;xs:element name="FormInserted" type="xs:dateTime" /&amp;gt;
+              &amp;lt;xs:element name="FormUpdated" type="xs:dateTime" /&amp;gt;
+            &amp;lt;/xs:sequence&amp;gt;
+          &amp;lt;/xs:complexType&amp;gt;
+        &amp;lt;/xs:element&amp;gt;
+      &amp;lt;/xs:choice&amp;gt;
+    &amp;lt;/xs:complexType&amp;gt;
+    &amp;lt;xs:unique name="Constraint1" msdata:PrimaryKey="true"&amp;gt;
+      &amp;lt;xs:selector xpath=".//Form_DancingGoatCore_NewData_4" /&amp;gt;
+      &amp;lt;xs:field xpath="NewDataID" /&amp;gt;
+    &amp;lt;/xs:unique&amp;gt;
+  &amp;lt;/xs:element&amp;gt;
+&amp;lt;/xs:schema&amp;gt;&lt;/ClassXmlSchema&gt;
+  &lt;ClassFormDefinition&gt;&amp;lt;form version="2"&amp;gt;&amp;lt;field column="NewDataID" columntype="integer" guid="80253d82-4716-4898-9dac-92adf41e4a3e" isPK="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;fieldcaption&amp;gt;NewDataID&amp;lt;/fieldcaption&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field column="FormInserted" columnprecision="7" columntype="datetime" guid="899ae37d-6cdc-4cae-bfa6-be4d200efd09" system="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;fieldcaption&amp;gt;Form inserted&amp;lt;/fieldcaption&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field column="FormUpdated" columnprecision="7" columntype="datetime" guid="f0e601a2-0a0b-41f0-8194-b48d161cf839" system="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;fieldcaption&amp;gt;Form updated&amp;lt;/fieldcaption&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;/form&amp;gt;&lt;/ClassFormDefinition&gt;
+  &lt;ClassNodeNameSource /&gt;
+  &lt;ClassTableName&gt;Form_DancingGoatCore_NewData_4&lt;/ClassTableName&gt;
+  &lt;ClassShowAsSystemTable&gt;false&lt;/ClassShowAsSystemTable&gt;
+  &lt;ClassLastModified&gt;2023-04-17T16:17:42.7500322+07:00&lt;/ClassLastModified&gt;
+  &lt;ClassGUID&gt;ce76f5b8-33c4-4936-a79b-84278e20d6f9&lt;/ClassGUID&gt;
+  &lt;ClassIsCustomTable&gt;false&lt;/ClassIsCustomTable&gt;
+  &lt;ClassSearchCreationDateColumn&gt;FormInserted&lt;/ClassSearchCreationDateColumn&gt;
+  &lt;ClassSearchSettings&gt;&amp;lt;search&amp;gt;&amp;lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="2625421b-de73-4054-89bf-2b4e1db6cdea" name="FormUpdated" searchable="True" tokenized="False" updatetrigger="True" /&amp;gt;&amp;lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="7fd13d9b-b299-43ea-9085-3c215cfe5967" name="FormInserted" searchable="True" tokenized="False" updatetrigger="True" /&amp;gt;&amp;lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="9f94c697-098e-48a2-a743-6f10552f7623" name="NewDataID" searchable="True" tokenized="False" updatetrigger="True" /&amp;gt;&amp;lt;/search&amp;gt;&lt;/ClassSearchSettings&gt;
+  &lt;ClassSearchEnabled&gt;true&lt;/ClassSearchEnabled&gt;
+  &lt;ClassVersionGUID&gt;01bcdeb8-305c-4c16-ae96-e8c8e4a47d7a&lt;/ClassVersionGUID&gt;
+  &lt;ClassIsForm&gt;true&lt;/ClassIsForm&gt;
+  &lt;ClassUsesPageBuilder&gt;false&lt;/ClassUsesPageBuilder&gt;
+  &lt;ClassIsNavigationItem&gt;false&lt;/ClassIsNavigationItem&gt;
+  &lt;ClassHasURL&gt;false&lt;/ClassHasURL&gt;
+  &lt;ClassHasMetadata&gt;false&lt;/ClassHasMetadata&gt;
+&lt;/CMS_Class&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;7&lt;/ID&gt;
+    &lt;CodeName&gt;Neweximbank&lt;/CodeName&gt;
+    &lt;GUID&gt;a26a08ad-3feb-4dca-8bd8-dda6201712ee&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_class&lt;/ClassName&gt;
+    &lt;ID&gt;5614&lt;/ID&gt;
+    &lt;CodeName&gt;BizForm.NewData4&lt;/CodeName&gt;
+    &lt;GUID&gt;ce76f5b8-33c4-4936-a79b-84278e20d6f9&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.formclass&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2023-04-20T13:59:20.6681562+07:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.form</TaskObjectType>
+      <TaskObjectID>45</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>7</TaskID>
+      <TaskSiteID>7</TaskSiteID>
+      <TaskTitle>Delete Form 'New Đăng ký thẻ trực tuyến'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Form&gt;
+  &lt;FormID&gt;47&lt;/FormID&gt;
+  &lt;FormDisplayName&gt;New Đăng ký thẻ trực tuyến&lt;/FormDisplayName&gt;
+  &lt;FormName&gt;NewDangKyTheTrucTuyen&lt;/FormName&gt;
+  &lt;FormEmailAttachUploadedDocs&gt;true&lt;/FormEmailAttachUploadedDocs&gt;
+  &lt;FormClassID&gt;5616&lt;/FormClassID&gt;
+  &lt;FormItems&gt;0&lt;/FormItems&gt;
+  &lt;FormDisplayText&gt;Cảm ơn bạn đã sử dụng dịch vụ thẻ của Eximbank!&lt;/FormDisplayText&gt;
+  &lt;FormClearAfterSave&gt;false&lt;/FormClearAfterSave&gt;
+  &lt;FormSubmitButtonText&gt;Đăng ký&lt;/FormSubmitButtonText&gt;
+  &lt;FormSiteID&gt;7&lt;/FormSiteID&gt;
+  &lt;FormGUID&gt;ed3330a9-c27f-4603-bf52-773fbcf2b8e6&lt;/FormGUID&gt;
+  &lt;FormLastModified&gt;2023-04-19T17:48:22.369322+07:00&lt;/FormLastModified&gt;
+  &lt;FormLogActivity&gt;true&lt;/FormLogActivity&gt;
+  &lt;FormBuilderLayout&gt;{
+  "editableAreas": [
+    {
+      "identifier": "DefaultFormBuilderArea",
+      "sections": [
+        {
+          "identifier": "00000000-0000-0000-0000-000000000000",
+          "type": "DancingGoat.TitledSection",
+          "zones": [
+            {
+              "identifier": "d129c728-a2aa-41f6-a3c8-f997cecdd13f",
+              "formComponents": []
+            }
+          ],
+          "properties": {
+            "$type": "DancingGoat.Components.FormSections.TitledSection.TitledSectionProperties, DancingGoatCore",
+            "title": "\u003cp\u003e\u003cstrong\u003eTh\u0026ocirc;ng tin c\u0026aacute; nh\u0026acirc;n\u003c/strong\u003e\u003c/p\u003e"
+          }
+        },
+        {
+          "identifier": "1176dd7e-214a-46ed-8d86-036e039ad069",
+          "type": "DancingGoat.TwoColumnsSection",
+          "zones": [
+            {
+              "identifier": "b8c0fc8e-2af1-45ca-b6d1-c4e5b8c2bcc5",
+              "formComponents": []
+            },
+            {
+              "identifier": "0dda3403-b503-4782-bc92-edf9d02bced3",
+              "formComponents": [
+                {
+                  "identifier": "d20811ef-dd41-4748-894d-2e5edb56c86d"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "$type": "DancingGoat.Components.FormSections.TwoColumnsSection.TwoColumnsSectionProperties, DancingGoatCore",
+            "title": null
+          }
+        },
+        {
+          "identifier": "1456724b-0bf5-414b-b101-49cbd1e09adf",
+          "type": "DancingGoat.TwoColumnsSection",
+          "zones": [
+            {
+              "identifier": "c45d8cb5-f973-464c-9ac0-381063f3551c",
+              "formComponents": [
+                {
+                  "identifier": "b7472810-d458-41ea-bd38-fda9d478ce9b"
+                }
+              ]
+            },
+            {
+              "identifier": "1377aed5-8654-4c74-9ab2-bdae797a161e",
+              "formComponents": [
+                {
+                  "identifier": "2023871e-4b36-46eb-9c00-33be82d69cad"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "$type": "DancingGoat.Components.FormSections.TwoColumnsSection.TwoColumnsSectionProperties, DancingGoatCore",
+            "title": null
+          }
+        },
+        {
+          "identifier": "c0504297-c700-4f9b-b7d6-28d7d8eb5687",
+          "type": "DancingGoat.TwoColumnsSection",
+          "zones": [
+            {
+              "identifier": "d8656baf-e1c8-441d-877c-765a0b89b3e7",
+              "formComponents": [
+                {
+                  "identifier": "313c794a-75b1-412d-8c8d-565167eb6d53"
+                }
+              ]
+            },
+            {
+              "identifier": "6611fdbb-415a-413d-97ac-401ee88aa4ba",
+              "formComponents": [
+                {
+                  "identifier": "5b059e16-c789-4ea3-b354-6a9564bf549d"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "$type": "DancingGoat.Components.FormSections.TwoColumnsSection.TwoColumnsSectionProperties, DancingGoatCore",
+            "title": "\u003cp\u003e\u003cstrong\u003eTh\u0026ocirc;ng tin t\u0026agrave;i ch\u0026iacute;nh\u003c/strong\u003e\u003c/p\u003e"
+          }
+        },
+        {
+          "identifier": "08d60452-c24c-4f8b-882d-1b3d29ff66ec",
+          "type": "DancingGoat.TitledSection",
+          "zones": [
+            {
+              "identifier": "f2dac715-1003-49bc-8e33-554c260b578a",
+              "formComponents": [
+                {
+                  "identifier": "1ec98a28-e555-44d3-a776-1a68c6c0e8df"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "$type": "DancingGoat.Components.FormSections.TitledSection.TitledSectionProperties, DancingGoatCore",
+            "title": null
+          }
+        },
+        {
+          "identifier": "8b811e2e-f3d7-47bc-b6b9-f45ddf32e697",
+          "type": "DancingGoat.TwoColumnsSection",
+          "zones": [
+            {
+              "identifier": "b59d978c-fa11-4481-b0b7-1e9d347fb3ae",
+              "formComponents": [
+                {
+                  "identifier": "738c4f8f-a7d4-45cf-a1e5-93917cabc94e"
+                }
+              ]
+            },
+            {
+              "identifier": "4967cceb-aafe-489d-be45-dd35381e574e",
+              "formComponents": []
+            }
+          ],
+          "properties": {
+            "$type": "DancingGoat.Components.FormSections.TwoColumnsSection.TwoColumnsSectionProperties, DancingGoatCore",
+            "title": null
+          }
+        },
+        {
+          "identifier": "fc9ecd6d-ec32-47d8-b278-f38f28e63520",
+          "type": "Kentico.DefaultSection",
+          "zones": [
+            {
+              "identifier": "34be4457-7bc5-4a17-9b91-60e1217f8ecc",
+              "formComponents": [
+                {
+                  "identifier": "8a078096-d54c-4efd-a83d-6e1463017d6d"
+                }
+              ]
+            }
+          ],
+          "properties": null
+        }
+      ]
+    }
+  ]
+}&lt;/FormBuilderLayout&gt;
+&lt;/CMS_Form&gt;
+&lt;CMS_Class&gt;
+  &lt;ClassID&gt;5616&lt;/ClassID&gt;
+  &lt;ClassDisplayName&gt;New Đăng ký thẻ trực tuyến&lt;/ClassDisplayName&gt;
+  &lt;ClassName&gt;BizForm.NewDangKyTheTrucTuyen2&lt;/ClassName&gt;
+  &lt;ClassUsesVersioning&gt;false&lt;/ClassUsesVersioning&gt;
+  &lt;ClassIsDocumentType&gt;false&lt;/ClassIsDocumentType&gt;
+  &lt;ClassIsCoupledClass&gt;true&lt;/ClassIsCoupledClass&gt;
+  &lt;ClassXmlSchema&gt;&amp;lt;?xml version="1.0" encoding="utf-8"?&amp;gt;
+&amp;lt;xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata"&amp;gt;
+  &amp;lt;xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true"&amp;gt;
+    &amp;lt;xs:complexType&amp;gt;
+      &amp;lt;xs:choice minOccurs="0" maxOccurs="unbounded"&amp;gt;
+        &amp;lt;xs:element name="Form_DancingGoatCore_NewDangKyTheTrucTuyen_1_1"&amp;gt;
+          &amp;lt;xs:complexType&amp;gt;
+            &amp;lt;xs:sequence&amp;gt;
+              &amp;lt;xs:element name="NewDangKyTheTrucTuyenID" msdata:ReadOnly="true" msdata:AutoIncrement="true" type="xs:int" /&amp;gt;
+              &amp;lt;xs:element name="FormInserted" type="xs:dateTime" /&amp;gt;
+              &amp;lt;xs:element name="FormUpdated" type="xs:dateTime" /&amp;gt;
+              &amp;lt;xs:element name="fullname"&amp;gt;
+                &amp;lt;xs:simpleType&amp;gt;
+                  &amp;lt;xs:restriction base="xs:string"&amp;gt;
+                    &amp;lt;xs:maxLength value="500" /&amp;gt;
+                  &amp;lt;/xs:restriction&amp;gt;
+                &amp;lt;/xs:simpleType&amp;gt;
+              &amp;lt;/xs:element&amp;gt;
+              &amp;lt;xs:element name="email"&amp;gt;
+                &amp;lt;xs:simpleType&amp;gt;
+                  &amp;lt;xs:restriction base="xs:string"&amp;gt;
+                    &amp;lt;xs:maxLength value="500" /&amp;gt;
+                  &amp;lt;/xs:restriction&amp;gt;
+                &amp;lt;/xs:simpleType&amp;gt;
+              &amp;lt;/xs:element&amp;gt;
+              &amp;lt;xs:element name="phone_number" type="xs:int" /&amp;gt;
+              &amp;lt;xs:element name="id_card_number" type="xs:int" /&amp;gt;
+              &amp;lt;xs:element name="city_province"&amp;gt;
+                &amp;lt;xs:simpleType&amp;gt;
+                  &amp;lt;xs:restriction base="xs:string"&amp;gt;
+                    &amp;lt;xs:maxLength value="200" /&amp;gt;
+                  &amp;lt;/xs:restriction&amp;gt;
+                &amp;lt;/xs:simpleType&amp;gt;
+              &amp;lt;/xs:element&amp;gt;
+              &amp;lt;xs:element name="monthy_salary"&amp;gt;
+                &amp;lt;xs:simpleType&amp;gt;
+                  &amp;lt;xs:restriction base="xs:string"&amp;gt;
+                    &amp;lt;xs:maxLength value="200" /&amp;gt;
+                  &amp;lt;/xs:restriction&amp;gt;
+                &amp;lt;/xs:simpleType&amp;gt;
+              &amp;lt;/xs:element&amp;gt;
+              &amp;lt;xs:element name="salary_channel"&amp;gt;
+                &amp;lt;xs:simpleType&amp;gt;
+                  &amp;lt;xs:restriction base="xs:string"&amp;gt;
+                    &amp;lt;xs:maxLength value="200" /&amp;gt;
+                  &amp;lt;/xs:restriction&amp;gt;
+                &amp;lt;/xs:simpleType&amp;gt;
+              &amp;lt;/xs:element&amp;gt;
+              &amp;lt;xs:element name="card_registration_consent" msdata:DataType="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" type="xs:string" minOccurs="0" /&amp;gt;
+            &amp;lt;/xs:sequence&amp;gt;
+          &amp;lt;/xs:complexType&amp;gt;
+        &amp;lt;/xs:element&amp;gt;
+      &amp;lt;/xs:choice&amp;gt;
+    &amp;lt;/xs:complexType&amp;gt;
+    &amp;lt;xs:unique name="Constraint1" msdata:PrimaryKey="true"&amp;gt;
+      &amp;lt;xs:selector xpath=".//Form_DancingGoatCore_NewDangKyTheTrucTuyen_1_1" /&amp;gt;
+      &amp;lt;xs:field xpath="NewDangKyTheTrucTuyenID" /&amp;gt;
+    &amp;lt;/xs:unique&amp;gt;
+  &amp;lt;/xs:element&amp;gt;
+&amp;lt;/xs:schema&amp;gt;&lt;/ClassXmlSchema&gt;
+  &lt;ClassFormDefinition&gt;&amp;lt;form version="2"&amp;gt;&amp;lt;field column="NewDangKyTheTrucTuyenID" columntype="integer" guid="f07db846-d08b-44e6-a18c-7cbc95bfe0ab" isPK="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;fieldcaption&amp;gt;NewDangKyTheTrucTuyenID&amp;lt;/fieldcaption&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field column="FormInserted" columnprecision="7" columntype="datetime" guid="21c8e0b9-f66f-4626-bfae-c236545d20ba" system="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;fieldcaption&amp;gt;Form inserted&amp;lt;/fieldcaption&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field column="FormUpdated" columnprecision="7" columntype="datetime" guid="28545adf-3210-4246-9527-5f0ef91b26e3" system="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;fieldcaption&amp;gt;Form updated&amp;lt;/fieldcaption&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field column="fullname" columnsize="500" columntype="text" guid="d20811ef-dd41-4748-894d-2e5edb56c86d" visible="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;smart&amp;gt;False&amp;lt;/smart&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;settings&amp;gt;&amp;lt;componentidentifier&amp;gt;Kentico.TextInput&amp;lt;/componentidentifier&amp;gt;&amp;lt;Placeholder&amp;gt;Họ tên đầy đủ của bạn&amp;lt;/Placeholder&amp;gt;&amp;lt;/settings&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field column="email" columnsize="500" columntype="text" guid="b7472810-d458-41ea-bd38-fda9d478ce9b" visible="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;smart&amp;gt;False&amp;lt;/smart&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;settings&amp;gt;&amp;lt;componentidentifier&amp;gt;Kentico.TextInput&amp;lt;/componentidentifier&amp;gt;&amp;lt;Placeholder&amp;gt;Email của bạn&amp;lt;/Placeholder&amp;gt;&amp;lt;/settings&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field column="phone_number" columntype="integer" guid="2023871e-4b36-46eb-9c00-33be82d69cad" visible="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;smart&amp;gt;False&amp;lt;/smart&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;settings&amp;gt;&amp;lt;componentidentifier&amp;gt;Kentico.IntInput&amp;lt;/componentidentifier&amp;gt;&amp;lt;Placeholder&amp;gt;Số điện thoại&amp;lt;/Placeholder&amp;gt;&amp;lt;/settings&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field column="id_card_number" columntype="integer" guid="313c794a-75b1-412d-8c8d-565167eb6d53" visible="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;smart&amp;gt;False&amp;lt;/smart&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;settings&amp;gt;&amp;lt;componentidentifier&amp;gt;Kentico.IntInput&amp;lt;/componentidentifier&amp;gt;&amp;lt;Placeholder&amp;gt;Số CMND/CCCD&amp;lt;/Placeholder&amp;gt;&amp;lt;/settings&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field column="city_province" columnsize="200" columntype="text" guid="5b059e16-c789-4ea3-b354-6a9564bf549d" visible="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;smart&amp;gt;False&amp;lt;/smart&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;settings&amp;gt;&amp;lt;componentidentifier&amp;gt;Kentico.DropDown&amp;lt;/componentidentifier&amp;gt;&amp;lt;DataSource&amp;gt;Hà Nội
+Thành phố Hồ Chí Minh
+Hải Phòng
+Quảng Ninh
+Đà Nẵng&amp;lt;/DataSource&amp;gt;&amp;lt;OptionLabel&amp;gt;Tỉnh/Thành phố sinh sống&amp;lt;/OptionLabel&amp;gt;&amp;lt;/settings&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field column="monthy_salary" columnsize="200" columntype="text" guid="1ec98a28-e555-44d3-a776-1a68c6c0e8df" visible="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;smart&amp;gt;False&amp;lt;/smart&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;settings&amp;gt;&amp;lt;componentidentifier&amp;gt;Kentico.DropDown&amp;lt;/componentidentifier&amp;gt;&amp;lt;DataSource&amp;gt;Dưới 5.000.000
+Từ 5.000.000 đến 10.000.000
+Từ 10.000.000 đến 30.000.000
+Trên 30.000.000&amp;lt;/DataSource&amp;gt;&amp;lt;OptionLabel&amp;gt;Lương hàng tháng sau thuế?&amp;lt;/OptionLabel&amp;gt;&amp;lt;/settings&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field column="salary_channel" columnsize="200" columntype="text" guid="738c4f8f-a7d4-45cf-a1e5-93917cabc94e" visible="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;smart&amp;gt;False&amp;lt;/smart&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;settings&amp;gt;&amp;lt;componentidentifier&amp;gt;Kentico.DropDown&amp;lt;/componentidentifier&amp;gt;&amp;lt;DataSource&amp;gt;Nhận tiền mặt
+Qua internet banking&amp;lt;/DataSource&amp;gt;&amp;lt;OptionLabel&amp;gt;Bạn nhân lương qua?&amp;lt;/OptionLabel&amp;gt;&amp;lt;/settings&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field allowempty="true" column="card_registration_consent" columntype="guid" guid="8a078096-d54c-4efd-a83d-6e1463017d6d" visible="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;smart&amp;gt;False&amp;lt;/smart&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;settings&amp;gt;&amp;lt;componentidentifier&amp;gt;Kentico.ConsentAgreement&amp;lt;/componentidentifier&amp;gt;&amp;lt;ConsentCodeName&amp;gt;eximbank_card_registration_consent&amp;lt;/ConsentCodeName&amp;gt;&amp;lt;/settings&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;/form&amp;gt;&lt;/ClassFormDefinition&gt;
+  &lt;ClassNodeNameSource /&gt;
+  &lt;ClassTableName&gt;Form_DancingGoatCore_NewDangKyTheTrucTuyen_1_1&lt;/ClassTableName&gt;
+  &lt;ClassShowAsSystemTable&gt;false&lt;/ClassShowAsSystemTable&gt;
+  &lt;ClassLastModified&gt;2023-04-19T17:47:42.7133006+07:00&lt;/ClassLastModified&gt;
+  &lt;ClassGUID&gt;7ef9c46d-a50d-4ad5-8d5c-5fccd1fb6b5d&lt;/ClassGUID&gt;
+  &lt;ClassIsCustomTable&gt;false&lt;/ClassIsCustomTable&gt;
+  &lt;ClassSearchCreationDateColumn&gt;FormInserted&lt;/ClassSearchCreationDateColumn&gt;
+  &lt;ClassSearchSettings&gt;&amp;lt;search&amp;gt;&amp;lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="b414948d-c178-40ee-baf0-d334b9c87979" name="NewDangKyTheTrucTuyenID" searchable="True" tokenized="False" updatetrigger="True" /&amp;gt;&amp;lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="e36e9d5b-085d-4dcd-a9af-570ab228356e" name="FormUpdated" searchable="True" tokenized="False" updatetrigger="True" /&amp;gt;&amp;lt;item azurecontent="False" azureretrievable="True" azuresearchable="False" content="False" id="e4ad7452-3196-4db2-b534-6dcff1d132f0" name="FormInserted" searchable="True" tokenized="False" updatetrigger="True" /&amp;gt;&amp;lt;/search&amp;gt;&lt;/ClassSearchSettings&gt;
+  &lt;ClassSearchEnabled&gt;true&lt;/ClassSearchEnabled&gt;
+  &lt;ClassVersionGUID&gt;a1760583-b098-4444-9bfb-3d42aff9888c&lt;/ClassVersionGUID&gt;
+  &lt;ClassIsForm&gt;true&lt;/ClassIsForm&gt;
+  &lt;ClassUsesPageBuilder&gt;false&lt;/ClassUsesPageBuilder&gt;
+  &lt;ClassIsNavigationItem&gt;false&lt;/ClassIsNavigationItem&gt;
+  &lt;ClassHasURL&gt;false&lt;/ClassHasURL&gt;
+  &lt;ClassHasMetadata&gt;false&lt;/ClassHasMetadata&gt;
+&lt;/CMS_Class&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;7&lt;/ID&gt;
+    &lt;CodeName&gt;Neweximbank&lt;/CodeName&gt;
+    &lt;GUID&gt;a26a08ad-3feb-4dca-8bd8-dda6201712ee&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_class&lt;/ClassName&gt;
+    &lt;ID&gt;5616&lt;/ID&gt;
+    &lt;CodeName&gt;BizForm.NewDangKyTheTrucTuyen2&lt;/CodeName&gt;
+    &lt;GUID&gt;7ef9c46d-a50d-4ad5-8d5c-5fccd1fb6b5d&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.formclass&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2023-04-20T13:59:26.5583339+07:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.form</TaskObjectType>
+      <TaskObjectID>47</TaskObjectID>
+    </export_task>
+  </NewDataSet>
+</cms_form>

@@ -1,0 +1,71 @@
+﻿<om_abtest version="13.0">
+  <NewDataSet>
+    <om_abtest>
+      <ABTestID>24</ABTestID>
+      <ABTestName>DanhMucThe_en-US</ABTestName>
+      <ABTestCulture>en-US</ABTestCulture>
+      <ABTestOriginalPage>/Landing-pages/Danh-muc-the</ABTestOriginalPage>
+      <ABTestSiteID>7</ABTestSiteID>
+      <ABTestGUID>01e774aa-4a40-439c-aea3-24c25e573889</ABTestGUID>
+      <ABTestLastModified>2023-04-20T09:19:10.8482357+07:00</ABTestLastModified>
+      <ABTestDisplayName>Danh mục thẻ (en-US)</ABTestDisplayName>
+      <ABTestIncludedTraffic>100</ABTestIncludedTraffic>
+    </om_abtest>
+    <om_abtest>
+      <ABTestID>25</ABTestID>
+      <ABTestName>Home_en-US</ABTestName>
+      <ABTestCulture>en-US</ABTestCulture>
+      <ABTestOriginalPage>/Home</ABTestOriginalPage>
+      <ABTestSiteID>7</ABTestSiteID>
+      <ABTestGUID>6534bf25-1e27-4147-a99d-2598589d858f</ABTestGUID>
+      <ABTestLastModified>2020-11-25T00:55:51.9267968+07:00</ABTestLastModified>
+      <ABTestDisplayName>Home (en-US)</ABTestDisplayName>
+      <ABTestIncludedTraffic>100</ABTestIncludedTraffic>
+      <ABTestConversions>&lt;conversions&gt;&lt;conversion name="PageVisit|/store/coffees/colombia-carlos-imbachi" value="1" item="/store/coffees/colombia-carlos-imbachi" itemname="/store/coffees/colombia-carlos-imbachi" /&gt;&lt;conversion name="Purchase" value="0" /&gt;&lt;/conversions&gt;</ABTestConversions>
+    </om_abtest>
+    <om_abtest>
+      <ABTestID>26</ABTestID>
+      <ABTestName>DemoArticle_en-US</ABTestName>
+      <ABTestCulture>en-US</ABTestCulture>
+      <ABTestOriginalPage>/Demo/Demo-Article</ABTestOriginalPage>
+      <ABTestSiteID>7</ABTestSiteID>
+      <ABTestGUID>bb4a0c0d-9dab-4093-a00c-2ef2036c6708</ABTestGUID>
+      <ABTestLastModified>2023-04-17T11:00:17.8727998+07:00</ABTestLastModified>
+      <ABTestDisplayName>Demo Article (en-US)</ABTestDisplayName>
+      <ABTestIncludedTraffic>100</ABTestIncludedTraffic>
+    </om_abtest>
+    <om_abtest>
+      <ABTestID>27</ABTestID>
+      <ABTestName>ChiTietThe_en-US</ABTestName>
+      <ABTestCulture>en-US</ABTestCulture>
+      <ABTestOriginalPage>/Landing-pages/Chi-tiet-the</ABTestOriginalPage>
+      <ABTestSiteID>7</ABTestSiteID>
+      <ABTestGUID>7595359e-9de8-44d9-b447-369ddbb5aceb</ABTestGUID>
+      <ABTestLastModified>2023-04-18T11:49:44.8072208+07:00</ABTestLastModified>
+      <ABTestDisplayName>Chi tiết thẻ (en-US)</ABTestDisplayName>
+      <ABTestIncludedTraffic>100</ABTestIncludedTraffic>
+    </om_abtest>
+    <om_abtest>
+      <ABTestID>28</ABTestID>
+      <ABTestName>Generator_en-US</ABTestName>
+      <ABTestCulture>en-US</ABTestCulture>
+      <ABTestOriginalPage>/Specials/Generator</ABTestOriginalPage>
+      <ABTestSiteID>7</ABTestSiteID>
+      <ABTestGUID>4fe038d4-4110-4305-a0de-886a69701f12</ABTestGUID>
+      <ABTestLastModified>2023-04-17T10:20:55.5008432+07:00</ABTestLastModified>
+      <ABTestDisplayName>Generator (en-US)</ABTestDisplayName>
+      <ABTestIncludedTraffic>100</ABTestIncludedTraffic>
+    </om_abtest>
+    <om_abtest>
+      <ABTestID>29</ABTestID>
+      <ABTestName>A_BTestingDemo_en-US</ABTestName>
+      <ABTestCulture>en-US</ABTestCulture>
+      <ABTestOriginalPage>/Landing-pages/A-B-testing-Demo</ABTestOriginalPage>
+      <ABTestSiteID>7</ABTestSiteID>
+      <ABTestGUID>3058dc61-3c5b-492d-b8a4-913e39a38c7f</ABTestGUID>
+      <ABTestLastModified>2023-04-19T10:31:17.0117903+07:00</ABTestLastModified>
+      <ABTestDisplayName>A/B testing Demo (en-US)</ABTestDisplayName>
+      <ABTestIncludedTraffic>100</ABTestIncludedTraffic>
+    </om_abtest>
+  </NewDataSet>
+</om_abtest>

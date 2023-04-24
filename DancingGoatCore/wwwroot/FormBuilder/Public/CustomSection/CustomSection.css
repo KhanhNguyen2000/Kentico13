@@ -1,0 +1,27 @@
+.custom-section .form-field > label {
+    display: block;
+    margin-bottom: 0.25rem;
+}
+
+.custom-section .form-field .ktc-radio.ktc-radio-list {
+    display: flex;
+    flex-direction: column;
+    padding-left: 2rem;
+}
+
+.custom-section .form-field .ktc-radio.ktc-radio-list .ktc-radio input {
+    width: fit-content !important;
+}
+
+.custom-section .form-field .ktc-radio.ktc-radio-list .ktc-radio label {
+    white-space: nowrap;
+}
+
+
+
+
+@media (min-width: 768px) {
+    .custom-section .form-field .ktc-radio.ktc-radio-list {
+        flex-direction: row;
+    }
+}

@@ -1,0 +1,18 @@
+.custom-2-cols .form-field > label {
+    display: block;
+    margin-bottom: 0.25rem;
+}
+
+.custom-2-cols .form-field .ktc-radio.ktc-radio-list {
+    display: flex;
+    flex-direction: column;
+    padding-left: 2rem;
+}
+
+.custom-2-cols .form-field .ktc-radio.ktc-radio-list .ktc-radio input {
+    width: fit-content !important;
+}
+
+.custom-2-cols .form-field .ktc-radio.ktc-radio-list .ktc-radio label {
+    white-space: nowrap;
+}
