@@ -20,6 +20,25 @@
       <FileModifiedWhen>2023-04-21T14:17:56.9443791+07:00</FileModifiedWhen>
     </media_file>
     <media_file>
+      <FileID>244</FileID>
+      <FileName>empty_cup_1</FileName>
+      <FileTitle></FileTitle>
+      <FileDescription></FileDescription>
+      <FileExtension>.jpg</FileExtension>
+      <FileMimeType>image/jpeg</FileMimeType>
+      <FilePath>empty_cup_1.jpg</FilePath>
+      <FileSize>50903</FileSize>
+      <FileImageWidth>1024</FileImageWidth>
+      <FileImageHeight>683</FileImageHeight>
+      <FileGUID>54573566-b5a2-4486-af7f-b52015cf5cf5</FileGUID>
+      <FileLibraryID>30</FileLibraryID>
+      <FileSiteID>7</FileSiteID>
+      <FileCreatedByUserID>53</FileCreatedByUserID>
+      <FileCreatedWhen>2023-04-24T17:38:36.5628103+07:00</FileCreatedWhen>
+      <FileModifiedByUserID>53</FileModifiedByUserID>
+      <FileModifiedWhen>2023-04-24T17:38:36.6399025+07:00</FileModifiedWhen>
+    </media_file>
+    <media_file>
       <FileID>240</FileID>
       <FileName>eximbankbn</FileName>
       <FileTitle></FileTitle>
@@ -75,6 +94,25 @@
       <FileCreatedWhen>2023-04-21T14:16:12.7724048+07:00</FileCreatedWhen>
       <FileModifiedByUserID>53</FileModifiedByUserID>
       <FileModifiedWhen>2023-04-21T14:16:12.7830383+07:00</FileModifiedWhen>
+    </media_file>
+    <media_file>
+      <FileID>245</FileID>
+      <FileName>eximbankbn_3</FileName>
+      <FileTitle></FileTitle>
+      <FileDescription></FileDescription>
+      <FileExtension>.jpg</FileExtension>
+      <FileMimeType>image/jpeg</FileMimeType>
+      <FilePath>eximbankbn_3.jpg</FilePath>
+      <FileSize>150376</FileSize>
+      <FileImageWidth>1900</FileImageWidth>
+      <FileImageHeight>680</FileImageHeight>
+      <FileGUID>1557bf5a-12dc-46f7-9d0a-f27e42bebbd1</FileGUID>
+      <FileLibraryID>30</FileLibraryID>
+      <FileSiteID>7</FileSiteID>
+      <FileCreatedByUserID>53</FileCreatedByUserID>
+      <FileCreatedWhen>2023-04-24T17:38:58.4234489+07:00</FileCreatedWhen>
+      <FileModifiedByUserID>53</FileModifiedByUserID>
+      <FileModifiedWhen>2023-04-24T17:38:58.4343332+07:00</FileModifiedWhen>
     </media_file>
   </NewDataSet>
 </mediafile_1a16fa89-c73c-4710-bc59-93570bd32c56>

@@ -3421,13 +3421,6 @@
     </objecttranslation>
     <objecttranslation>
       <ClassName>cms_class</ClassName>
-      <ID>5622</ID>
-      <CodeName>BizForm.PhieuDanhGiaChatLuongDichVu</CodeName>
-      <GUID>8ea011ff-9126-4a1d-8ae6-2ab95660c3e5</GUID>
-      <ObjectType>cms.formclass</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_class</ClassName>
       <ID>5623</ID>
       <CodeName>BizForm.service_quality_assessment_survey4</CodeName>
       <GUID>527232e6-cdc1-4cca-9f5b-22cefb1a48d4</GUID>
@@ -3662,242 +3655,11 @@
     </objecttranslation>
     <objecttranslation>
       <ClassName>cms_workflowstep</ClassName>
-      <ID>5885</ID>
-      <CodeName>edit</CodeName>
-      <ParentID>213</ParentID>
-      <GUID>48267857-1f2a-4b60-b7bf-497320b6079b</GUID>
-      <ObjectType>cms.workflowstep</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_workflowstep</ClassName>
       <ID>5886</ID>
       <CodeName>published</CodeName>
       <ParentID>213</ParentID>
       <GUID>f93ebe45-0663-4a7e-af9d-af66fa184ff1</GUID>
       <ObjectType>cms.workflowstep</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>ecommerce_sku</ClassName>
-      <ID>84</ID>
-      <CodeName>192f8e51-7720-4823-bff8-667d444e9fa2</CodeName>
-      <SiteName></SiteName>
-      <GUID>192f8e51-7720-4823-bff8-667d444e9fa2</GUID>
-      <ObjectType>ecommerce.sku</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>ecommerce_sku</ClassName>
-      <ID>102</ID>
-      <CodeName>d27a64a2-3c2e-4ca0-ad3f-a0ed0d46691c</CodeName>
-      <SiteName></SiteName>
-      <GUID>d27a64a2-3c2e-4ca0-ad3f-a0ed0d46691c</GUID>
-      <ObjectType>ecommerce.sku</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>ecommerce_sku</ClassName>
-      <ID>32</ID>
-      <CodeName>33c0d59c-ed6a-4828-b8f2-45c20bf0da65</CodeName>
-      <SiteName></SiteName>
-      <GUID>33c0d59c-ed6a-4828-b8f2-45c20bf0da65</GUID>
-      <ObjectType>ecommerce.sku</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>ecommerce_sku</ClassName>
-      <ID>94</ID>
-      <CodeName>027fef1e-4e02-49a1-96dc-8b9a3061b471</CodeName>
-      <SiteName></SiteName>
-      <GUID>027fef1e-4e02-49a1-96dc-8b9a3061b471</GUID>
-      <ObjectType>ecommerce.sku</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>ecommerce_sku</ClassName>
-      <ID>111</ID>
-      <CodeName>b8b926eb-280b-4ccd-91ab-e1a4bd4f7bce</CodeName>
-      <SiteName></SiteName>
-      <GUID>b8b926eb-280b-4ccd-91ab-e1a4bd4f7bce</GUID>
-      <ObjectType>ecommerce.sku</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>ecommerce_sku</ClassName>
-      <ID>33</ID>
-      <CodeName>8dc9ae8a-73d7-4bf0-84d6-49542f1f3955</CodeName>
-      <SiteName></SiteName>
-      <GUID>8dc9ae8a-73d7-4bf0-84d6-49542f1f3955</GUID>
-      <ObjectType>ecommerce.sku</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>ecommerce_sku</ClassName>
-      <ID>118</ID>
-      <CodeName>97e2d6f4-5bf7-49a7-b2d2-ece73c236f1f</CodeName>
-      <SiteName></SiteName>
-      <GUID>97e2d6f4-5bf7-49a7-b2d2-ece73c236f1f</GUID>
-      <ObjectType>ecommerce.sku</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>ecommerce_sku</ClassName>
-      <ID>88</ID>
-      <CodeName>f4fda7d2-5dc3-4872-a9e1-8b2c51a89d1d</CodeName>
-      <SiteName></SiteName>
-      <GUID>f4fda7d2-5dc3-4872-a9e1-8b2c51a89d1d</GUID>
-      <ObjectType>ecommerce.sku</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>ecommerce_sku</ClassName>
-      <ID>71</ID>
-      <CodeName>a3c11d36-bba9-4c39-b370-4f42d40331b9</CodeName>
-      <SiteName></SiteName>
-      <GUID>a3c11d36-bba9-4c39-b370-4f42d40331b9</GUID>
-      <ObjectType>ecommerce.sku</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>ecommerce_sku</ClassName>
-      <ID>112</ID>
-      <CodeName>fc60e7a4-2ada-4c1a-8f95-ec9707b19c38</CodeName>
-      <SiteName></SiteName>
-      <GUID>fc60e7a4-2ada-4c1a-8f95-ec9707b19c38</GUID>
-      <ObjectType>ecommerce.sku</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>ecommerce_sku</ClassName>
-      <ID>119</ID>
-      <CodeName>1cf3427e-39cb-4750-92fc-f369d3f88436</CodeName>
-      <SiteName></SiteName>
-      <GUID>1cf3427e-39cb-4750-92fc-f369d3f88436</GUID>
-      <ObjectType>ecommerce.sku</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>ecommerce_sku</ClassName>
-      <ID>96</ID>
-      <CodeName>06e0f8b5-e2ae-4d47-a36a-98388d02fffe</CodeName>
-      <SiteName></SiteName>
-      <GUID>06e0f8b5-e2ae-4d47-a36a-98388d02fffe</GUID>
-      <ObjectType>ecommerce.sku</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>ecommerce_sku</ClassName>
-      <ID>104</ID>
-      <CodeName>d30b179b-f5cd-4ae9-aa1c-af67d41f58cf</CodeName>
-      <SiteName></SiteName>
-      <GUID>d30b179b-f5cd-4ae9-aa1c-af67d41f58cf</GUID>
-      <ObjectType>ecommerce.sku</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>ecommerce_sku</ClassName>
-      <ID>18</ID>
-      <CodeName>8823bd79-f158-439f-bbb9-3799eb130cfa</CodeName>
-      <SiteName></SiteName>
-      <GUID>8823bd79-f158-439f-bbb9-3799eb130cfa</GUID>
-      <ObjectType>ecommerce.sku</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>ecommerce_sku</ClassName>
-      <ID>26</ID>
-      <CodeName>2323e586-0d2e-4554-aa6e-44ca350769b3</CodeName>
-      <SiteName></SiteName>
-      <GUID>2323e586-0d2e-4554-aa6e-44ca350769b3</GUID>
-      <ObjectType>ecommerce.sku</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>ecommerce_sku</ClassName>
-      <ID>77</ID>
-      <CodeName>19a266d4-0927-4c3e-81bc-596a0b2e8ef8</CodeName>
-      <SiteName></SiteName>
-      <GUID>19a266d4-0927-4c3e-81bc-596a0b2e8ef8</GUID>
-      <ObjectType>ecommerce.sku</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>ecommerce_sku</ClassName>
-      <ID>110</ID>
-      <CodeName>1d7f9a74-939c-402c-8f92-c4d70c6d15c4</CodeName>
-      <SiteName></SiteName>
-      <GUID>1d7f9a74-939c-402c-8f92-c4d70c6d15c4</GUID>
-      <ObjectType>ecommerce.sku</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>ecommerce_sku</ClassName>
-      <ID>87</ID>
-      <CodeName>a07b458a-641c-421b-aec7-7be39b4094c7</CodeName>
-      <SiteName></SiteName>
-      <GUID>a07b458a-641c-421b-aec7-7be39b4094c7</GUID>
-      <ObjectType>ecommerce.sku</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>ecommerce_sku</ClassName>
-      <ID>25</ID>
-      <CodeName>0b94580c-2958-4ad1-ba19-4362f47c38fa</CodeName>
-      <SiteName></SiteName>
-      <GUID>0b94580c-2958-4ad1-ba19-4362f47c38fa</GUID>
-      <ObjectType>ecommerce.sku</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>ecommerce_sku</ClassName>
-      <ID>83</ID>
-      <CodeName>bbe44541-8130-4f90-896b-5a594b87c013</CodeName>
-      <SiteName></SiteName>
-      <GUID>bbe44541-8130-4f90-896b-5a594b87c013</GUID>
-      <ObjectType>ecommerce.sku</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>ecommerce_sku</ClassName>
-      <ID>24</ID>
-      <CodeName>43944771-ea16-4d3c-9ee8-3a7eed10961e</CodeName>
-      <SiteName></SiteName>
-      <GUID>43944771-ea16-4d3c-9ee8-3a7eed10961e</GUID>
-      <ObjectType>ecommerce.sku</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>ecommerce_sku</ClassName>
-      <ID>95</ID>
-      <CodeName>9be3f28b-d965-4252-9a7c-8fb4e6c4a121</CodeName>
-      <SiteName></SiteName>
-      <GUID>9be3f28b-d965-4252-9a7c-8fb4e6c4a121</GUID>
-      <ObjectType>ecommerce.sku</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>ecommerce_sku</ClassName>
-      <ID>86</ID>
-      <CodeName>35546ac0-4f55-454e-82db-73514e14338b</CodeName>
-      <SiteName></SiteName>
-      <GUID>35546ac0-4f55-454e-82db-73514e14338b</GUID>
-      <ObjectType>ecommerce.sku</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>ecommerce_sku</ClassName>
-      <ID>125</ID>
-      <CodeName>243b5c4a-2dd9-4b0f-be72-f4b6c8c6116c</CodeName>
-      <SiteName></SiteName>
-      <GUID>243b5c4a-2dd9-4b0f-be72-f4b6c8c6116c</GUID>
-      <ObjectType>ecommerce.sku</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_class</ClassName>
-      <ID>5538</ID>
-      <CodeName>DancingGoatCore.FooterNavigation</CodeName>
-      <GUID>82d387a2-bd0e-4243-b3fb-36a7b50b18a9</GUID>
-      <ObjectType>cms.documenttype</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>ecommerce_sku</ClassName>
-      <ID>16</ID>
-      <CodeName>bcf65066-8435-4f5a-ac91-26a5b3ba5da6</CodeName>
-      <SiteName></SiteName>
-      <GUID>bcf65066-8435-4f5a-ac91-26a5b3ba5da6</GUID>
-      <ObjectType>ecommerce.sku</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>ecommerce_sku</ClassName>
-      <ID>17</ID>
-      <CodeName>08283f26-fe5f-45c0-a987-32302d5991e4</CodeName>
-      <SiteName></SiteName>
-      <GUID>08283f26-fe5f-45c0-a987-32302d5991e4</GUID>
-      <ObjectType>ecommerce.sku</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>ecommerce_sku</ClassName>
-      <ID>85</ID>
-      <CodeName>3da93cda-2380-48b8-be82-680d3ef30a17</CodeName>
-      <SiteName></SiteName>
-      <GUID>3da93cda-2380-48b8-be82-680d3ef30a17</GUID>
-      <ObjectType>ecommerce.sku</ObjectType>
     </objecttranslation>
     <objecttranslation>
       <ClassName>cms_class</ClassName>
@@ -3908,47 +3670,10 @@
     </objecttranslation>
     <objecttranslation>
       <ClassName>cms_class</ClassName>
-      <ID>5544</ID>
-      <CodeName>DancingGoatCore.Privacy</CodeName>
-      <GUID>ef031060-c3aa-4c9e-bf14-7fff8fbf6614</GUID>
-      <ObjectType>cms.documenttype</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_class</ClassName>
-      <ID>5531</ID>
-      <CodeName>DancingGoatCore.Reference</CodeName>
-      <GUID>d17c2dea-e66e-4281-883d-0e786ec82f46</GUID>
-      <ObjectType>cms.documenttype</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_class</ClassName>
       <ID>1095</ID>
       <CodeName>CMS.Root</CodeName>
       <GUID>a585aea3-10b5-4b74-9aad-747fcce72493</GUID>
       <ObjectType>cms.documenttype</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_class</ClassName>
-      <ID>5539</ID>
-      <CodeName>DancingGoatCore.SocialLink</CodeName>
-      <GUID>7eec7a71-92d7-4d2f-8f85-3def3540bf24</GUID>
-      <ObjectType>cms.documenttype</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>ecommerce_sku</ClassName>
-      <ID>70</ID>
-      <CodeName>7f743737-86be-4945-96ab-4e7efde02593</CodeName>
-      <SiteName></SiteName>
-      <GUID>7f743737-86be-4945-96ab-4e7efde02593</GUID>
-      <ObjectType>ecommerce.sku</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>ecommerce_sku</ClassName>
-      <ID>103</ID>
-      <CodeName>698219b4-3dcc-479a-a297-a83c5b1bc1e7</CodeName>
-      <SiteName></SiteName>
-      <GUID>698219b4-3dcc-479a-a297-a83c5b1bc1e7</GUID>
-      <ObjectType>ecommerce.sku</ObjectType>
     </objecttranslation>
     <objecttranslation>
       <ClassName>cms_documentlocalization</ClassName>
@@ -3956,62 +3681,6 @@
       <CodeName>en-US</CodeName>
       <ParentID>651</ParentID>
       <GUID>3545f768-a182-4b58-9010-54aadfdf6371</GUID>
-      <ObjectType>cms.documentlocalization</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_documentlocalization</ClassName>
-      <ID>588</ID>
-      <CodeName>en-US</CodeName>
-      <ParentID>654</ParentID>
-      <GUID>845436df-be59-4587-8dcf-f2f51b96baa6</GUID>
-      <ObjectType>cms.documentlocalization</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_documentlocalization</ClassName>
-      <ID>589</ID>
-      <CodeName>en-US</CodeName>
-      <ParentID>655</ParentID>
-      <GUID>a8a1c0e2-c54b-45e8-ab64-ee18acfa44e5</GUID>
-      <ObjectType>cms.documentlocalization</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_documentlocalization</ClassName>
-      <ID>590</ID>
-      <CodeName>en-US</CodeName>
-      <ParentID>656</ParentID>
-      <GUID>184c6067-c532-49ff-a00d-14f438a06708</GUID>
-      <ObjectType>cms.documentlocalization</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_documentlocalization</ClassName>
-      <ID>599</ID>
-      <CodeName>en-US</CodeName>
-      <ParentID>664</ParentID>
-      <GUID>951cea41-3b9a-41c0-a88e-7eb49adc67c8</GUID>
-      <ObjectType>cms.documentlocalization</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_documentlocalization</ClassName>
-      <ID>600</ID>
-      <CodeName>en-US</CodeName>
-      <ParentID>665</ParentID>
-      <GUID>0ea1f7ae-c3b2-409c-aea1-fe653b9b6a98</GUID>
-      <ObjectType>cms.documentlocalization</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_documentlocalization</ClassName>
-      <ID>606</ID>
-      <CodeName>en-US</CodeName>
-      <ParentID>671</ParentID>
-      <GUID>b370e81c-39f0-4bbc-8d4e-5ac535150253</GUID>
-      <ObjectType>cms.documentlocalization</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_documentlocalization</ClassName>
-      <ID>608</ID>
-      <CodeName>en-US</CodeName>
-      <ParentID>673</ParentID>
-      <GUID>2689c086-6ffd-412b-9f26-359e7327a5e0</GUID>
       <ObjectType>cms.documentlocalization</ObjectType>
     </objecttranslation>
     <objecttranslation>
@@ -4088,14 +3757,6 @@
     </objecttranslation>
     <objecttranslation>
       <ClassName>cms_documentlocalization</ClassName>
-      <ID>645</ID>
-      <CodeName>en-US</CodeName>
-      <ParentID>710</ParentID>
-      <GUID>587d42a0-31b9-4188-bb75-f1a46ccb647d</GUID>
-      <ObjectType>cms.documentlocalization</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_documentlocalization</ClassName>
       <ID>646</ID>
       <CodeName>en-US</CodeName>
       <ParentID>711</ParentID>
@@ -4127,107 +3788,12 @@
       <ObjectType>cms.documentlocalization</ObjectType>
     </objecttranslation>
     <objecttranslation>
-      <ClassName>cms_documentlocalization</ClassName>
-      <ID>650</ID>
-      <CodeName>en-US</CodeName>
-      <ParentID>715</ParentID>
-      <GUID>f97d626f-e6cd-47c8-a8ec-779b030509db</GUID>
-      <ObjectType>cms.documentlocalization</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_documentlocalization</ClassName>
-      <ID>682</ID>
-      <CodeName>en-US</CodeName>
-      <ParentID>758</ParentID>
-      <GUID>8686a679-2713-4e61-9df3-16ef59d99194</GUID>
-      <ObjectType>cms.documentlocalization</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_documentlocalization</ClassName>
-      <ID>683</ID>
-      <CodeName>en-US</CodeName>
-      <ParentID>761</ParentID>
-      <GUID>52cfc666-7b9f-4eba-a67f-1ff596cb1c3d</GUID>
-      <ObjectType>cms.documentlocalization</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_documentlocalization</ClassName>
-      <ID>684</ID>
-      <CodeName>en-US</CodeName>
-      <ParentID>762</ParentID>
-      <GUID>6709f00a-f72f-47a5-98ef-1679d48a5b02</GUID>
-      <ObjectType>cms.documentlocalization</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
       <ClassName>cms_node</ClassName>
       <ID>651</ID>
       <CodeName>/Home</CodeName>
       <SiteName>Neweximbank</SiteName>
       <ParentID>643</ParentID>
       <GUID>cfb9a96f-4333-4821-983b-989b68f936c6</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>654</ID>
-      <CodeName>/About-Us/How-we-roast-our-coffees</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>644</ParentID>
-      <GUID>b90bbd4c-2db4-46c5-aaeb-c18d8ec0956c</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>655</ID>
-      <CodeName>/About-Us/How-we-source-our-coffees</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>644</ParentID>
-      <GUID>53eaf1f4-f714-4002-8b66-b1a1ae8a5d3c</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>656</ID>
-      <CodeName>/About-Us/Our-philosophy</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>644</ParentID>
-      <GUID>424bdd8e-1bbc-4e45-b2f6-6502f6b8a614</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>664</ID>
-      <CodeName>/Cafes/Boston</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>646</ParentID>
-      <GUID>5f4f8058-44fa-46ec-be60-01b66d7ae63c</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>665</ID>
-      <CodeName>/Cafes/Chicago</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>646</ParentID>
-      <GUID>1dbe5751-0fbb-4b1d-a478-48c075b59609</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>671</ID>
-      <CodeName>/Cafes/Los-Angeles</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>646</ParentID>
-      <GUID>34df403f-af41-498c-800f-66f3da7234dc</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>673</ID>
-      <CodeName>/Cafes/New-York</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>646</ParentID>
-      <GUID>fe9ccf81-7889-4894-9291-83491ceed45c</GUID>
       <ObjectType>cms.node</ObjectType>
     </objecttranslation>
     <objecttranslation>
@@ -4313,15 +3879,6 @@
     </objecttranslation>
     <objecttranslation>
       <ClassName>cms_node</ClassName>
-      <ID>710</ID>
-      <CodeName>/Articles/Uu-dai/CUNG-EXIMBANK-EDIGI-NAP-PHONE-PHUT-CHOC,-UU-DAI-CU</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>683</ParentID>
-      <GUID>ba8fd461-a5a9-4ee1-85e5-cace64677e60</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
       <ID>711</ID>
       <CodeName>/Articles/Ban-tin-Eximbank/THONG-BAO-V-V-DIEU-CHINH-BAN-THOA-THUAN-SU-DUNG-TH</CodeName>
       <SiteName>Neweximbank</SiteName>
@@ -4358,64 +3915,10 @@
     </objecttranslation>
     <objecttranslation>
       <ClassName>cms_node</ClassName>
-      <ID>715</ID>
-      <CodeName>/Articles/Articles-under-workflow/Donate-with-us</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>679</ParentID>
-      <GUID>aeea45aa-13e6-4282-a392-81e96d0c4ec3</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>758</ID>
-      <CodeName>/Specials/References/Jimmie-Dimmick</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>681</ParentID>
-      <GUID>a488da40-a961-4adc-9ad4-067a8df8a9bc</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>761</ID>
-      <CodeName>/Footer/Dancing-Goat-Ltd/Facebook</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>677</ParentID>
-      <GUID>98d0159e-5e12-4a3b-a9c0-44d78c8164b0</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>762</ID>
-      <CodeName>/Footer/Dancing-Goat-Ltd/Twitter</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>677</ParentID>
-      <GUID>1807dbd7-52d5-4d55-bba1-f60186b659ce</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
       <ID>643</ID>
       <CodeName>/</CodeName>
       <SiteName>Neweximbank</SiteName>
       <GUID>acdd2058-bde0-4c9d-8332-45f417220571</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>644</ID>
-      <CodeName>/About-Us</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>643</ParentID>
-      <GUID>38ac32a4-57b3-47ea-b12c-85da4599b917</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>646</ID>
-      <CodeName>/Cafes</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>643</ParentID>
-      <GUID>cb7cf7cd-488e-4d98-8184-312df819ecf0</GUID>
       <ObjectType>cms.node</ObjectType>
     </objecttranslation>
     <objecttranslation>
@@ -4434,33 +3937,6 @@
       <SiteName>Neweximbank</SiteName>
       <ParentID>643</ParentID>
       <GUID>5e52d0d1-bbac-4e75-8e14-3a73e56b43a1</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>677</ID>
-      <CodeName>/Footer/Dancing-Goat-Ltd</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>648</ParentID>
-      <GUID>a0821bb8-1e79-4665-9922-c9e86d37717e</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>679</ID>
-      <CodeName>/Articles/Articles-under-workflow</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>645</ParentID>
-      <GUID>d4593c6b-4949-40d4-ba24-ad97a506afe1</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>681</ID>
-      <CodeName>/Specials/References</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>650</ParentID>
-      <GUID>7eea92d0-c3d2-4b85-98ab-c6af653d1ded</GUID>
       <ObjectType>cms.node</ObjectType>
     </objecttranslation>
     <objecttranslation>
@@ -4500,126 +3976,12 @@
       <ObjectType>cms.node</ObjectType>
     </objecttranslation>
     <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>648</ID>
-      <CodeName>/Footer</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>643</ParentID>
-      <GUID>7c8fb1b0-e88d-4583-84ba-253eea37ad41</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>650</ID>
-      <CodeName>/Specials</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>643</ParentID>
-      <GUID>291a39ee-47dc-47ee-a04c-c5efa59d10d8</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>699</ID>
-      <CodeName>/Specials/Privacy</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>650</ParentID>
-      <GUID>cc7fdac2-a042-48bd-9ce8-40ac0f0fd497</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>716</ID>
-      <CodeName>/Store/Brewers/AeroPress</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>701</ParentID>
-      <GUID>f869d687-8fa9-4b1c-b573-764ac0590d74</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>720</ID>
-      <CodeName>/Store/Brewers/Espro-Press</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>701</ParentID>
-      <GUID>74d5683e-4cd3-4042-9bd6-870d5e3fb9b0</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>753</ID>
-      <CodeName>/Store/Grinders/Hario-Skerton-Hand-Grinder</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>703</ParentID>
-      <GUID>015dd1c4-2c83-4a5e-bfe8-7e1ceb6d47e8</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>754</ID>
-      <CodeName>/Store/Grinders/Hario-Mini-Mill-Slim</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>703</ParentID>
-      <GUID>9424ccec-0296-48ef-8bfd-f44565c56c5b</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>701</ID>
-      <CodeName>/Store/Brewers</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>653</ParentID>
-      <GUID>f8f60af4-d82e-4654-bbda-177367fc823d</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>703</ID>
-      <CodeName>/Store/Grinders</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>653</ParentID>
-      <GUID>72ad46c2-2dc6-43e1-baa0-4bf557d76136</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>653</ID>
-      <CodeName>/Store</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>643</ParentID>
-      <GUID>42c49b13-ff05-4660-a1eb-f90da9142cbc</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_relationshipname</ClassName>
-      <ID>2</ID>
-      <CodeName>DancingGoatCore.HotTips_8a768436-ef8c-4980-8b80-5d66dd0e17cd</CodeName>
-      <GUID>91907120-2423-426f-ae13-e0589d07bdca</GUID>
-      <ObjectType>cms.relationshipname</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_relationshipname</ClassName>
-      <ID>3</ID>
-      <CodeName>DancingGoatCore.FooterNavigation_d56f9beb-5623-43ab-8569-ce8c4bd02594</CodeName>
-      <GUID>02a2014d-5f72-437d-9ce7-d1749d1b9483</GUID>
-      <ObjectType>cms.relationshipname</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>686</ID>
-      <CodeName>/Footer/Navigation</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>648</ParentID>
-      <GUID>afeeab9c-1524-4733-889c-c0edbdb1e529</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>689</ID>
-      <CodeName>/Store/Hot-tips</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>653</ParentID>
-      <GUID>51f1f9c1-75ee-44d1-9cf9-a9d68e0e2dc2</GUID>
-      <ObjectType>cms.node</ObjectType>
+      <ClassName>cms_workflowstep</ClassName>
+      <ID>5885</ID>
+      <CodeName>edit</CodeName>
+      <ParentID>213</ParentID>
+      <GUID>48267857-1f2a-4b60-b7bf-497320b6079b</GUID>
+      <ObjectType>cms.workflowstep</ObjectType>
     </objecttranslation>
     <objecttranslation>
       <ClassName>cms_document</ClassName>
@@ -4630,66 +3992,6 @@
       <ObjectType>cms.document</ObjectType>
     </objecttranslation>
     <objecttranslation>
-      <ClassName>cms_document</ClassName>
-      <ID>642</ID>
-      <CodeName>e18d0aa4-0cdb-49a3-8a8d-00fb39b6937a</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <GUID>e18d0aa4-0cdb-49a3-8a8d-00fb39b6937a</GUID>
-      <ObjectType>cms.document</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_document</ClassName>
-      <ID>643</ID>
-      <CodeName>ceac653e-126c-4221-b810-b435ff28fe0e</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <GUID>ceac653e-126c-4221-b810-b435ff28fe0e</GUID>
-      <ObjectType>cms.document</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_document</ClassName>
-      <ID>645</ID>
-      <CodeName>587d42a0-31b9-4188-bb75-f1a46ccb647d</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <GUID>587d42a0-31b9-4188-bb75-f1a46ccb647d</GUID>
-      <ObjectType>cms.document</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_attachmenthistory</ClassName>
-      <ID>93</ID>
-      <CodeName>47e08f59-ce92-4472-892a-1267d3b2f550</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>643</ParentID>
-      <GUID>47e08f59-ce92-4472-892a-1267d3b2f550</GUID>
-      <ObjectType>cms.attachmenthistory</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_attachmenthistory</ClassName>
-      <ID>97</ID>
-      <CodeName>51b79cf4-b534-4a4a-8a74-4cf12bbf301b</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>645</ParentID>
-      <GUID>51b79cf4-b534-4a4a-8a74-4cf12bbf301b</GUID>
-      <ObjectType>cms.attachmenthistory</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_attachmenthistory</ClassName>
-      <ID>99</ID>
-      <CodeName>35692df7-5a28-4570-8bcf-67f90d70bc60</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>643</ParentID>
-      <GUID>35692df7-5a28-4570-8bcf-67f90d70bc60</GUID>
-      <ObjectType>cms.attachmenthistory</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_attachmenthistory</ClassName>
-      <ID>103</ID>
-      <CodeName>1e245139-690d-4017-b8d9-f38d9801587b</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>642</ParentID>
-      <GUID>1e245139-690d-4017-b8d9-f38d9801587b</GUID>
-      <ObjectType>cms.attachmenthistory</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
       <ClassName>cms_attachmenthistory</ClassName>
       <ID>104</ID>
       <CodeName>8795f867-e2f8-4655-b989-f4e32953c429</CodeName>
@@ -4697,24 +3999,6 @@
       <ParentID>641</ParentID>
       <GUID>8795f867-e2f8-4655-b989-f4e32953c429</GUID>
       <ObjectType>cms.attachmenthistory</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>647</ID>
-      <CodeName>/Contacts</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>643</ParentID>
-      <GUID>1eb27203-7d46-4329-8a56-2458481e55c0</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>687</ID>
-      <CodeName>/Specials/Generator</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>650</ParentID>
-      <GUID>415229e2-b332-4aee-9a08-45b669ba6226</GUID>
-      <ObjectType>cms.node</ObjectType>
     </objecttranslation>
     <objecttranslation>
       <ClassName>cms_node</ClassName>
@@ -4763,366 +4047,6 @@
     </objecttranslation>
     <objecttranslation>
       <ClassName>cms_node</ClassName>
-      <ID>700</ID>
-      <CodeName>/Store/Accessories</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>653</ParentID>
-      <GUID>53b715f1-e769-4ae2-8c61-49aca4ef3029</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>702</ID>
-      <CodeName>/Store/Coffees</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>653</ParentID>
-      <GUID>c6974f72-8ae0-4957-80f1-261a19c210a4</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>717</ID>
-      <CodeName>/Store/Brewers/Chemex</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>701</ParentID>
-      <GUID>5b2649c6-8368-47cc-ab3a-ee2ae70fc776</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>718</ID>
-      <CodeName>/Store/Brewers/Clever-Dripper</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>701</ParentID>
-      <GUID>c4f5871e-7559-4822-ba63-db62bcaefd10</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>719</ID>
-      <CodeName>/Store/Brewers/Coffee-Plunger</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>701</ParentID>
-      <GUID>b5f9b841-7b1a-44b3-9fcb-d339020e9e17</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>721</ID>
-      <CodeName>/Store/Brewers/Hario-V60</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>701</ParentID>
-      <GUID>1e28dc76-9379-4ac4-8de3-d4b5806a5943</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>722</ID>
-      <CodeName>/Store/Brewers/Hario-Vacuum-Pot</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>701</ParentID>
-      <GUID>a905a18a-6a4f-4b4a-a79e-9ffa65527124</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>723</ID>
-      <CodeName>/Manufacturers/Aerobie/AeroPress</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>694</ParentID>
-      <GUID>4de2c18d-2c7a-4fae-802d-a2f957d2a6e0</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>724</ID>
-      <CodeName>/Manufacturers/Chemex/Chemex</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>695</ParentID>
-      <GUID>f4bb9396-ddef-4a90-a2a6-3e334616789c</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>725</ID>
-      <CodeName>/Manufacturers/Espro/Espro-Press</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>696</ParentID>
-      <GUID>bfcbd5c3-b22f-40e5-a894-817da8298e54</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>726</ID>
-      <CodeName>/Manufacturers/Hario/Hario-V60</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>697</ParentID>
-      <GUID>5cd926c5-74bf-4181-b1c8-703f3cd95c2b</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>727</ID>
-      <CodeName>/Manufacturers/Hario/Hario-Vacuum-Pot</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>697</ParentID>
-      <GUID>9842658f-0683-42bd-8d6d-27a2385f278c</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>728</ID>
-      <CodeName>/Store/Coffees/Bolivia-Finca-Illimani</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>702</ParentID>
-      <GUID>fb943496-10df-40f5-8645-a19797ba61d3</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>729</ID>
-      <CodeName>/Store/Coffees/Brazil-Natural-Barra-Grande</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>702</ParentID>
-      <GUID>51d50f43-45e1-4194-b63d-0f8992437081</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>730</ID>
-      <CodeName>/Store/Coffees/Colombia-Carlos-Imbachi</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>702</ParentID>
-      <GUID>289963c1-904a-4dcf-b772-95b60f10c267</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>731</ID>
-      <CodeName>/Store/Coffees/El-Salvador-Finca-San-Jose</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>702</ParentID>
-      <GUID>c8e4abee-5faf-4ceb-a9a0-3ed601b71887</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>732</ID>
-      <CodeName>/Store/Coffees/Ethiopia-Yirgacheffe-(decaf)</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>702</ParentID>
-      <GUID>2d993f55-9649-43e7-9bc4-9d49768e6962</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>733</ID>
-      <CodeName>/Store/Coffees/Guatemala-Finca-El-Injerto</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>702</ParentID>
-      <GUID>03bc31ea-a896-45b5-8a57-304336a47402</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>734</ID>
-      <CodeName>/Store/Coffees/Kenya-Gakuyuni-AA</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>702</ParentID>
-      <GUID>70d2b993-1ab7-4e9e-a24c-0bc5ed2f426d</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>735</ID>
-      <CodeName>/Store/Coffees/Nicaragua-Dipilto-(decaf)</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>702</ParentID>
-      <GUID>96b9b715-e8a4-4bb2-9d35-f1296b1d7296</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>736</ID>
-      <CodeName>/Store/Coffees/Panama-Los-Lajones-Honey</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>702</ParentID>
-      <GUID>92e08449-3d94-48bf-9c6f-c5643a10902b</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>737</ID>
-      <CodeName>/Store/Grinders/Anfim-Super-Caimano</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>703</ParentID>
-      <GUID>66b7ff48-b644-46a6-9be6-f93f9da2f13d</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>738</ID>
-      <CodeName>/Store/Grinders/Macap-M2D</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>703</ParentID>
-      <GUID>0f6dd27b-3b78-4583-9a00-141e617406f6</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>739</ID>
-      <CodeName>/Store/Grinders/Macap-M4D</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>703</ParentID>
-      <GUID>987be32b-72b8-42a5-aeda-c1eac9d182a8</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>740</ID>
-      <CodeName>/Store/Grinders/Mazzer-Super-Jolly-DR</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>703</ParentID>
-      <GUID>581a70ee-d319-487d-87f7-330a1b51cbae</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>741</ID>
-      <CodeName>/Store/Accessories/Changeable-Paper-Filters-for-Vacuum-Pot</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>700</ParentID>
-      <GUID>5a9b16ca-3fdd-4c88-96f3-d54ebe56878d</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>742</ID>
-      <CodeName>/Store/Accessories/Paper-Filters-for-Chemex</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>700</ParentID>
-      <GUID>fc7aa7f3-b910-44ba-915c-b516385fabd7</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>743</ID>
-      <CodeName>/Store/Accessories/Bleached-Paper-Filters-V60-01</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>700</ParentID>
-      <GUID>1a3032f0-b9e3-4a0a-a155-cd2dddb4a07e</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>744</ID>
-      <CodeName>/Store/Accessories/AeroPress-Filters</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>700</ParentID>
-      <GUID>73fb2e7c-4ac1-4653-be5d-e0bc3aedddae</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>745</ID>
-      <CodeName>/Manufacturers/Aerobie/AeroPress-Filters</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>694</ParentID>
-      <GUID>c2e42a97-8b9d-4704-8185-bf78a662e225</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>746</ID>
-      <CodeName>/Manufacturers/Chemex/Paper-Filters-for-Chemex</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>695</ParentID>
-      <GUID>ecdc61bb-d78a-454e-a815-9dad681da2e6</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>747</ID>
-      <CodeName>/Manufacturers/Hario/Changeable-Paper-Filters-for-Vacuum-Pot</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>697</ParentID>
-      <GUID>6e869666-73f4-43dd-bbab-6e1b6f3ed752</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>748</ID>
-      <CodeName>/Manufacturers/Hario/Bleached-Paper-Filters-V60-01</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>697</ParentID>
-      <GUID>ed1235ff-2e88-45da-9887-76f54f299101</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>755</ID>
-      <CodeName>/Store/Grinders/Porlex-Tall-Ceramic-Burr-Grinder</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>703</ParentID>
-      <GUID>c4bb108d-8fa3-4023-8027-848188fb6e24</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>756</ID>
-      <CodeName>/Manufacturers/Hario/Hario-Skerton-Hand-Grinder</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>697</ParentID>
-      <GUID>a663ef53-c91d-4682-8452-85487891c999</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>757</ID>
-      <CodeName>/Manufacturers/Hario/Hario-Mini-Mill-Slim</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>697</ParentID>
-      <GUID>18b566ad-e37f-47a8-818c-ac54d9b4465d</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>763</ID>
-      <CodeName>/Store/Accessories/Personalized-cup-with-saucer</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>700</ParentID>
-      <GUID>ae2ae1a2-788b-4f3f-8169-ac8f888a881d</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>764</ID>
-      <CodeName>/Store/Accessories/Hario-Buono-Kettle</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>700</ParentID>
-      <GUID>c444e11e-d98a-4725-b5e5-2813eee551f8</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>765</ID>
-      <CodeName>/Manufacturers/Hario/Hario-Buono-Kettle</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>697</ParentID>
-      <GUID>1ab1e50e-5549-46a0-b9e3-dcc5f858f61f</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
-      <ID>766</ID>
-      <CodeName>/Store/Card/Card</CodeName>
-      <SiteName>Neweximbank</SiteName>
-      <ParentID>682</ParentID>
-      <GUID>06623bd3-c093-4342-9d1f-bab25c81007f</GUID>
-      <ObjectType>cms.node</ObjectType>
-    </objecttranslation>
-    <objecttranslation>
-      <ClassName>cms_node</ClassName>
       <ID>768</ID>
       <CodeName>/Landing-pages/phieu-danh-gia</CodeName>
       <SiteName>Neweximbank</SiteName>
@@ -5132,11 +4056,11 @@
     </objecttranslation>
     <objecttranslation>
       <ClassName>cms_node</ClassName>
-      <ID>682</ID>
-      <CodeName>/Store/Card</CodeName>
+      <ID>770</ID>
+      <CodeName>/Articles/Uu-dai/CUNG-EXIMBANK-EDIGI-NAP-PHONE-PHUT-CHOC,-UU-DA-(2)</CodeName>
       <SiteName>Neweximbank</SiteName>
-      <ParentID>653</ParentID>
-      <GUID>db7b3503-4699-4ecd-aece-7de52bc9cdb6</GUID>
+      <ParentID>683</ParentID>
+      <GUID>5e54fa33-1c88-491c-9750-f6607a6877ce</GUID>
       <ObjectType>cms.node</ObjectType>
     </objecttranslation>
     <objecttranslation>
@@ -5817,9 +4741,37 @@
     </objecttranslation>
     <objecttranslation>
       <ClassName>cms_class</ClassName>
+      <ID>5531</ID>
+      <CodeName>DancingGoatCore.Reference</CodeName>
+      <GUID>d17c2dea-e66e-4281-883d-0e786ec82f46</GUID>
+      <ObjectType>cms.documenttype</ObjectType>
+    </objecttranslation>
+    <objecttranslation>
+      <ClassName>cms_class</ClassName>
       <ID>5532</ID>
       <CodeName>Ecommerce.Transformations</CodeName>
       <GUID>7539c21d-cde0-4d71-ab9f-12de5ddec092</GUID>
+      <ObjectType>cms.documenttype</ObjectType>
+    </objecttranslation>
+    <objecttranslation>
+      <ClassName>cms_class</ClassName>
+      <ID>5538</ID>
+      <CodeName>DancingGoatCore.FooterNavigation</CodeName>
+      <GUID>82d387a2-bd0e-4243-b3fb-36a7b50b18a9</GUID>
+      <ObjectType>cms.documenttype</ObjectType>
+    </objecttranslation>
+    <objecttranslation>
+      <ClassName>cms_class</ClassName>
+      <ID>5539</ID>
+      <CodeName>DancingGoatCore.SocialLink</CodeName>
+      <GUID>7eec7a71-92d7-4d2f-8f85-3def3540bf24</GUID>
+      <ObjectType>cms.documenttype</ObjectType>
+    </objecttranslation>
+    <objecttranslation>
+      <ClassName>cms_class</ClassName>
+      <ID>5544</ID>
+      <CodeName>DancingGoatCore.Privacy</CodeName>
+      <GUID>ef031060-c3aa-4c9e-bf14-7fff8fbf6614</GUID>
       <ObjectType>cms.documenttype</ObjectType>
     </objecttranslation>
     <objecttranslation>

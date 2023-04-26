@@ -30,32 +30,6 @@
       <AttachmentIsUnsorted>true</AttachmentIsUnsorted>
     </cms_attachment>
     <cms_attachment>
-      <AttachmentID>400</AttachmentID>
-      <AttachmentName>1.png</AttachmentName>
-      <AttachmentExtension>.png</AttachmentExtension>
-      <AttachmentSize>3333</AttachmentSize>
-      <AttachmentMimeType>image/png</AttachmentMimeType>
-      <AttachmentImageWidth>338</AttachmentImageWidth>
-      <AttachmentImageHeight>73</AttachmentImageHeight>
-      <AttachmentDocumentID>639</AttachmentDocumentID>
-      <AttachmentGUID>9577e79c-ff14-43c5-8ddb-051582174bb3</AttachmentGUID>
-      <AttachmentSiteID>7</AttachmentSiteID>
-      <AttachmentLastModified>2023-04-17T12:24:35.2362118+07:00</AttachmentLastModified>
-    </cms_attachment>
-    <cms_attachment>
-      <AttachmentID>477</AttachmentID>
-      <AttachmentName>Eva-Air_Email-MKT-(2).jpg</AttachmentName>
-      <AttachmentExtension>.jpg</AttachmentExtension>
-      <AttachmentSize>37417</AttachmentSize>
-      <AttachmentMimeType>image/jpeg</AttachmentMimeType>
-      <AttachmentImageWidth>372</AttachmentImageWidth>
-      <AttachmentImageHeight>526</AttachmentImageHeight>
-      <AttachmentDocumentID>640</AttachmentDocumentID>
-      <AttachmentGUID>0aa72185-14cb-4f26-9dca-07b5d96d3ede</AttachmentGUID>
-      <AttachmentSiteID>7</AttachmentSiteID>
-      <AttachmentLastModified>2023-04-21T16:16:41.0909788+07:00</AttachmentLastModified>
-    </cms_attachment>
-    <cms_attachment>
       <AttachmentID>401</AttachmentID>
       <AttachmentName>the-jcb-young-debit.jpg</AttachmentName>
       <AttachmentExtension>.jpg</AttachmentExtension>
@@ -98,6 +72,20 @@
       <AttachmentIsUnsorted>true</AttachmentIsUnsorted>
     </cms_attachment>
     <cms_attachment>
+      <AttachmentID>489</AttachmentID>
+      <AttachmentName>The-Coffee-bean_tent-Card-_Email-MKT.jpg</AttachmentName>
+      <AttachmentExtension>.jpg</AttachmentExtension>
+      <AttachmentSize>715570</AttachmentSize>
+      <AttachmentMimeType>image/jpeg</AttachmentMimeType>
+      <AttachmentImageWidth>2480</AttachmentImageWidth>
+      <AttachmentImageHeight>3508</AttachmentImageHeight>
+      <AttachmentDocumentID>643</AttachmentDocumentID>
+      <AttachmentGUID>63794ee8-e01d-4b3e-8059-20c11fc65e46</AttachmentGUID>
+      <AttachmentSiteID>7</AttachmentSiteID>
+      <AttachmentLastModified>2023-04-24T11:42:20.0995973+07:00</AttachmentLastModified>
+      <AttachmentIsUnsorted>true</AttachmentIsUnsorted>
+    </cms_attachment>
+    <cms_attachment>
       <AttachmentID>404</AttachmentID>
       <AttachmentName>MicrosoftTeams-image-(2).png</AttachmentName>
       <AttachmentExtension>.png</AttachmentExtension>
@@ -109,6 +97,20 @@
       <AttachmentGUID>04fd049f-727f-4d84-869d-2c2c7dfce02e</AttachmentGUID>
       <AttachmentSiteID>7</AttachmentSiteID>
       <AttachmentLastModified>2023-04-19T17:39:44.4618885+07:00</AttachmentLastModified>
+      <AttachmentIsUnsorted>true</AttachmentIsUnsorted>
+    </cms_attachment>
+    <cms_attachment>
+      <AttachmentID>486</AttachmentID>
+      <AttachmentName>Eximbank-SG-(1).jpg</AttachmentName>
+      <AttachmentExtension>.jpg</AttachmentExtension>
+      <AttachmentSize>205318</AttachmentSize>
+      <AttachmentMimeType>image/jpeg</AttachmentMimeType>
+      <AttachmentImageWidth>1280</AttachmentImageWidth>
+      <AttachmentImageHeight>829</AttachmentImageHeight>
+      <AttachmentDocumentID>649</AttachmentDocumentID>
+      <AttachmentGUID>1c534657-7d68-4972-919f-2e88ea7abc55</AttachmentGUID>
+      <AttachmentSiteID>7</AttachmentSiteID>
+      <AttachmentLastModified>2023-04-24T11:38:40.4339474+07:00</AttachmentLastModified>
       <AttachmentIsUnsorted>true</AttachmentIsUnsorted>
     </cms_attachment>
     <cms_attachment>
@@ -154,6 +156,20 @@
       <AttachmentIsUnsorted>true</AttachmentIsUnsorted>
     </cms_attachment>
     <cms_attachment>
+      <AttachmentID>479</AttachmentID>
+      <AttachmentName>tablenews.png</AttachmentName>
+      <AttachmentExtension>.png</AttachmentExtension>
+      <AttachmentSize>26702</AttachmentSize>
+      <AttachmentMimeType>image/png</AttachmentMimeType>
+      <AttachmentImageWidth>1313</AttachmentImageWidth>
+      <AttachmentImageHeight>459</AttachmentImageHeight>
+      <AttachmentDocumentID>647</AttachmentDocumentID>
+      <AttachmentGUID>8025b9be-bb46-460b-8eaa-34b7f041b5ff</AttachmentGUID>
+      <AttachmentSiteID>7</AttachmentSiteID>
+      <AttachmentLastModified>2023-04-24T11:12:28.3123766+07:00</AttachmentLastModified>
+      <AttachmentIsUnsorted>true</AttachmentIsUnsorted>
+    </cms_attachment>
+    <cms_attachment>
       <AttachmentID>410</AttachmentID>
       <AttachmentName>Eximbank-SG.jpg</AttachmentName>
       <AttachmentExtension>.jpg</AttachmentExtension>
@@ -166,19 +182,6 @@
       <AttachmentSiteID>7</AttachmentSiteID>
       <AttachmentLastModified>2023-04-18T16:35:22.0588388+07:00</AttachmentLastModified>
       <AttachmentIsUnsorted>true</AttachmentIsUnsorted>
-    </cms_attachment>
-    <cms_attachment>
-      <AttachmentID>411</AttachmentID>
-      <AttachmentName>sources.jpg</AttachmentName>
-      <AttachmentExtension>.jpg</AttachmentExtension>
-      <AttachmentSize>46469</AttachmentSize>
-      <AttachmentMimeType>image/jpeg</AttachmentMimeType>
-      <AttachmentImageWidth>640</AttachmentImageWidth>
-      <AttachmentImageHeight>457</AttachmentImageHeight>
-      <AttachmentDocumentID>589</AttachmentDocumentID>
-      <AttachmentGUID>825e7696-98c4-4dc4-8615-46a66ea55830</AttachmentGUID>
-      <AttachmentSiteID>7</AttachmentSiteID>
-      <AttachmentLastModified>2020-11-25T00:55:35.8640957+07:00</AttachmentLastModified>
     </cms_attachment>
     <cms_attachment>
       <AttachmentID>412</AttachmentID>
@@ -266,6 +269,20 @@
       <AttachmentIsUnsorted>true</AttachmentIsUnsorted>
     </cms_attachment>
     <cms_attachment>
+      <AttachmentID>485</AttachmentID>
+      <AttachmentName>Email-MKT-(1).png</AttachmentName>
+      <AttachmentExtension>.png</AttachmentExtension>
+      <AttachmentSize>889920</AttachmentSize>
+      <AttachmentMimeType>image/png</AttachmentMimeType>
+      <AttachmentImageWidth>4168</AttachmentImageWidth>
+      <AttachmentImageHeight>6250</AttachmentImageHeight>
+      <AttachmentDocumentID>642</AttachmentDocumentID>
+      <AttachmentGUID>83bdd525-1b46-4ed2-8bb5-53d5ed71fa58</AttachmentGUID>
+      <AttachmentSiteID>7</AttachmentSiteID>
+      <AttachmentLastModified>2023-04-24T11:30:18.7451608+07:00</AttachmentLastModified>
+      <AttachmentIsUnsorted>true</AttachmentIsUnsorted>
+    </cms_attachment>
+    <cms_attachment>
       <AttachmentID>470</AttachmentID>
       <AttachmentName>MicrosoftTeams-image.png</AttachmentName>
       <AttachmentExtension>.png</AttachmentExtension>
@@ -280,7 +297,7 @@
       <AttachmentIsUnsorted>true</AttachmentIsUnsorted>
     </cms_attachment>
     <cms_attachment>
-      <AttachmentID>419</AttachmentID>
+      <AttachmentID>478</AttachmentID>
       <AttachmentName>Email-MKT.png</AttachmentName>
       <AttachmentExtension>.png</AttachmentExtension>
       <AttachmentSize>41717</AttachmentSize>
@@ -290,7 +307,7 @@
       <AttachmentDocumentID>642</AttachmentDocumentID>
       <AttachmentGUID>673e0dc5-adcc-4315-8ed1-66b0c18b681a</AttachmentGUID>
       <AttachmentSiteID>7</AttachmentSiteID>
-      <AttachmentLastModified>2023-04-17T18:12:43.2989399+07:00</AttachmentLastModified>
+      <AttachmentLastModified>2023-04-24T10:59:46.2685427+07:00</AttachmentLastModified>
       <AttachmentIsUnsorted>true</AttachmentIsUnsorted>
     </cms_attachment>
     <cms_attachment>
@@ -308,17 +325,32 @@
       <AttachmentIsUnsorted>true</AttachmentIsUnsorted>
     </cms_attachment>
     <cms_attachment>
-      <AttachmentID>421</AttachmentID>
-      <AttachmentName>about.jpg</AttachmentName>
+      <AttachmentID>490</AttachmentID>
+      <AttachmentName>Eva-Air_Email-MKT-(2).jpg</AttachmentName>
       <AttachmentExtension>.jpg</AttachmentExtension>
-      <AttachmentSize>56264</AttachmentSize>
+      <AttachmentSize>637671</AttachmentSize>
       <AttachmentMimeType>image/jpeg</AttachmentMimeType>
-      <AttachmentImageWidth>640</AttachmentImageWidth>
-      <AttachmentImageHeight>426</AttachmentImageHeight>
-      <AttachmentDocumentID>590</AttachmentDocumentID>
-      <AttachmentGUID>8074b00c-4d78-47ed-b042-6b121372e6e1</AttachmentGUID>
+      <AttachmentImageWidth>2480</AttachmentImageWidth>
+      <AttachmentImageHeight>3508</AttachmentImageHeight>
+      <AttachmentDocumentID>640</AttachmentDocumentID>
+      <AttachmentGUID>ffcfc7d9-4919-4e1a-9190-69bd870db504</AttachmentGUID>
       <AttachmentSiteID>7</AttachmentSiteID>
-      <AttachmentLastModified>2020-11-25T00:55:35.879096+07:00</AttachmentLastModified>
+      <AttachmentLastModified>2023-04-24T11:43:15.8497679+07:00</AttachmentLastModified>
+      <AttachmentIsUnsorted>true</AttachmentIsUnsorted>
+    </cms_attachment>
+    <cms_attachment>
+      <AttachmentID>481</AttachmentID>
+      <AttachmentName>Capture.PNG</AttachmentName>
+      <AttachmentExtension>.PNG</AttachmentExtension>
+      <AttachmentSize>24511</AttachmentSize>
+      <AttachmentMimeType>image/png</AttachmentMimeType>
+      <AttachmentImageWidth>1314</AttachmentImageWidth>
+      <AttachmentImageHeight>414</AttachmentImageHeight>
+      <AttachmentDocumentID>648</AttachmentDocumentID>
+      <AttachmentGUID>bfabc0de-9b66-43f7-8198-6f9e56ca9c86</AttachmentGUID>
+      <AttachmentSiteID>7</AttachmentSiteID>
+      <AttachmentLastModified>2023-04-24T11:23:27.9264059+07:00</AttachmentLastModified>
+      <AttachmentIsUnsorted>true</AttachmentIsUnsorted>
     </cms_attachment>
     <cms_attachment>
       <AttachmentID>469</AttachmentID>
@@ -346,6 +378,20 @@
       <AttachmentGUID>ec60330a-46d8-47e1-b173-7240a54493ac</AttachmentGUID>
       <AttachmentSiteID>7</AttachmentSiteID>
       <AttachmentLastModified>2023-04-19T17:39:44.4658802+07:00</AttachmentLastModified>
+      <AttachmentIsUnsorted>true</AttachmentIsUnsorted>
+    </cms_attachment>
+    <cms_attachment>
+      <AttachmentID>487</AttachmentID>
+      <AttachmentName>1-(1).png</AttachmentName>
+      <AttachmentExtension>.png</AttachmentExtension>
+      <AttachmentSize>3333</AttachmentSize>
+      <AttachmentMimeType>image/png</AttachmentMimeType>
+      <AttachmentImageWidth>338</AttachmentImageWidth>
+      <AttachmentImageHeight>73</AttachmentImageHeight>
+      <AttachmentDocumentID>639</AttachmentDocumentID>
+      <AttachmentGUID>adbb33f2-102e-4e7e-944e-748830c190c1</AttachmentGUID>
+      <AttachmentSiteID>7</AttachmentSiteID>
+      <AttachmentLastModified>2023-04-24T11:40:29.0965289+07:00</AttachmentLastModified>
       <AttachmentIsUnsorted>true</AttachmentIsUnsorted>
     </cms_attachment>
     <cms_attachment>
@@ -433,30 +479,18 @@
       <AttachmentIsUnsorted>true</AttachmentIsUnsorted>
     </cms_attachment>
     <cms_attachment>
-      <AttachmentID>431</AttachmentID>
-      <AttachmentName>reference.jpg</AttachmentName>
-      <AttachmentExtension>.jpg</AttachmentExtension>
-      <AttachmentSize>117366</AttachmentSize>
-      <AttachmentMimeType>image/jpeg</AttachmentMimeType>
-      <AttachmentImageWidth>980</AttachmentImageWidth>
-      <AttachmentImageHeight>655</AttachmentImageHeight>
-      <AttachmentDocumentID>682</AttachmentDocumentID>
-      <AttachmentGUID>7686d9a0-624b-4e9d-a595-845b842f1491</AttachmentGUID>
-      <AttachmentSiteID>7</AttachmentSiteID>
-      <AttachmentLastModified>2020-11-25T00:55:36.1320591+07:00</AttachmentLastModified>
-    </cms_attachment>
-    <cms_attachment>
-      <AttachmentID>432</AttachmentID>
-      <AttachmentName>twitter-icon.png</AttachmentName>
-      <AttachmentExtension>.png</AttachmentExtension>
-      <AttachmentSize>1796</AttachmentSize>
+      <AttachmentID>480</AttachmentID>
+      <AttachmentName>imggggg.PNG</AttachmentName>
+      <AttachmentExtension>.PNG</AttachmentExtension>
+      <AttachmentSize>10218</AttachmentSize>
       <AttachmentMimeType>image/png</AttachmentMimeType>
-      <AttachmentImageWidth>45</AttachmentImageWidth>
-      <AttachmentImageHeight>45</AttachmentImageHeight>
-      <AttachmentDocumentID>684</AttachmentDocumentID>
-      <AttachmentGUID>9f8e8a99-73d6-4fff-94dc-889d70cc9fef</AttachmentGUID>
+      <AttachmentImageWidth>1330</AttachmentImageWidth>
+      <AttachmentImageHeight>326</AttachmentImageHeight>
+      <AttachmentDocumentID>647</AttachmentDocumentID>
+      <AttachmentGUID>e9849f07-8ac3-440f-91fe-86a27d887867</AttachmentGUID>
       <AttachmentSiteID>7</AttachmentSiteID>
-      <AttachmentLastModified>2020-11-25T00:55:36.1100511+07:00</AttachmentLastModified>
+      <AttachmentLastModified>2023-04-24T11:17:13.43748+07:00</AttachmentLastModified>
+      <AttachmentIsUnsorted>true</AttachmentIsUnsorted>
     </cms_attachment>
     <cms_attachment>
       <AttachmentID>433</AttachmentID>
@@ -473,7 +507,7 @@
       <AttachmentIsUnsorted>true</AttachmentIsUnsorted>
     </cms_attachment>
     <cms_attachment>
-      <AttachmentID>436</AttachmentID>
+      <AttachmentID>488</AttachmentID>
       <AttachmentName>The-Coffee-bean_tent-Card-_Email-MKT-(1).jpg</AttachmentName>
       <AttachmentExtension>.jpg</AttachmentExtension>
       <AttachmentSize>41576</AttachmentSize>
@@ -483,7 +517,7 @@
       <AttachmentDocumentID>643</AttachmentDocumentID>
       <AttachmentGUID>dcb316a5-ee6b-47c6-af6b-90ae887b5828</AttachmentGUID>
       <AttachmentSiteID>7</AttachmentSiteID>
-      <AttachmentLastModified>2023-04-17T18:12:26.24344+07:00</AttachmentLastModified>
+      <AttachmentLastModified>2023-04-24T11:42:19.9579579+07:00</AttachmentLastModified>
       <AttachmentIsUnsorted>true</AttachmentIsUnsorted>
     </cms_attachment>
     <cms_attachment>
@@ -585,32 +619,6 @@
       <AttachmentIsUnsorted>true</AttachmentIsUnsorted>
     </cms_attachment>
     <cms_attachment>
-      <AttachmentID>443</AttachmentID>
-      <AttachmentName>donate-with-us-1080px.jpg</AttachmentName>
-      <AttachmentExtension>.jpg</AttachmentExtension>
-      <AttachmentSize>133239</AttachmentSize>
-      <AttachmentMimeType>image/jpeg</AttachmentMimeType>
-      <AttachmentImageWidth>1000</AttachmentImageWidth>
-      <AttachmentImageHeight>667</AttachmentImageHeight>
-      <AttachmentDocumentID>650</AttachmentDocumentID>
-      <AttachmentGUID>ea85a534-840b-4303-bae1-ae17cfb61054</AttachmentGUID>
-      <AttachmentSiteID>7</AttachmentSiteID>
-      <AttachmentLastModified>2020-11-25T00:55:35.9010968+07:00</AttachmentLastModified>
-    </cms_attachment>
-    <cms_attachment>
-      <AttachmentID>444</AttachmentID>
-      <AttachmentName>la.png</AttachmentName>
-      <AttachmentExtension>.png</AttachmentExtension>
-      <AttachmentSize>834475</AttachmentSize>
-      <AttachmentMimeType>image/png</AttachmentMimeType>
-      <AttachmentImageWidth>860</AttachmentImageWidth>
-      <AttachmentImageHeight>826</AttachmentImageHeight>
-      <AttachmentDocumentID>606</AttachmentDocumentID>
-      <AttachmentGUID>603fdcc3-2259-49fa-a94f-ae46ae4fdf67</AttachmentGUID>
-      <AttachmentSiteID>7</AttachmentSiteID>
-      <AttachmentLastModified>2020-11-25T00:55:36.0482906+07:00</AttachmentLastModified>
-    </cms_attachment>
-    <cms_attachment>
       <AttachmentID>445</AttachmentID>
       <AttachmentName>MicrosoftTeams-image-(3).png</AttachmentName>
       <AttachmentExtension>.png</AttachmentExtension>
@@ -639,17 +647,17 @@
       <AttachmentIsUnsorted>true</AttachmentIsUnsorted>
     </cms_attachment>
     <cms_attachment>
-      <AttachmentID>448</AttachmentID>
-      <AttachmentName>CUNG-EXIMBANK-EDIGI-NAP-PHONE-PHUT-CHOC,-UU-DAI-CUC-SOC-GIAM-2-_Banner-web.jpg</AttachmentName>
-      <AttachmentExtension>.jpg</AttachmentExtension>
-      <AttachmentSize>43608</AttachmentSize>
-      <AttachmentMimeType>image/jpeg</AttachmentMimeType>
-      <AttachmentImageWidth>855</AttachmentImageWidth>
-      <AttachmentImageHeight>306</AttachmentImageHeight>
-      <AttachmentDocumentID>645</AttachmentDocumentID>
-      <AttachmentGUID>dfa23a66-4859-429d-a316-b3fd719cbe2a</AttachmentGUID>
+      <AttachmentID>482</AttachmentID>
+      <AttachmentName>tablee.PNG</AttachmentName>
+      <AttachmentExtension>.PNG</AttachmentExtension>
+      <AttachmentSize>10395</AttachmentSize>
+      <AttachmentMimeType>image/png</AttachmentMimeType>
+      <AttachmentImageWidth>1330</AttachmentImageWidth>
+      <AttachmentImageHeight>326</AttachmentImageHeight>
+      <AttachmentDocumentID>648</AttachmentDocumentID>
+      <AttachmentGUID>4b15950b-755b-494d-8e94-b400fc9b2dab</AttachmentGUID>
       <AttachmentSiteID>7</AttachmentSiteID>
-      <AttachmentLastModified>2023-04-17T18:12:20.6364235+07:00</AttachmentLastModified>
+      <AttachmentLastModified>2023-04-24T11:23:42.1139576+07:00</AttachmentLastModified>
       <AttachmentIsUnsorted>true</AttachmentIsUnsorted>
     </cms_attachment>
     <cms_attachment>
@@ -695,32 +703,6 @@
       <AttachmentIsUnsorted>true</AttachmentIsUnsorted>
     </cms_attachment>
     <cms_attachment>
-      <AttachmentID>453</AttachmentID>
-      <AttachmentName>newyork@2x.png</AttachmentName>
-      <AttachmentExtension>.png</AttachmentExtension>
-      <AttachmentSize>702002</AttachmentSize>
-      <AttachmentMimeType>image/png</AttachmentMimeType>
-      <AttachmentImageWidth>774</AttachmentImageWidth>
-      <AttachmentImageHeight>814</AttachmentImageHeight>
-      <AttachmentDocumentID>608</AttachmentDocumentID>
-      <AttachmentGUID>11823ef5-3325-4fc8-a8e6-cbfbcec7efc3</AttachmentGUID>
-      <AttachmentSiteID>7</AttachmentSiteID>
-      <AttachmentLastModified>2020-11-25T00:55:36.0704478+07:00</AttachmentLastModified>
-    </cms_attachment>
-    <cms_attachment>
-      <AttachmentID>455</AttachmentID>
-      <AttachmentName>chicago@2x.png</AttachmentName>
-      <AttachmentExtension>.png</AttachmentExtension>
-      <AttachmentSize>734407</AttachmentSize>
-      <AttachmentMimeType>image/png</AttachmentMimeType>
-      <AttachmentImageWidth>864</AttachmentImageWidth>
-      <AttachmentImageHeight>818</AttachmentImageHeight>
-      <AttachmentDocumentID>600</AttachmentDocumentID>
-      <AttachmentGUID>cc735cee-d4fe-495c-b63b-cd089b13944a</AttachmentGUID>
-      <AttachmentSiteID>7</AttachmentSiteID>
-      <AttachmentLastModified>2020-11-25T00:55:36.0252919+07:00</AttachmentLastModified>
-    </cms_attachment>
-    <cms_attachment>
       <AttachmentID>475</AttachmentID>
       <AttachmentName>Eva-Air_Email-MKT.jpg</AttachmentName>
       <AttachmentExtension>.jpg</AttachmentExtension>
@@ -749,32 +731,6 @@
       <AttachmentIsUnsorted>true</AttachmentIsUnsorted>
     </cms_attachment>
     <cms_attachment>
-      <AttachmentID>458</AttachmentID>
-      <AttachmentName>boston@2x.png</AttachmentName>
-      <AttachmentExtension>.png</AttachmentExtension>
-      <AttachmentSize>724189</AttachmentSize>
-      <AttachmentMimeType>image/png</AttachmentMimeType>
-      <AttachmentImageWidth>860</AttachmentImageWidth>
-      <AttachmentImageHeight>826</AttachmentImageHeight>
-      <AttachmentDocumentID>599</AttachmentDocumentID>
-      <AttachmentGUID>6a671d80-a90d-44cf-820c-d60188297f6c</AttachmentGUID>
-      <AttachmentSiteID>7</AttachmentSiteID>
-      <AttachmentLastModified>2020-11-25T00:55:36.0000001+07:00</AttachmentLastModified>
-    </cms_attachment>
-    <cms_attachment>
-      <AttachmentID>459</AttachmentID>
-      <AttachmentName>roaster.jpg</AttachmentName>
-      <AttachmentExtension>.jpg</AttachmentExtension>
-      <AttachmentSize>50240</AttachmentSize>
-      <AttachmentMimeType>image/jpeg</AttachmentMimeType>
-      <AttachmentImageWidth>600</AttachmentImageWidth>
-      <AttachmentImageHeight>457</AttachmentImageHeight>
-      <AttachmentDocumentID>588</AttachmentDocumentID>
-      <AttachmentGUID>407ae20b-45b9-4aef-9dff-df2dde46e229</AttachmentGUID>
-      <AttachmentSiteID>7</AttachmentSiteID>
-      <AttachmentLastModified>2020-11-25T00:55:35.8290994+07:00</AttachmentLastModified>
-    </cms_attachment>
-    <cms_attachment>
       <AttachmentID>460</AttachmentID>
       <AttachmentName>Annotation-2023-04-18-111705-(2).png</AttachmentName>
       <AttachmentExtension>.png</AttachmentExtension>
@@ -801,20 +757,6 @@
       <AttachmentSiteID>7</AttachmentSiteID>
       <AttachmentLastModified>2023-04-19T17:39:44.4708645+07:00</AttachmentLastModified>
       <AttachmentIsUnsorted>true</AttachmentIsUnsorted>
-    </cms_attachment>
-    <cms_attachment>
-      <AttachmentID>462</AttachmentID>
-      <AttachmentName>facebook-icon.png</AttachmentName>
-      <AttachmentExtension>.png</AttachmentExtension>
-      <AttachmentSize>1643</AttachmentSize>
-      <AttachmentMimeType>image/png</AttachmentMimeType>
-      <AttachmentImageWidth>45</AttachmentImageWidth>
-      <AttachmentImageHeight>45</AttachmentImageHeight>
-      <AttachmentDocumentID>683</AttachmentDocumentID>
-      <AttachmentGUID>0059c398-c84b-414a-86c9-e86b84697c3d</AttachmentGUID>
-      <AttachmentSiteID>7</AttachmentSiteID>
-      <AttachmentLastModified>2020-11-25T00:55:36.0961167+07:00</AttachmentLastModified>
-      <AttachmentOrder>1</AttachmentOrder>
     </cms_attachment>
     <cms_attachment>
       <AttachmentID>463</AttachmentID>
@@ -858,19 +800,6 @@
       <AttachmentLastModified>2023-04-18T11:47:18.5824048+07:00</AttachmentLastModified>
       <AttachmentIsUnsorted>true</AttachmentIsUnsorted>
       <AttachmentOrder>1</AttachmentOrder>
-    </cms_attachment>
-    <cms_attachment>
-      <AttachmentID>474</AttachmentID>
-      <AttachmentName>nangtam.jpg</AttachmentName>
-      <AttachmentExtension>.jpg</AttachmentExtension>
-      <AttachmentSize>28835</AttachmentSize>
-      <AttachmentMimeType>image/jpeg</AttachmentMimeType>
-      <AttachmentImageWidth>440</AttachmentImageWidth>
-      <AttachmentImageHeight>291</AttachmentImageHeight>
-      <AttachmentDocumentID>644</AttachmentDocumentID>
-      <AttachmentGUID>3b99af0b-0b8a-488f-9a81-f8cc0f71c8f7</AttachmentGUID>
-      <AttachmentSiteID>7</AttachmentSiteID>
-      <AttachmentLastModified>2023-04-21T16:11:58.9062207+07:00</AttachmentLastModified>
     </cms_attachment>
   </NewDataSet>
 </cms_attachment>

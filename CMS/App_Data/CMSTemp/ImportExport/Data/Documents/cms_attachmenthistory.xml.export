@@ -1,65 +1,6 @@
 ﻿<cms_attachmenthistory version="13.0">
   <NewDataSet>
     <cms_attachmenthistory>
-      <AttachmentHistoryID>93</AttachmentHistoryID>
-      <AttachmentName>The-Coffee-bean_tent-Card-_Email-MKT.jpg</AttachmentName>
-      <AttachmentExtension>.jpg</AttachmentExtension>
-      <AttachmentSize>41576</AttachmentSize>
-      <AttachmentMimeType>image/jpeg</AttachmentMimeType>
-      <AttachmentImageWidth>424</AttachmentImageWidth>
-      <AttachmentImageHeight>600</AttachmentImageHeight>
-      <AttachmentDocumentID>643</AttachmentDocumentID>
-      <AttachmentGUID>066e6e51-cb87-4617-a4f0-bf127f407c3b</AttachmentGUID>
-      <AttachmentLastModified>2023-04-17T18:05:35.1177484+07:00</AttachmentLastModified>
-      <AttachmentHistoryGUID>47e08f59-ce92-4472-892a-1267d3b2f550</AttachmentHistoryGUID>
-      <AttachmentSiteID>7</AttachmentSiteID>
-    </cms_attachmenthistory>
-    <cms_attachmenthistory>
-      <AttachmentHistoryID>97</AttachmentHistoryID>
-      <AttachmentName>CUNG-EXIMBANK-EDIGI-NAP-PHONE-PHUT-CHOC,-UU-DAI-CUC-SOC-GIAM-2-_Banner-web.jpg</AttachmentName>
-      <AttachmentExtension>.jpg</AttachmentExtension>
-      <AttachmentSize>43608</AttachmentSize>
-      <AttachmentMimeType>image/jpeg</AttachmentMimeType>
-      <AttachmentImageWidth>855</AttachmentImageWidth>
-      <AttachmentImageHeight>306</AttachmentImageHeight>
-      <AttachmentDocumentID>645</AttachmentDocumentID>
-      <AttachmentGUID>dfa23a66-4859-429d-a316-b3fd719cbe2a</AttachmentGUID>
-      <AttachmentIsUnsorted>true</AttachmentIsUnsorted>
-      <AttachmentLastModified>2023-04-17T18:12:08.0542843+07:00</AttachmentLastModified>
-      <AttachmentHistoryGUID>51b79cf4-b534-4a4a-8a74-4cf12bbf301b</AttachmentHistoryGUID>
-      <AttachmentSiteID>7</AttachmentSiteID>
-    </cms_attachmenthistory>
-    <cms_attachmenthistory>
-      <AttachmentHistoryID>99</AttachmentHistoryID>
-      <AttachmentName>The-Coffee-bean_tent-Card-_Email-MKT-(1).jpg</AttachmentName>
-      <AttachmentExtension>.jpg</AttachmentExtension>
-      <AttachmentSize>41576</AttachmentSize>
-      <AttachmentMimeType>image/jpeg</AttachmentMimeType>
-      <AttachmentImageWidth>424</AttachmentImageWidth>
-      <AttachmentImageHeight>600</AttachmentImageHeight>
-      <AttachmentDocumentID>643</AttachmentDocumentID>
-      <AttachmentGUID>dcb316a5-ee6b-47c6-af6b-90ae887b5828</AttachmentGUID>
-      <AttachmentIsUnsorted>true</AttachmentIsUnsorted>
-      <AttachmentLastModified>2023-04-17T18:05:27.7253706+07:00</AttachmentLastModified>
-      <AttachmentHistoryGUID>35692df7-5a28-4570-8bcf-67f90d70bc60</AttachmentHistoryGUID>
-      <AttachmentSiteID>7</AttachmentSiteID>
-    </cms_attachmenthistory>
-    <cms_attachmenthistory>
-      <AttachmentHistoryID>103</AttachmentHistoryID>
-      <AttachmentName>Email-MKT.png</AttachmentName>
-      <AttachmentExtension>.png</AttachmentExtension>
-      <AttachmentSize>41717</AttachmentSize>
-      <AttachmentMimeType>image/png</AttachmentMimeType>
-      <AttachmentImageWidth>125</AttachmentImageWidth>
-      <AttachmentImageHeight>187</AttachmentImageHeight>
-      <AttachmentDocumentID>642</AttachmentDocumentID>
-      <AttachmentGUID>673e0dc5-adcc-4315-8ed1-66b0c18b681a</AttachmentGUID>
-      <AttachmentIsUnsorted>true</AttachmentIsUnsorted>
-      <AttachmentLastModified>2023-04-17T18:09:59.3850632+07:00</AttachmentLastModified>
-      <AttachmentHistoryGUID>1e245139-690d-4017-b8d9-f38d9801587b</AttachmentHistoryGUID>
-      <AttachmentSiteID>7</AttachmentSiteID>
-    </cms_attachmenthistory>
-    <cms_attachmenthistory>
       <AttachmentHistoryID>104</AttachmentHistoryID>
       <AttachmentName>2023-04-05_eKYC_Banner-web.jpg</AttachmentName>
       <AttachmentExtension>.jpg</AttachmentExtension>
@@ -74,46 +15,6 @@
       <AttachmentHistoryGUID>8795f867-e2f8-4655-b989-f4e32953c429</AttachmentHistoryGUID>
       <AttachmentSiteID>7</AttachmentSiteID>
     </cms_attachmenthistory>
-    <cms_versionattachment>
-      <VersionHistoryID>277</VersionHistoryID>
-      <AttachmentHistoryID>93</AttachmentHistoryID>
-    </cms_versionattachment>
-    <cms_versionattachment>
-      <VersionHistoryID>278</VersionHistoryID>
-      <AttachmentHistoryID>93</AttachmentHistoryID>
-    </cms_versionattachment>
-    <cms_versionattachment>
-      <VersionHistoryID>293</VersionHistoryID>
-      <AttachmentHistoryID>97</AttachmentHistoryID>
-    </cms_versionattachment>
-    <cms_versionattachment>
-      <VersionHistoryID>294</VersionHistoryID>
-      <AttachmentHistoryID>97</AttachmentHistoryID>
-    </cms_versionattachment>
-    <cms_versionattachment>
-      <VersionHistoryID>278</VersionHistoryID>
-      <AttachmentHistoryID>99</AttachmentHistoryID>
-    </cms_versionattachment>
-    <cms_versionattachment>
-      <VersionHistoryID>279</VersionHistoryID>
-      <AttachmentHistoryID>99</AttachmentHistoryID>
-    </cms_versionattachment>
-    <cms_versionattachment>
-      <VersionHistoryID>280</VersionHistoryID>
-      <AttachmentHistoryID>99</AttachmentHistoryID>
-    </cms_versionattachment>
-    <cms_versionattachment>
-      <VersionHistoryID>291</VersionHistoryID>
-      <AttachmentHistoryID>103</AttachmentHistoryID>
-    </cms_versionattachment>
-    <cms_versionattachment>
-      <VersionHistoryID>292</VersionHistoryID>
-      <AttachmentHistoryID>103</AttachmentHistoryID>
-    </cms_versionattachment>
-    <cms_versionattachment>
-      <VersionHistoryID>297</VersionHistoryID>
-      <AttachmentHistoryID>103</AttachmentHistoryID>
-    </cms_versionattachment>
     <cms_versionattachment>
       <VersionHistoryID>264</VersionHistoryID>
       <AttachmentHistoryID>104</AttachmentHistoryID>

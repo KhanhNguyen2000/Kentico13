@@ -1,0 +1,32 @@
+﻿<bizform_bizform_service_quality_assessment_survey4 version="13.0">
+  <NewDataSet>
+    <form_dancinggoatcore_servicequalityassessmentsurvey_4>
+      <service_quality_assessment_surveyID>1</service_quality_assessment_surveyID>
+      <FormInserted>2023-04-24T17:18:39.5405298+07:00</FormInserted>
+      <FormUpdated>2023-04-24T17:18:39.5407851+07:00</FormUpdated>
+      <customer_type>Doanh nghiệp</customer_type>
+      <customer_name>Phiếu đánh giá</customer_name>
+      <phone_number>0374805317</phone_number>
+      <email>nguyen.khanh@hitachivantara.com</email>
+      <time_used>2~3 năm</time_used>
+      <saving>Rất hài lòng</saving>
+      <card_service>Rất hài lòng</card_service>
+      <test_service>Rất hài lòng</test_service>
+      <study_abroad_service>Rất hài lòng</study_abroad_service>
+      <e_bankinng>Rất hài lòng</e_bankinng>
+      <credit>Rất hài lòng</credit>
+      <international_payment>Rất hài lòng</international_payment>
+      <money_deposit>Rất hài lòng</money_deposit>
+      <exchange_transactions>Rất hài lòng</exchange_transactions>
+      <nice_attitude>Rất hài lòng</nice_attitude>
+      <professional_service>Rất hài lòng</professional_service>
+      <fast_time_service>Rất hài lòng</fast_time_service>
+      <nice_space>Rất hài lòng</nice_space>
+      <nice_guard>Rất hài lòng</nice_guard>
+      <simple_procedure>Rất hài lòng</simple_procedure>
+      <attentive_customer_service>Rất hài lòng</attentive_customer_service>
+      <easy_use_interface>Rất hài lòng</easy_use_interface>
+      <overrall_rating>Bình thường</overrall_rating>
+    </form_dancinggoatcore_servicequalityassessmentsurvey_4>
+  </NewDataSet>
+</bizform_bizform_service_quality_assessment_survey4>
