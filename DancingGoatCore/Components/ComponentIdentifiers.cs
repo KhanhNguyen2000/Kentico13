@@ -7,6 +7,9 @@
     {
         // Widgets
         public const string CTA_BUTTON_WIDGET = "DancingGoat.General.CTAButtonWidget";
+        //my widgets
+        public const string MY_CTA_BUTTON_WIDGET = "DancingGoat.General.MyCTAButtonWidget";
+
         public const string TESTIMONIAL_WIDGET = "DancingGoat.LandingPage.TestimonialWidget";
 
         // Sections
@@ -15,6 +18,9 @@
         public const string THREE_COLUMN_SECTION = "DancingGoat.ThreeColumnSection";
         public const string SECTION_75_25 = "DancingGoat.Section_75_25";
         public const string SECTION_25_75 = "DancingGoat.Section_25_75";
+
+        public const string SECTION_30_30_30_30 = "DancingGoat.Section_30_30_30_30";
+
 
         // Page templates
         public const string LANDING_PAGE_SINGLE_COLUMN_TEMPLATE = "DancingGoat.LandingPageSingleColumn";

@@ -28,10 +28,12 @@
     @Html.Kentico().PageTitle(ViewBag.Title as string)
     <link rel="icon" href="~/content/images/logo.jpg"/>
     <link href="~/Content/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/Styles/Custom.css" rel="stylesheet" type="text/css" />
     <link rel="canonical" href="@Url.Kentico().PageCanonicalUrl()" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     @RenderSection("styles", required: false)
     @Html.Kentico().ABTestLoggerScript()
     @Html.Kentico().ActivityLoggingScript()
@@ -43,15 +45,39 @@
         <vc:tracking-consent />
         <header data-ktc-search-exclude>
             <nav class="navigation container">
+                <div class="nav-item">
+                    <div class="phone-in-talk">
+                        <i class="fa-solid fa-phone-volume"></i>
+                        <span>18001199</span>
+                    </div>
+                    <div class="localtion-on">
+                        <i class="fa-solid fa-location-dot"></i>
+                        <span>ATM và Địa điểm giao dịch</span>
+                    </div>
+                    <div class="search-icon">
+                        <i class="fa-solid fa-magnifying-glass"></i>
+                    </div>
+                </div>
                 <div class="nav-logo">
                     <div class="logo-wrapper">
                         <a href="@Url.Kentico().PageUrl(ContentItemIdentifiers.HOME)" class="logo-link">
-                            <img class="logo-image" alt="Eximbank logo" src="~/Content/Images/logo.png" />
+                            <img class="logo-image" alt="Eximbank logo" src="~/Content/Images/1.png" />
                         </a>
                     </div>
                 </div>
-                <vc:navigation footer-navigation="false" />
-                <ul class="additional-menu">
+                <div class="nav-right">
+                    <div class="btn-login">
+                        <button class="btn btn-primary btn-lg">ĐĂNG NHẬP EXIMBANK EDIGI <i class="fa-solid fa-arrow-up rotate-45"></i></button>
+                    </div>
+                    <div class="nav-right-toggle btn-menu">
+                      
+                        <i class="fa-solid fa-bars"></i>
+                        
+                    </div>
+                </div>
+
+                @*<vc:navigation footer-navigation="false" />*@
+                @*<ul class="additional-menu">
                     <li class="search-menu-item">
                         <form asp-action="Index" asp-controller="Search" method="get" class="searchBox">
                             <input name="searchtext" type="text" placeholder="@HtmlLocalizer["TÌM KIẾM"]" autocomplete="off" />
@@ -103,16 +129,31 @@
                             <span class="icon-bar"></span>
                         </div>
                     </li>
-                </ul>
+                </ul>*@
             </nav>
-            <div class="search-mobile">
+            @*<div class="search-mobile">
                 <form asp-action="Index" asp-controller="Search" method="get" class="searchBox">
                     <input name="searchtext" type="text" placeholder="@HtmlLocalizer["TÌM KIẾM"]" autocomplete="off" />
                     <input type="submit" value="" class="search-box-btn" />
                 </form>
-            </div>
+            </div>*@
         </header>
-        <div class="container-fluid">
+
+        <div class="page-menu">
+            <div class="row btn-menu">
+                <div class="select-btn">
+                    <button class="btn btn-khcn btn-menu-customer">KHÁCH HÀNG CÁ NHÂN</button>
+                    <button class="btn btn-khdn">KHÁCH HÀNG DOANH NGHIỆP</button>
+                </div>
+            </div>
+            <div class="row lst-item-menu">
+
+                <vc:navigation footer-navigation="false" />
+            </div>
+             
+        </div>
+
+        <div class="container">
             <div class="page-container-inner">
                 @RenderBody()
 
@@ -120,11 +161,140 @@
             </div>
         </div>
     </div>
+
     <div class="footer-wrapper">
         <footer data-ktc-search-exclude>
             <div class="footer-container">
                 <div class="container">
                     <div class="row">
+                        <div class="col-md-6">
+                            <img src="~/Content/Images/logo.png" class="logo-footer" />
+                        </div>
+                        <div class="col-md-6">
+                            <div class="col-md-4 footer-contact">
+                                <div class="num-hl">18001199</div>
+                                <div class="contact-title">HOTLINE 24/7</div>
+                            </div>
+                            <div class="col-md-4 footer-contact">
+                                <i class="fa-solid fa-location-dot icon-location"></i>
+                                <div class="contact-title">ATM và điểm giao dịch</div>
+                            </div>
+                            <div class="col-md-4 footer-contact">
+                                <i class="fa-regular fa-circle-question icon-question"></i>
+                                <div class="contact-title">ATM và điểm giao dịch</div>
+                            </div>
+                        </div>
+
+                    
+                    </div>
+                    <hr />
+                    <div class="row menu-footer">
+                        <div class="col-md-2 footer-menu">
+                            <div class="title-menu">
+                                <h3>Gửi tiền</h3>
+                            </div>
+                            <div class="detail-menu">
+                                <a>Sản phẩm tiết kiệm</a>
+                                <a>Sản phẩm tài khoản</a>
+                                <a>Quy định về gửi tiền</a>
+                                <a>Ưu đãi tài khoản</a>
+                                <a>Ưu đãi tiết kiệm</a>
+                            </div>
+                        </div>
+                        <div class="col-md-2 footer-menu">
+                            <div class="title-menu">
+                                <h3>Vay tiền</h3>
+                            </div>
+                            <div class="detail-menu">
+                                <a>Vay mua bất động sản</a>
+                                <a>Vay mua ô tô</a>
+                                <a>Vay sản xuất kinh doanh</a>
+                                <a>Vay tiêu dùng</a>
+                                <a>Sản phẩm vay khác</a>
+                            </div>
+                        </div>
+                        <div class="col-md-2 footer-menu">
+                            <div class="title-menu">
+                                <h3>Thẻ</h3>
+                            </div>
+                            <div class="detail-menu">
+                                <a>Thẻ thanh toán</a>
+                                <a>Thẻ tín dụng</a>
+                                <a>Đơn vị chấp nhận thẻ</a>
+                                <a>Tiện ích thẻ</a>
+                                <a>Ưu đãi và khuyến mãi</a>
+                                <a>Khác</a>
+                            </div>
+                        </div>
+                        <div class="col-md-2 footer-menu">
+                            <div class="title-menu">
+                                <h3>Bảo hiểm</h3>
+                            </div>
+                            <div class="detail-menu">
+                                <a>Vita sống thịnh vượng</a>
+                                <a>Vita lá chắn vàng</a>
+                                <a>Vita đầu tư như ý</a>
+                                <a>Bảo hiểm du lịch</a>
+                                <a>Bảo hiểm tai nạn</a>
+                                <a>Bảo hiểm sức khỏe</a>
+                            </div>
+                        </div>
+                        <div class="col-md-2 footer-menu">
+                            <div class="title-menu">
+                                <h3>Chuyển & nhận tiền</h3>
+                            </div>
+                            <div class="detail-menu">
+                                <a>Chuyển tiền nước ngoài</a>
+                                <a>Chuyển tiền trong nước</a>
+                                <a>Nhận tiền nước ngoài</a>
+                                <a>Nhận tiền trong nước</a>
+                            </div>
+                        </div>
+                        <div class="col-md-2 footer-menu">
+                            <div class="title-menu">
+                                <h3>Ngoại hối và vàng</h3>
+                            </div>
+                            <div class="detail-menu">
+                                <a>Giao dịch ngoại hối</a>
+                                <a>Sản phẩm vàng</a>
+                            </div>
+                        </div>
+                    </div>
+                    <hr />
+                    <div class="row">
+                        <div class="col-md-10 nav-footer">
+                            <div>Khách hàng Nhật Bản</div>
+                            <div>Loyalty</div>
+                            <div>Dịch vụ khác</div>
+                            <div>Về chúng tôi</div>
+                            <div>Biểu phí</div>
+                            <div>Tuyển dụng</div>
+                            <div>Liên hệ</div>
+                            <div>An toàn, bảo mật</div>
+                        </div>
+                        <div class="col-md-2 icon-network">
+                            <div><i class="fa-brands fa-facebook-f"></i></div>
+                            <div><i class="fa-brands fa-twitter"></i></div>
+                        </div>
+                    </div>
+                    <hr />
+                    <div class="row cpr">
+                        <div class="col-md-6 info">
+                            <i class="fa-regular fa-copyright"></i> 2023 Ngân hàng thương mại cổ phần Xuất Nhập khẩu Việt Nam
+                        </div>
+                        <div class="col-md-6 language">
+                            <img src="~/Content/Images/vietnamflag.png" />
+                            <select name="language" id="language">
+                                <option>Vietnam</option>
+                                <option>English</option>
+                            </select>
+                            
+                        </div>
+                      
+                    </div>
+
+
+                    @*<div class="row">
                         <div class="col-md-4 col-lg-4 col-xl-4">
                             <div class="cl-bluelight "><img src="~/Content/Images/hotline.png" alt="" class="footer-icon mh-20px"> Hotline 24/7</div>
                             <div class="cl-bluedark hotline"><a href="tel:1800 1199">1800 1199</a></div>
@@ -183,11 +353,12 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div>*@
                 </div>
             </div>
         </footer>
-        <div id="footer_site" class="footer-col px-3 py-3"></div>
+        @*<div id="footer_site" class="footer-col px-3 py-3">
+        </div>*@
     </div>
 
     <script src="~/Scripts/jquery-3.5.1.min.js"></script>
@@ -196,6 +367,7 @@
     <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
     <script src="~/Scripts/responsiveMenuDropdown.js"></script>
     <script src="~/Scripts/mobileMenu.js"></script>
+    <script src="~/Scripts/menu.js"></script>
     <page-builder-scripts />
 
     @RenderSection("scripts", required: false)

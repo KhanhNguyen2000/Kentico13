@@ -11,11 +11,16 @@ namespace DancingGoat.Models
 
         public string Url { get; set; }
 
+        public string Parent { get; set; }
+        
+        public bool ShowInMenu { get; set; }
 
         public static MenuItemViewModel GetViewModel(TreeNode menuItem, IPageUrlRetriever pageUrlRetriever)
         {
             return new MenuItemViewModel
             {
+                Parent = menuItem.Parent.DocumentName,
+                ShowInMenu = menuItem.Parent.DocumentShowInMenu,
                 Caption = menuItem.DocumentName,
                 Url = pageUrlRetriever.Retrieve(menuItem).RelativePath
             };

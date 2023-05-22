@@ -2,11 +2,48 @@
 
 @model IEnumerable<MenuItemViewModel>
 
-<ul class="nav-menu">
+
+@{
+    HashSet<String> termsList = new HashSet<String>();
+    int count = 0;
+}
+@foreach (var menuItem in Model)
+{
+    @if (menuItem.ShowInMenu == true)
+    {
+        termsList.Add(menuItem.Parent);
+        count += 1;
+    }
+}
+
+@foreach (var parent in termsList)
+{
+    <div>
+    <strong>@parent</strong>
+    <ul class="nav-menu">
     @foreach (var menuItem in Model)
     {
-        <li>
-            <a href="@menuItem.Url">@HtmlLocalizer[menuItem.Caption]</a>
-        </li>
+        if (parent == menuItem.Parent)
+        {
+            <li>
+                <a href="@menuItem.Url">@HtmlLocalizer[menuItem.Caption]</a>
+            </li>
+        }
     }
-</ul>
+    </ul>
+    </div>
+}
+
+
+
+
+@*<ul class="nav-menu">
+   
+    @foreach (var menuItem in Model)
+    {
+            <li>
+                <a href="@menuItem.Url">@HtmlLocalizer[menuItem.Caption]</a>
+            </li>
+        } 
+    }
+</ul>*@
