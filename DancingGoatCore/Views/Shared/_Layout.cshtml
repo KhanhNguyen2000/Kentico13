@@ -48,7 +48,6 @@
                 <div class="nav-item">
                     <div class="phone-in-talk">
                         <i class="fa-solid fa-phone-volume"></i>
-                        <span>18001199</span>
                     </div>
                     <div class="localtion-on">
                         <i class="fa-solid fa-location-dot"></i>
@@ -69,10 +68,11 @@
                     <div class="btn-login">
                         <button class="btn btn-primary btn-lg">ĐĂNG NHẬP EXIMBANK EDIGI <i class="fa-solid fa-arrow-up rotate-45"></i></button>
                     </div>
-                    <div class="nav-right-toggle btn-menu">
-                      
+                    <div class="nav-right-toggle btn-toggle">
                         <i class="fa-solid fa-bars"></i>
-                        
+                    </div>
+                    <div class="nav-right-toggle btn-exit">
+                        <i class="fa-solid fa-xmark"></i>
                     </div>
                 </div>
 
@@ -141,19 +141,45 @@
 
         <div class="page-menu">
             <div class="row btn-menu">
-                <div class="select-btn">
+                <div class="col-md-4 hr"><hr /></div>
+                <div class="col-md-4 select-btn">
                     <button class="btn btn-khcn btn-menu-customer">KHÁCH HÀNG CÁ NHÂN</button>
                     <button class="btn btn-khdn">KHÁCH HÀNG DOANH NGHIỆP</button>
                 </div>
-            </div>
-            <div class="row lst-item-menu">
+                <div class="col-md-4 hr"><hr /></div>
 
-                <vc:navigation footer-navigation="false" />
+            </div>
+            <div class="row lst-item-menu menu-customer-business">
+                <vc:navigation footer-navigation="false" flag="false" />
+            </div>
+            <div class="row lst-item-menu menu-customer-personal">
+                <vc:navigation footer-navigation="false" flag="true" />
+            </div>
+            <hr />
+            <div class="row">
+                <div class="col-md-9 dv-kh">
+                    <div>Loyalty</div>
+                    <div>Khách hàng Nhật Bản</div>
+                    <div>Dịch vụ khác</div>
+                    <div>An toàn, bảo mật</div>
+                </div>
+                
+                <div class="col-md-3 info-bank">
+                    <div><i class="fa-brands fa-facebook-f"></i></div>
+                    <div><i class="fa-brands fa-twitter"></i></div>
+                    <div class="select-language">
+                        <img src="~/Content/Images/vietnamflag.png" />
+                        <select name="language" id="language">
+                            <option>Vietnam</option>
+                            <option>English</option>
+                        </select>
+                    </div>
+                </div>
             </div>
              
         </div>
 
-        <div class="container">
+        <div class="">
             <div class="page-container-inner">
                 @RenderBody()
 
